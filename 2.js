@@ -1,6 +1,6 @@
-const sheetId = '1xXzhwZesegYGRXn_YRmfqHuSmJQcIFSIXp6uHeacius';
+const sheetId = '1378-w6EsdCVsaU6xkx9voDxWOF2eNBywt5HHkrVKs_4';
 const base = `https://docs.google.com/spreadsheets/d/${sheetId}/gviz/tq?`;
-const sheetName = 'user-data';
+const sheetName = 'Archive_ziro';
 const query = encodeURIComponent('Select *')
 const url = `${base}&sheet=${sheetName}&tq=${query}`
 const data = []
@@ -98,7 +98,7 @@ function processRows(json) {
                     keys.forEach((key, index) => {
                         const td = document.createElement('td');
                         // Check if it's the third column and create a link if it's a URL
-                        if (index === 2 && isURL(row[key])) {
+                        if (index === 3 && isURL(row[key])) {
                             const link = document.createElement('a');
                             link.href = row[key];
                             link.textContent = row[key];

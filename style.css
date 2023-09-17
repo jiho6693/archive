@@ -1,6 +1,7 @@
 body{
     margin-top: 2%;
-    font-size: 5rem;
+    font-size: 20rem;
+    background-color: rgba(254, 254, 254, 0.2);
    
 }
 
@@ -10,6 +11,7 @@ a:link, a:visited, a:hover, a:active  {
     color: black;
     background-color: none;
   }
+
 
 
 
@@ -39,7 +41,7 @@ margin: 5%;
   padding: 8px;
 } */
 /* table tr:nth-child(even){background-color: #f2f2f2;} */
-table tr:hover {background-color: #0022ff;}
+table tr:hover {background-color: #00c8ff;}
 
 /* table th {
   padding-top: 12px;
