@@ -68,20 +68,20 @@ function isURL(str) {
   return pattern.test(str);
 }
 
-// Function to show the image tooltip
-function showImageTooltip(url) {
-  const tooltip = document.querySelector('.tooltip');
-  const image = document.createElement('img');
-  image.src = url;
-  tooltip.innerHTML = '';
-  tooltip.appendChild(image);
-  tooltip.style.display = 'block';
-}
+// // Function to show the image tooltip
+// function showImageTooltip(url) {
+//   const tooltip = document.querySelector('.tooltip');
+//   const image = document.createElement('img');
+//   image.src = url;
+//   tooltip.innerHTML = '';
+//   tooltip.appendChild(image);
+//   tooltip.style.display = 'block';
+// }
 
-// Function to hide the tooltip
-function hideTooltip() {
-  const tooltip = document.querySelector('.tooltip');
-  tooltip.style.display = 'none';
-}
+// // Function to hide the tooltip
+// function hideTooltip() {
+//   const tooltip = document.querySelector('.tooltip');
+//   tooltip.style.display = 'none';
+// }
 
 
