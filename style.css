@@ -1,6 +1,30 @@
+
+
+
+ 
+body::-webkit-scrollbar {
+    width: 30px; 
+    position: absolute;
+    left:0; 
+
+}
+
+   
+  /* Handle */
+body::-webkit-scrollbar-thumb {
+    background: #1e88f1; 
+    border-radius: 50px;
+    border: 3px solid #ffffff;
+
+  }
+
+
+
 body{
     margin-top: 2%;
     background-color: rgba(254, 254, 254, 0.2);
+    overflow-x:hidden;
+    
    
 }
 
@@ -29,7 +53,7 @@ a:link, a:visited, a:hover, a:active  {
 table {
 margin: 5%;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
 
   border-collapse: collapse;
   width: 100%;
