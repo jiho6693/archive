@@ -71,6 +71,8 @@ function processRows(json) {
     // Initial display (show all rows)
     displayAllRows();
 
+    
+
     // Handle Enter key press
     searchInput.addEventListener('keydown', (event) => {
         if (event.key === 'Enter') {
@@ -114,6 +116,9 @@ function processRows(json) {
         }
     });
 }
+
+
+
 
 // Function to check if a string is a valid URL
 function isURL(str) {

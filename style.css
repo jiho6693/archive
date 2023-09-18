@@ -1,76 +1,60 @@
-
-
-
- 
-body::-webkit-scrollbar {
-    width: 30px; 
-    position: absolute;
-    left:0; 
-
+body {
+  margin-top: 2%;
+  background-color: rgba(254, 254, 254, 0.2);
+  overflow-x: hidden;
+  overflow-y: overlay;
 }
 
-   
-  /* Handle */
-body::-webkit-scrollbar-thumb {
-    background: #1e88f1; 
-    border-radius: 50px;
-    border: 3px solid #ffffff;
+::-webkit-scrollbar {
+  width: 20px;
+}
 
-  }
-
-
-
-body{
-    margin-top: 2%;
-    background-color: rgba(254, 254, 254, 0.2);
-    overflow-x:hidden;
-    
-   
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(transparent, #3800d1);
+  border-radius: 6px;
+  border-radius: 20px;
 }
 
 
-a:link, a:visited, a:hover, a:active  {
-    text-decoration: none;
-    color: black;
-    background-color: none;
-  }
 
 
 
 
-
-.search input{
-    margin-top: -3%;
-    height: 3%;
-    width: 80%;
-   
-    position: fixed;
-    right: 10%
-    
-
+/* 링크 스타일을 설정합니다. */
+a:link, a:visited, a:active {
+  text-decoration: none;
+  color: black;
+  background-color: none;
 }
 
+
+
+/* 검색 input 스타일을 설정합니다. */
+.search input {
+  margin-top: -3%;
+  height: 3%;
+  width: 80%;
+  position: fixed;
+  right: 10%;
+}
+
+/* 테이블 스타일을 설정합니다. */
 table {
-margin: 5%;
+  margin: 4% 0;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 1.3rem;
-
+  font-size: 1.1rem;
+  border-spacing: 500px; /* 테이블 열 간격을 10px로 설정합니다. */
   border-collapse: collapse;
-  width: 100%;
+  width: 100% nowrap;
+  
+  
 }
 
-/* table td, table th {
-  border: 1px solid 
-  #ddd;
-  padding: 8px;
-} */
-/* table tr:nth-child(even){background-color: #f2f2f2;} */
-table tr:hover {background-color: #00c8ff;}
 
-/* table th {
-  padding-top: 12px;
-  padding-bottom: 12px;
-  text-align: left;
-  background-color: #ff7b00;
-  color: white;
-} */
+/* 테이블 행에 호버 효과를 추가합니다. */
+
+table tr:hover {
+  color: #3800d1;
+  background-color: transparent/* 배경색을 투명으로 유지합니다. */
+}
+
