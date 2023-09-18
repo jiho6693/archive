@@ -1,6 +1,6 @@
 body {
   margin-top: 2%;
-  background-color: rgba(254, 254, 254, 0.2);
+  background-color: rgba(255, 255, 255, 0.2);
   overflow-x: hidden;
   overflow-y: overlay;
 }
@@ -31,6 +31,7 @@ a:link, a:visited, a:active {
 
 /* 검색 input 스타일을 설정합니다. */
 .search input {
+
   margin-top: -3%;
   height: 3%;
   width: 80%;
