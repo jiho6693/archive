@@ -137,6 +137,9 @@ function processRows(json) {
                     const tr = document.createElement('tr');
                     keys.forEach((key, index) => {
                         const td = document.createElement('td');
+
+                        
+
                         // Check if it's the third column and create a link if it's a URL
                         if (index === 2 && isURL(row[key])) {
                             const link = document.createElement('a');

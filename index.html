@@ -10,13 +10,17 @@
   <p>This is the current page content.</p>
 </div>
 
+<script src="p5.js"></script>
+<!-- 웹에 공유되어있는 라이브러리 불러오기 -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.7.0/p5.min.js"></script>
+
 <script>
   // 5초 후에 다른 페이지로 이동하는 함수
   function redirectToAnotherPage() {
     setTimeout(function() {
       // 여기서 이동할 페이지의 URL을 지정합니다.
       window.location.href = 'home.html';
-    }, 1000); // 5000 밀리초 (5초) 후에 이동합니다.
+    }, 5000); // 5000 밀리초 (5초) 후에 이동합니다.
   }
 
   // 페이지가 로드될 때 함수를 호출하여 5초 후에 이동합니다.
