@@ -6,46 +6,49 @@ body {
   overflow-y: overlay;
 }
 
-::-webkit-scrollbar {
-  width: 40px;
+tr.highlighted-row {
+    /* background-color: #eb7ed5, 0.7; */
+    /* font-weight: bold;  */
+    filter: blur(0.8px);
+    /* color: #9a6a03; */
+    box-shadow: -100px 0 8px  rgba(37, 0, 147, 0.5);
+    border-radius: 3px;
+    /* 다른 스타일 변경을 원하면 여기에 추가할 수 있습니다 */
 }
-
-::-webkit-scrollbar-thumb {
-  background: linear-gradient(transparent,violet);
-  border-radius: 20px;
-}
-
-/* #3800d1 */
-
-
 
 
 /* 링크 스타일을 설정합니다. */
-a:link, a:visited, a:active {
+a:link, a:visited {
   text-decoration: none;
   color: violet;
   background-color: none;
   
 }
 
+a:hover{
+    color:#1a00c1;
+}
 
 
 /* 검색 input 스타일을 설정합니다. */
-.search input {
-    border: 2px solid rgb(253, 5, 253);
-  margin-top: -3%;
-  height: 3%;
-  width: 16%;
-  position: fixed;
-  left: 5.5%;
-}
 
 input[type=text] {
+    color: violet;
+    width: 16%;
+    border: 2px solid violet;
+    border-radius: 0px;
+    margin-top: -3.5%;
+    height: 3%;
+    position: fixed;
+    left: 5.6%;
     transition: width 0.4s ease-in-out;
+    outline: none;
   }
   
-  input[type=text]:focus {
-    width: 37.5%;
+input[type=text]:focus {
+    border: 2px solid violet;
+    width: 37.2%;
+    
   }
 
 /* 테이블 스타일을 설정합니다. */
@@ -68,9 +71,37 @@ table {
 
 
 /* 테이블 행에 호버 효과를 추가합니다. */
-
+/* 
 table tr:hover {
-  color: #3800d1;
-  background-color: red;/* 배경색을 투명으로 유지합니다. */
-}
+  /* color: rgb(84, 8, 155); */
+  /* background-color: red;배경색을 투명으로 유지합니다. */
+ */
 
+
+
+
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color:  violet;
+    opacity: 1; /* Firefox */
+  }
+  
+  :-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: violet;
+  }
+  
+  ::-ms-input-placeholder { /* Microsoft Edge */
+    color: violet;
+  }
+
+
+  ::-webkit-scrollbar {
+    width: 50px;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: linear-gradient(transparent,violet);
+    border-radius: 20px;
+  }
+  
+  /* #3800d1 */

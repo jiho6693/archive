@@ -43,6 +43,16 @@ function init() {
         });
 }
 
+// Function to highlight row on mouseover
+function highlightRowOnMouseOver(row) {
+    row.classList.add('highlighted-row'); // CSS 클래스를 추가하여 행의 스타일을 변경
+}
+
+// Function to remove highlighting on mouseout
+function removeHighlightOnMouseOut(row) {
+    row.classList.remove('highlighted-row'); // CSS 클래스를 제거하여 행의 스타일을 원래대로 되돌림
+}
+
 // Function to filter and display rows based on search keyword
 function processRows(json) {
     const searchInput = document.querySelector('#search-input');
@@ -55,6 +65,19 @@ function processRows(json) {
         json.forEach((row) => {
             const keys = Object.keys(row);
             const tr = document.createElement('tr');
+
+            
+
+            // Add event listeners for mouseover and mouseout
+            tr.addEventListener('mouseover', () => {
+                highlightRowOnMouseOver(tr);
+            });
+    
+            tr.addEventListener('mouseout', () => {
+                removeHighlightOnMouseOut(tr);
+            });
+    
+
             keys.forEach((key, index) => {
                 const td = document.createElement('td');
                 // Check if it's the third column and create a link if it's a URL
@@ -151,3 +174,5 @@ function isURL(str) {
     const pattern = /^(https?|ftp|file):\/\/[^\s/$.?#].[^\s]*$/;
     return pattern.test(str);
 }
+
+
