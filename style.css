@@ -1,17 +1,49 @@
+@font-face{
+  font-family:"1";
+  src:url(./Oswald-Medium.ttf); 
+}
+@font-face{
+  font-family:"2";
+  src:url(./Kenia-Regular.ttf); 
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Sulphur+Point:wght@700&display=swap');
+
+.custom-font {
+  
+  
+}
+
+
 body {
+
+
   margin-top: 2%;
-  color:violet;
-  background-color: rgba(255, 255, 255, 0.2);
+  color:black;
+  font-family: '1';
+  font-weight:700;
+  background-color: rgba(255, 87, 3, 0.831);
   overflow-x: hidden;
   overflow-y: overlay;
 }
 
+.title{
+  position:fixed;
+  top:2%;
+  left:40%;
+  font-family: '2';
+  font-size:6vw;
+  line-height:90%;
+}
+
+
 tr.highlighted-row {
     /* background-color: #eb7ed5, 0.7; */
-    /* font-weight: bold;  */
-    filter: blur(0.8px);
+    font-weight: bold; 
+    /* filter: blur(1px); */
     /* color: #9a6a03; */
-    box-shadow: -100px 0 8px  rgba(37, 0, 147, 0.5);
+    box-shadow: -4px 10px 8px  rgba(255, 1, 1, 0.8);
+   
     border-radius: 3px;
     /* 다른 스타일 변경을 원하면 여기에 추가할 수 있습니다 */
 }
@@ -20,44 +52,48 @@ tr.highlighted-row {
 /* 링크 스타일을 설정합니다. */
 a:link, a:visited {
   text-decoration: none;
-  color: violet;
+  color: black;
   background-color: none;
   
 }
 
 a:hover{
-    color:#1a00c1;
+    color:rgba(255, 3, 3, 0.831);
 }
 
 
 /* 검색 input 스타일을 설정합니다. */
 
 input[type=text] {
-    color: #1a00c1;
-    font-family: Arial, Helvetica, sans-serif;
+    color: #000000;
     font-size: 1.1rem;
-    width: 16%;
-    border: 2px solid violet;
+    font-family: '1';
+    width: 70%;
+    background-color: red;
+    border: 2px solid rgb(255, 0, 0);
     border-radius: 0px;
-    /* margin-top: -3.5%; */
-    height: 3%;
+    top:12%;
+    height: 3.5%;
     position: fixed;
-    left: 3.5%;
+    left:20%;
     transition: width 0.4s ease-in-out;
     outline: none;
+    box-shadow: 2px 7px 2px  rgba(37, 0, 147, 0.5);
   }
   
 input[type=text]:focus {
     border: 2px solid violet;
-    width: 37.2%;
+    /* width: 37.2%; */
     
   }
 
 /* 테이블 스타일을 설정합니다. */
 table {
-  margin-top: 5%;
+  font-family: '1';
+  line-height:90%;
+
+  margin-top: 11%;
   margin-left: 3%;
-  font-family: Arial, Helvetica, sans-serif;
   font-size: 1.1rem;
   width: 100%;
   
@@ -98,11 +134,12 @@ table tr:hover {
 
 
   ::-webkit-scrollbar {
-    width: 50px;
+    width: 10vw;
   }
   
   ::-webkit-scrollbar-thumb {
-    background: linear-gradient(transparent,violet);
+    /* background: linear-gradient(transparent,rgb(0, 0, 0)); */
+    background-color: black;
     border-radius: 20px;
   }
   

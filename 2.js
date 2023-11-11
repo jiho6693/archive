@@ -26,6 +26,7 @@ function init() {
                     th.innerText = column;
                     tr.appendChild(th);
                 }
+                output.classList.add('custom-font');
             });
             output.appendChild(tr);
 
