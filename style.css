@@ -24,12 +24,12 @@ body {
 }
 
 .box {
-  
+  background-color: rgb(255, 242, 0);
   margin:0, 0, 0, 0;
   left:0;
   position:fixed;
   top:0;
-  height:3.5vw;
+  height:4vw;
   width:100%;
   /* border: 1px solid rgb(0, 0, 0); */
 }
@@ -58,6 +58,7 @@ body {
 }
 
 
+
 input[type=text] {
     color: #000000;
     font-size: 1.1rem;
@@ -81,12 +82,24 @@ input[type=text]:focus {
     
   }
 
+.collection{
+  margin-left:8%;
+  gap: 1vw;
+  text-align: center;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.collection img{
+  width:30vw;
+  
+}
 
 .category{
   font-family: '2';
   margin-top:5%;
   margin-left: 2%;
-  font-size: 2vw;
+  font-size: 1.9vw;
   display:grid;
   grid-template-columns: 20.5% 25.5%;
 }
