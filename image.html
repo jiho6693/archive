@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>링크 미리보기</title>
+
+    <!-- 추가적인 스타일 (선택 사항) -->
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .preview-container {
+            position: relative;
+            display: inline-block;
+        }
+
+        .preview-container:hover .preview {
+            display: block;
+        }
+
+        .preview {
+            display: none;
+            position: absolute;
+            border: 1px solid #ccc;
+            background-color: #fff;
+            padding: 10px;
+            max-width: 300px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .preview img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <!-- 링크 미리보기 표시 영역 -->
+    <div class="preview-container">
+        <a href="https://add-art.org/" target="https://add-art.org/">링크를 올려보세요</a>
+        <div class="preview" id="previewContainer"></div>
+    </div>
+
+    <script>
+        async function showPreview(link, container) {
+            // Puppeteer 사용
+            const browser = await puppeteer.launch();
+            const page = await browser.newPage();
+            await page.goto(link);
+
+            // 웹페이지 스크린샷 찍기
+            const screenshotBuffer = await page.screenshot();
+            
+            // 미리보기 정보를 HTML로 구성하여 표시
+            container.innerHTML = `
+                <h3>${link}</h3>
+                <img src="data:image/png;base64,${screenshotBuffer.toString('base64')}" alt="링크 미리보기 이미지">
+            `;
+
+            await browser.close();
+        }
+
+        // 페이지 로드 시 이벤트 리스너 등록
+        window.onload = function() {
+            var link = document.querySelector('a');
+            var previewContainer = document.getElementById('previewContainer');
+
+            link.addEventListener('mouseover', function() {
+                showPreview(link.href, previewContainer);
+            });
+
+            link.addEventListener('mouseout', function() {
+                previewContainer.innerHTML = ''; // 미리보기 숨기기
+            });
+        };
+    </script>
+
+    <!-- Puppeteer CDN 추가 -->
+    <script src="https://cdn.jsdelivr.net/npm/puppeteer@13.1.0"></script>
+</body>
+</html>
