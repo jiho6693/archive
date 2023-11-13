@@ -13,7 +13,7 @@ function init() {
         .then(res => res.text())
         .then(rep => {
             //Remove additional text and extract only JSON:
-            const jsonData = JSON.parse(rep.substring(47).slice(0, -2));
+            const jsonData = JSON.parse(rep.substring(10).slice(0, -2));
             console.log(rep)
             const colz = [];
             const tr = document.createElement('tr');
