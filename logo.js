@@ -1,10 +1,10 @@
 function setup() {
-    createCanvas(50, 50, WEBGL);
+    createCanvas(windowWidth, windowHeight, WEBGL);
     noStroke();
   }
   
   function draw() {
-    background(255);
+    background(255, 0);
   
     // 우측에서 비추는 오렌지색 포인트 라이트
     pointLight(150, 100, 0, 500, 0, 200);
@@ -17,6 +17,6 @@ function setup() {
   
     rotateY(map(mouseX, 0, width, 0, PI));
     rotateX(map(mouseY, 0, height, 0, PI));
-    box(20);
+    box(200);
   }
   

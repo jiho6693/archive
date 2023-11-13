@@ -19,7 +19,7 @@ body {
   color:rgb(0, 0, 0);
   font-family: '1';
  
-  background-color: rgba(255, 87, 3, 1);
+  background-color: rgb(255, 242, 0);
 
 }
 
@@ -37,7 +37,7 @@ body {
 .title{
   color:rgb(0, 0, 0);
   position:fixed;
-  top:2%;
+  top:3%;
   left:2.5%;
   font-family: '2';
   font-size:2vw;
@@ -49,8 +49,8 @@ body {
   position: fixed;
   font-family: '2';
   font-size:2vw;
-  top:2%;
-  left: 84%;
+  top:3%;
+  left: 83.2%;
 }
 
 .search{
@@ -63,10 +63,10 @@ input[type=text] {
     font-size: 1.1rem;
     font-family: '1';
     width: 8%;
-    background-color: rgb(255, 0, 132);
+    background-color: rgb(255, 238, 0);
     border: 1px solid rgb(0, 0, 0);
     border-radius: 5px;
-    top:1.5%;
+    top:2.5%;
     height: 1.5vw;
     position: fixed;
     left:22.2%;
@@ -84,7 +84,7 @@ input[type=text]:focus {
 
 .category{
   font-family: '2';
-  margin-top:4.5%;
+  margin-top:5%;
   margin-left: 2%;
   font-size: 2vw;
   display:grid;
@@ -126,7 +126,7 @@ background-color: none;
 }
 
 a:hover{
-  color:rgba(255, 230, 1, 0.831);
+  color:rgb(68, 0, 255);
 }
 
 /* table th {
