@@ -34,7 +34,7 @@ function init() {
             jsonData.table.rows.forEach((rowData) => {
                 const row = {};
                 colz.forEach((ele, ind) => {
-                    if (ind < 4) { // 가져올 열의 수를 제한
+                    if (ind < 3) { // 가져올 열의 수를 제한
                         row[ele] = (rowData.c[ind] != null) ? rowData.c[ind].v : '';
                     }
                 });
