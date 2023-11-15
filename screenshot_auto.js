@@ -125,8 +125,8 @@ function isURL(str) {
                 <div class="category">
                     <div class="1">
                         COLLECTION 
-                    </div><br><br>
-                    <input type="text" id="searchInput" onkeydown="searchImages(event)" placeholder="Search..." />
+                    </div><br><br></div>
+                    <input type="text" id="searchInput" onkeydown="searchImages(event)" placeholder="..." />
                     <div id="imageContainer">    
                         ${htmlImages.join('')}
                     </div>
