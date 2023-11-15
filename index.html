@@ -1,30 +1,44 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="style.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="style.css">
+
+<!-- 웹에 공유되어있는 라이브러리 불러오기 -->
+
 </head>
 <body>
+<div class="box">
+  <div class="title">
+    LIBRARY
+  </div>
 
-<!-- 여기서 다른 내용을 표시하고 5초 후에 다른 페이지로 이동합니다. -->
+  <div class="index">
+    <a href="index.html"> INDEX</a> /  <a href="image.html"> IMAGE</a>
+    
+  </div>
+</div>
+
+<div class="category">
+<div class="1">
+  COLLECTION </div>
+<div class="2">
+  KEYWORD
+</div>
 
 
-<script src="logo.js"></script>
-<!-- 웹에 공유되어있는 라이브러리 불러오기 -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.7.0/p5.min.js"></script>
+</div>
 
-<script>
-  // 5초 후에 다른 페이지로 이동하는 함수
-  function redirectToAnotherPage() {
-    setTimeout(function() {
-      // 여기서 이동할 페이지의 URL을 지정합니다.
-      window.location.href = 'text.html';
-    }, 2000); // 5000 밀리초 (5초) 후에 이동합니다.
-  }
+<!-- search bar -->
+<div class="search">
+  <input type="text" id="search-input" placeholder="  ...">
+</div>
 
-  // 페이지가 로드될 때 함수를 호출하여 5초 후에 이동합니다.
-  window.onload = redirectToAnotherPage;
-</script>
+<!-- googlesheet data -->
+
+<table class="output"></table>
+
+<script src="main.js"></script>
 
 </body>
 </html>
