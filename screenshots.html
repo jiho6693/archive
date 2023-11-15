@@ -1,76 +1,73 @@
 
-        <!DOCTYPE html>
-        <html lang="en">
-        <head>
-            <meta charset="UTF-8">
-            <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>Screenshots</title>
-            <link rel="stylesheet" href="style.css">
-
-        </head>
-        <body>
-        <div class="box">
-        <div class="title">
-          LIBRARY
-        </div>
-      
-        <div class="index">
-          <a href="index.html"> INDEX</a> /  <a href="image.html"> IMAGE</a>
-          
-        </div>
-      </div>
-      
-      <div class="category">
-      <div class="1">
-        COLLECTION </div><br><br>
-
-        
-
-        <input type="text" id="searchInput" onkeydown="searchImages(event)" placeholder="Search..." />
-
-            <div id="imageContainer">    
-            
-                    <a href="https://www.jiho6693.com/" target="_blank">
-                        <img src="./images/https___www_jiho6693_com_.jpg" alt="jiho,web" style="max-width: 100%;">
-                    </a>
+            <!DOCTYPE html>
+            <html lang="en">
+            <head>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <title>Screenshots</title>
+                <link rel="stylesheet" href="style.css">
+            </head>
+            <body>
+                <div class="box">
+                    <div class="title">
+                        LIBRARY
+                    </div>
+                    <div class="index">
+                        <a href="index.html"> INDEX</a> /  <a href="image.html"> IMAGE</a>
+                    </div>
+                </div>
+                <div class="category">
+                    <div class="1">
+                        COLLECTION 
+                    </div><br><br>
+                    <input type="text" id="searchInput" onkeydown="searchImages(event)" placeholder="Search..." />
+                    <div id="imageContainer">    
+                        
+                        <a href="https://www.jiho6693.com/" target="_blank">
+                            <img src="./images/https___www_jiho6693_com_.jpg" alt="jiho,web" style="max-width: 100%;">
+                        </a>
+                    
+                        <a href="https://www.google.com/" target="_blank">
+                            <img src="./images/https___www_google_com_.jpg" alt="google,web" style="max-width: 100%;">
+                        </a>
+                    
+                        <a href="https://www.naver.com" target="_blank">
+                            <img src="./images/https___www_naver_com.jpg" alt="naver,web" style="max-width: 100%;">
+                        </a>
+                    
+                        <a href="http://openendedgroup.com/artworks/images/Detroit-Transect-Artists-Statement-and-Final-Report_10.1.14.pdf" target="_blank">
+                            <img src="./images/http___openendedgroup_com_artworks_images_Detroit_Transect_Artists_Statement_and_Final_Report_10_1_14_pdf.jpg" alt="naver,web" style="max-width: 100%;">
+                        </a>
+                    
+                        <a href="https://www.daum.net/" target="_blank">
+                            <img src="./images/https___www_daum_net_.jpg" alt="naver,web" style="max-width: 100%;">
+                        </a>
+                    
+                        <a href="https://asbnotebook.com/fetch-google-spread-sheet-data-using-javascript/" target="_blank">
+                            <img src="./images/https___asbnotebook_com_fetch_google_spread_sheet_data_using_javascript_.jpg" alt="home,something" style="max-width: 100%;">
+                        </a>
+                    
+                    </div>
+                    <script>
+                        function searchImages(event) {
+                            if (event.keyCode === 13) {
+                                var input, filter, images, a, i, txtValue;
+                                input = document.getElementById('searchInput');
+                                filter = input.value.toUpperCase();
+                                images = document.getElementById('imageContainer').getElementsByTagName('img');
                 
-                    <a href="https://www.google.com/" target="_blank">
-                        <img src="./images/https___www_google_com_.jpg" alt="google,web" style="max-width: 100%;">
-                    </a>
-                
-                    <a href="https://www.naver.com" target="_blank">
-                        <img src="./images/https___www_naver_com.jpg" alt="naver,web" style="max-width: 100%;">
-                    </a>
-                
-                    <a href="https://www.daum.net/" target="_blank">
-                        <img src="./images/https___www_daum_net_.jpg" alt="naver,web" style="max-width: 100%;">
-                    </a>
-                
-                    <a href="https://asbnotebook.com/fetch-google-spread-sheet-data-using-javascript/" target="_blank">
-                        <img src="./images/https___asbnotebook_com_fetch_google_spread_sheet_data_using_javascript_.jpg" alt="home,something" style="max-width: 100%;">
-                    </a>
-                
-            </div>
-            <script>
-            function searchImages(event) {
-                if (event.keyCode === 13) {
-                    var input, filter, images, a, i, txtValue;
-                    input = document.getElementById('searchInput');
-                    filter = input.value.toUpperCase();
-                    images = document.getElementById('imageContainer').getElementsByTagName('img');
-    
-                    for (i = 0; i < images.length; i++) {
-                        a = images[i];
-                        txtValue = a.alt.toUpperCase();
-                        if (txtValue.indexOf(filter) > -1) {
-                            a.style.display = '';
-                        } else {
-                            a.style.display = 'none';
+                                for (i = 0; i < images.length; i++) {
+                                    a = images[i];
+                                    txtValue = a.alt.toUpperCase();
+                                    if (txtValue.indexOf(filter) > -1) {
+                                        a.style.display = '';
+                                    } else {
+                                        a.style.display = 'none';
+                                    }
+                                }
+                            }
                         }
-                    }
-                }
-            }
-        </script>
-        </body>
-        </html>
-    
+                    </script>
+                </body>
+            </html>
+        
