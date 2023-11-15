@@ -87,6 +87,7 @@ function processRows(json) {
                 if (index === 2 && isURL(row[key])) {
                     const link = document.createElement('a');
                     link.href = row[key];
+                    link.target = "_blank";
                     const maxLength = 35;
                     link.textContent = row[key].length > maxLength ? row[key].substring(0, maxLength) + '...' : row[key];
                     td.appendChild(link);
@@ -147,6 +148,7 @@ function processRows(json) {
                         if (index === 2 && isURL(row[key])) {
                             const link = document.createElement('a');
                             link.href = row[key];
+                            link.target = "_blank";
                             // Trim the text to a maximum length (e.g., 100 characters)
                             const maxLength = 35;
                             link.textContent = row[key].length > maxLength ? row[key].substring(0, maxLength) + '...' : row[key];

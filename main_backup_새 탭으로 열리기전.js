@@ -2,10 +2,12 @@ const sheetId = '1378-w6EsdCVsaU6xkx9voDxWOF2eNBywt5HHkrVKs_4';
 const base = `https://docs.google.com/spreadsheets/d/${sheetId}/gviz/tq?`;
 const sheetName = 'Archive_ziro';
 const query = encodeURIComponent('Select *')
-const url = `${base}&sheet=${sheetName}&tq=${query}`
+const url = `${base}&sheet=${sheetName}&tq=${encodeURIComponent('Select *')}`;
 const data = []
-document.addEventListener('DOMContentLoaded', init)
 const output = document.querySelector('.output')
+const searchInput = document.querySelector('#search-input');
+document.addEventListener('DOMContentLoaded', init)
+
 
 // loads the google sheets data on page load.
 function init() {
@@ -26,15 +28,15 @@ function init() {
                     th.innerText = column;
                     tr.appendChild(th);
                 }
-                output.classList.add('custom-font');
+                
             });
             output.appendChild(tr);
 
-            // Extract and display only the first 3 columns
+            // Extract and display only the first 4 columns
             jsonData.table.rows.forEach((rowData) => {
                 const row = {};
                 colz.forEach((ele, ind) => {
-                    if (ind < 3) { // 가져올 열의 수를 제한
+                    if (ind < 4) {
                         row[ele] = (rowData.c[ind] != null) ? rowData.c[ind].v : '';
                     }
                 });
@@ -56,7 +58,7 @@ function removeHighlightOnMouseOut(row) {
 
 // Function to filter and display rows based on search keyword
 function processRows(json) {
-    const searchInput = document.querySelector('#search-input');
+  
     const searchButton = document.querySelector('#search-button');
 
     // Create a function to display all rows without filtering
@@ -85,21 +87,21 @@ function processRows(json) {
                 if (index === 2 && isURL(row[key])) {
                     const link = document.createElement('a');
                     link.href = row[key];
-                    const maxLength = 100;
+                    const maxLength = 35;
                     link.textContent = row[key].length > maxLength ? row[key].substring(0, maxLength) + '...' : row[key];
                     td.appendChild(link);
                 } else {
-                    const maxLength = 100;
+                    const maxLength = 35;
                     td.textContent = row[key].length > maxLength ? row[key].substring(0, maxLength) + '...' : row[key];
                 }
 
                  // Apply fixed column widths
                  if (index === 0) {
-                    td.style.width = '13%'; // 첫 번째 열은 100px로 고정
+                    td.style.width = '20%'; // 첫 번째 열은 100px로 고정
                 } else if (index === 1) {
-                    td.style.width = '15%'; // 두 번째 열은 500px로 고정
+                    td.style.width = '25%'; // 두 번째 열은 500px로 고정
                 } else if (index === 2) {
-                    td.style.width = '50%'; // 세 번째 열은 700px로 고정
+                    td.style.width = '40%'; // 세 번째 열은 700px로 고정
                 }
 
 
@@ -146,22 +148,22 @@ function processRows(json) {
                             const link = document.createElement('a');
                             link.href = row[key];
                             // Trim the text to a maximum length (e.g., 100 characters)
-                            const maxLength = 100;
+                            const maxLength = 35;
                             link.textContent = row[key].length > maxLength ? row[key].substring(0, maxLength) + '...' : row[key];
                             td.appendChild(link);
                         } else {
                             // Trim the text to a maximum length for other columns (e.g., 500 characters)
-                            const maxLength = 100;
+                            const maxLength = 35;
                             td.textContent = row[key].length > maxLength ? row[key].substring(0, maxLength) + '...' : row[key];
                         }
 
                         // Apply fixed column widths
                         if (index === 0) {
-                            td.style.width = '13%'; // 첫 번째 열은 100px로 고정
+                            td.style.width = '20%'; // 첫 번째 열은 100px로 고정
                         } else if (index === 1) {
-                            td.style.width = '15%'; // 두 번째 열은 500px로 고정
+                            td.style.width = '25%'; // 두 번째 열은 500px로 고정
                         } else if (index === 2) {
-                            td.style.width = '50%'; // 세 번째 열은 700px로 고정
+                            td.style.width = '40%'; // 세 번째 열은 700px로 고정
                         }
 
                         tr.appendChild(td);
@@ -173,10 +175,12 @@ function processRows(json) {
     });
 }
 
-// Function to check if a string is a valid URL
 function isURL(str) {
-    const pattern = /^(https?|ftp|file):\/\/[^\s/$.?#].[^\s]*$/;
-    return pattern.test(str);
+    try {
+        new URL(str);
+        return true;
+    } catch (error) {
+        return false;
+    }
 }
-
 
