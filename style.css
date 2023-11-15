@@ -82,28 +82,17 @@ input[type=text]:focus {
     
   }
 
-.collection{
-  margin-left:8%;
-  gap: 1vw;
+#imageContainer{
   text-align: center;
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-}
-
-.collection img{
-  width:30vw;
   
 }
 
-#imageConatiner{
-  text-align: center;
-  margin:auto;
-  display:block;
-}
+
 
 #imageContainer img{
+  
   margin: 0.5vw 0.5vw 0.5vw 0.5vw;
-  width: 28rem;
+  width: 27rem;
  
 
 }    
