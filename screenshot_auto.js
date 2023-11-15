@@ -46,6 +46,7 @@ async function generateScreenshot(url) {
         console.log(`Screenshot saved to: ${screenshotPath}`);
     } catch (error) {
         console.error(`Error generating screenshot for ${url}: ${error.message}`);
+        // Handle the case where screenshot couldn't be generated (e.g., page not reachable)
     } finally {
         // Quit the browser
         await browser.close();
@@ -91,11 +92,16 @@ function isURL(str) {
                         secondColumnValue = rowData.c[1].v;
                     }
 
-                    htmlImages.push(`
-                        <a href="${url}" target="_blank">
-                            <img src="./images/${pageName}.jpg" alt="${firstColumnValue},${secondColumnValue}" style="max-width: 100%;">
-                        </a>
-                    `);
+                    // Check if the screenshot was generated successfully before adding to htmlImages
+                    if (fs.existsSync(path.join(__dirname, `./images/${pageName}.jpg`))) {
+                        htmlImages.push(`
+                            <a href="${url}" target="_blank">
+                                <img src="./images/${pageName}.jpg" alt="${firstColumnValue},${secondColumnValue}" style="max-width: 100%;">
+                            </a>
+                        `);
+                    } else {
+                        console.error(`Screenshot not generated for ${url}`);
+                    }
                 }
             }
         }
