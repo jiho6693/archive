@@ -95,6 +95,21 @@ input[type=text]:focus {
   
 }
 
+#imageConatiner{
+  text-align: center;
+  margin:auto;
+  display:block;
+}
+
+#imageContainer img{
+  margin: 0.5vw 0.5vw 0.5vw 0.5vw;
+  width: 28rem;
+ 
+
+}    
+
+
+
 .category{
   font-family: '2';
   margin-top:5%;
