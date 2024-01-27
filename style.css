@@ -37,7 +37,7 @@ body {
 .title{
   color:rgb(0, 0, 0);
   position:fixed;
-  top:15.5%;
+  top:17.5%;
   left:2.5%;
   font-family: '2';
   font-size:1.5vw;
@@ -49,7 +49,7 @@ body {
   position: fixed;
   font-family: '2';
   font-size:1.5vw;
-  top:15.5%;
+  top:17.5%;
   right: 2.5%;
 }
 
@@ -67,7 +67,7 @@ input[type=text] {
     background-color: rgb(255, 238, 0);
     border: 0.1vw solid rgb(0, 0, 0);
     border-radius: 5px;
-    top:15.5%;
+    top:17%;
     height: 1.5vw;
     position: fixed;
     left:22.5%;
