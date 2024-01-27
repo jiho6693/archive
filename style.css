@@ -40,7 +40,7 @@ body {
   top:15.5%;
   left:2.5%;
   font-family: '2';
-  font-size:2vw;
+  font-size:1.5vw;
   
 }
 
@@ -48,7 +48,7 @@ body {
   
   position: fixed;
   font-family: '2';
-  font-size:2vw;
+  font-size:1.5vw;
   top:15.5%;
   right: 2.5%;
 }
@@ -103,7 +103,7 @@ input[type=text]:focus {
   font-family: '2';
   margin-top:5%;
   margin-left: 2%;
-  font-size: 1.9vw;
+  font-size: 1.5vw;
   display:grid;
   grid-template-columns: 20.5% 25.5%;
 }
@@ -115,7 +115,7 @@ table {
 
   margin-top: 1.5%;
   margin-left: 2%;
-  font-size: 1.4vw;
+  font-size: 1vw;
   width: 100%;
   
   
