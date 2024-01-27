@@ -15,7 +15,7 @@
 body {
 
   overflow-x: hidden;
-  margin-top: 2%;
+  margin-top: 12%;
   color:rgb(0, 0, 0);
   font-family: '1';
  
@@ -24,12 +24,12 @@ body {
 }
 
 .box {
-  background-color: rgb(255, 242, 0);
+  background-color: rgb(255, 255, 255);
   margin:0, 0, 0, 0;
   left:0;
   position:fixed;
   top:0;
-  height:4vw;
+  height:11.5vw;
   width:100%;
   /* border: 1px solid rgb(0, 0, 0); */
 }
@@ -37,7 +37,7 @@ body {
 .title{
   color:rgb(0, 0, 0);
   position:fixed;
-  top:2.5%;
+  top:17%;
   left:2.5%;
   font-family: '2';
   font-size:2vw;
@@ -49,7 +49,7 @@ body {
   position: fixed;
   font-family: '2';
   font-size:2vw;
-  top:2.5%;
+  top:17%;
   right: 2.5%;
 }
 
@@ -67,7 +67,7 @@ input[type=text] {
     background-color: rgb(255, 238, 0);
     border: 0.1vw solid rgb(0, 0, 0);
     border-radius: 5px;
-    top:2.5%;
+    top:17%;
     height: 1.5vw;
     position: fixed;
     left:22.5%;
