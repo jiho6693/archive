@@ -15,21 +15,21 @@
 body {
 
   overflow-x: hidden;
-  margin-top: 12.5%;
+  margin-top: 3%;
   color:rgb(0, 0, 0);
   font-family: '1';
  
-  background-color: rgb(255, 242, 0);
+  background-color: rgb(255, 255, 255);
 
 }
 
 .box {
-  background-color: rgb(255, 242, 0);
+  background-color: rgb(255, 255, 255);
   margin:0, 0, 0, 0;
   left:0;
   position:fixed;
   top:0;
-  height:11.5vw;
+  height:9vw;
   width:100%;
   /* border: 1px solid rgb(0, 0, 0); */
 }
@@ -37,7 +37,7 @@ body {
 .title{
   color:rgb(0, 0, 0);
   position:fixed;
-  margin-top:9%;
+  margin-top:3%;
   left:2.5%;
   font-family: '2';
   font-size:1.5vw;
@@ -49,7 +49,7 @@ body {
   position: fixed;
   font-family: '2';
   font-size:1.5vw;
-  margin-top:9%;
+  margin-top:3%;
   right: 2.5%;
 }
 
@@ -64,10 +64,10 @@ input[type=text] {
     font-size: 1.1vw;
     font-family: '1';
     width: 48%;
-    background-color: rgb(255, 238, 0);
+    background-color: rgb(237, 237, 237);
     border: 0.1vw solid rgb(0, 0, 0);
     border-radius: 5px;
-    margin-top:-5.5%;
+    margin-top:-0.3%;
     height: 1.5vw;
     position: fixed;
     left:22.5%;
@@ -100,20 +100,23 @@ input[type=text]:focus {
 
 
 .category{
+  position:fixed;
   font-family: '2';
-  margin-top:5%;
+  margin-top:3%;
   margin-left: 2%;
   font-size: 1.5vw;
   display:grid;
-  grid-template-columns: 20.5% 25.5%;
+  grid-template-columns: 116% 145% 228% 100%;
 }
+
+
 
 /* 테이블 스타일을 설정합니다. */
 table {
   font-family: '1';
   line-height:100%;
 
-  margin-top: 1.5%;
+  margin-top: 0%;
   margin-left: 2%;
   font-size: 1.15vw;
   width: 100%;
