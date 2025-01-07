@@ -13,7 +13,7 @@
 
 
 body {
-
+  
   overflow-x: hidden;
   margin-top: 3%;
   color:rgb(0, 0, 0);
@@ -38,7 +38,7 @@ body {
   color:rgb(0, 0, 0);
   position:fixed;
   margin-top:3%;
-  left:2.5%;
+  left:2.6%;
   font-family: '2';
   font-size:1.5vw;
   
