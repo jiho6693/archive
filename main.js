@@ -138,6 +138,8 @@ function processRows(json) {
                     return row[key].toLowerCase().includes(searchTerm);
                 });
 
+                
+
                 if (matchesSearchTerm) {
                     const tr = document.createElement('tr');
                     keys.forEach((key, index) => {
@@ -159,6 +161,15 @@ function processRows(json) {
                             const maxLength = 20;
                             td.textContent = row[key].length > maxLength ? row[key].substring(0, maxLength) + '...' : row[key];
                         }
+
+                         // Add event listeners for mouseover and mouseout
+                        tr.addEventListener('mouseover', () => {
+                            highlightRowOnMouseOver(tr);
+                        });
+                
+                        tr.addEventListener('mouseout', () => {
+                            removeHighlightOnMouseOut(tr);
+                        });
 
                         // Apply fixed column widths
                         if (index === 0) {
