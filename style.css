@@ -1,6 +1,6 @@
 @font-face{
   font-family:"1";
-  src:url(./fonts/UniversNextProBoldCond.ttf); 
+  src:url(./fonts/FiraCode-Regular.ttf); 
 }
 @font-face{
   font-family:"2";
@@ -13,7 +13,7 @@
 
 
 body {
-  
+  font-size: 0.83rem;
   overflow-x: hidden;
   margin-top: 3%;
   color:rgb(0, 0, 0);
@@ -24,53 +24,35 @@ body {
 }
 
 .box {
+
   background-color: rgb(255, 255, 255);
   margin:0, 0, 0, 0;
   left:0;
   position:fixed;
   top:0;
-  height:9vw;
+  height:15vh;
   width:100%;
   /* border: 1px solid rgb(0, 0, 0); */
 }
 
-.title{
-  color:rgb(0, 0, 0);
-  position:fixed;
-  margin-top:3%;
-  left:2.6%;
-  font-family: '2';
-  font-size:1.5vw;
-  
-}
 
-.index{
-  
-  position: fixed;
-  font-family: '2';
-  font-size:1.5vw;
-  margin-top:3%;
-  right: 2.5%;
-}
 
-.search{
-  color:#000000;
-}
 
 
 
 input[type=text] {
-    color: #000000;
-    font-size: 1.1vw;
+    z-index: 9999;
+    color: #ff0000;
+    
     font-family: '1';
-    width: 48%;
-    background-color: rgb(237, 237, 237);
-    border: 0.1vw solid rgb(0, 0, 0);
-    border-radius: 5px;
-    margin-top:-0.3%;
-    height: 1.5vw;
+    width: 5%;
+    background-color: rgb(255, 255, 255);
+    border: 0.08rem solid rgb(255, 255, 255);
+    border-radius: 2px;
+  
+    height: 1rem;
     position: fixed;
-    left:22.5%;
+    left:4.5%;
     transition: width 0.4s ease-in-out;
     outline: none;
     /* box-shadow: 0px 2px 0px  rgba(37, 0, 147, 0.5); */
@@ -79,6 +61,7 @@ input[type=text] {
 input[type=text]:focus {
     /* border: 2px solid violet; */
     width: 10%;
+    border: 0.08rem solid rgb(0, 0, 0);
     
   }
 
@@ -99,31 +82,35 @@ input[type=text]:focus {
 
 
 
-.category{
-  position:fixed;
-  font-family: '2';
-  margin-top:3%;
-  margin-left: 2%;
-  font-size: 1.5vw;
-  display:grid;
-  grid-template-columns: 116% 145% 228% 100%;
-}
-
-
 
 /* 테이블 스타일을 설정합니다. */
 table {
+  display: grid;
+  grid-template-columns: 1fr 1fr ;
+  gap: 0; /* 열 간격 제거 */
   font-family: '1';
-  line-height:100%;
+  line-height: 100%;
 
-  margin-top: 0%;
-  margin-left: 2%;
-  font-size: 1.15vw;
-  width: 100%;
-  
   
 }
 
+.googlesheet{
+
+  margin-left: 4%;
+  margin-right: 0%;
+  padding-top: 4.5%;
+}
+
+
+.line{
+  padding-top: 3%;
+  padding-bottom:0%;
+  margin-left: 4%;
+  position: fixed;
+  width : 90%;
+  
+
+}
 
 tr.highlighted-row {
   /* background-color: #eb7ed5, 0.7; */
@@ -140,13 +127,13 @@ tr.highlighted-row {
 /* 링크 스타일을 설정합니다. */
 a:link, a:visited {
 text-decoration: none;
-color: black;
+color: inherit;
 background-color: none;
 
 }
 
 a:hover{
-  color:rgb(68, 0, 255);
+  color:rgb(255, 0, 0);
 }
 
 /* table th {
@@ -169,7 +156,6 @@ table tr:hover {
 
 
 ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
-    font-size: 1.5vw;
     color:  rgb(0, 0, 0);
     opacity: 1; /* Firefox */
   }

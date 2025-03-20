@@ -72,9 +72,9 @@ let CdpElementHandle = (() => {
             __esDecorate(this, null, _autofill_decorators, { kind: "method", name: "autofill", static: false, private: false, access: { has: obj => "autofill" in obj, get: obj => obj.autofill }, metadata: _metadata }, null, _instanceExtraInitializers);
             if (_metadata) Object.defineProperty(this, Symbol.metadata, { enumerable: true, configurable: true, writable: true, value: _metadata });
         }
+        #backendNodeId = __runInitializers(this, _instanceExtraInitializers);
         constructor(world, remoteObject) {
             super(new CdpJSHandle(world, remoteObject));
-            __runInitializers(this, _instanceExtraInitializers);
         }
         get realm() {
             return this.handle.realm;
@@ -113,21 +113,24 @@ let CdpElementHandle = (() => {
                 await super.scrollIntoView();
             }
         }
-        async uploadFile(...filePaths) {
+        async uploadFile(...files) {
             const isMultiple = await this.evaluate(element => {
                 return element.multiple;
             });
-            assert(filePaths.length <= 1 || isMultiple, 'Multiple file uploads only work with <input type=file multiple>');
+            assert(files.length <= 1 || isMultiple, 'Multiple file uploads only work with <input type=file multiple>');
             // Locate all files and confirm that they exist.
             const path = environment.value.path;
-            const files = filePaths.map(filePath => {
-                if (path.win32.isAbsolute(filePath) || path.posix.isAbsolute(filePath)) {
-                    return filePath;
-                }
-                else {
-                    return path.resolve(filePath);
-                }
-            });
+            if (path) {
+                files = files.map(filePath => {
+                    if (path.win32.isAbsolute(filePath) ||
+                        path.posix.isAbsolute(filePath)) {
+                        return filePath;
+                    }
+                    else {
+                        return path.resolve(filePath);
+                    }
+                });
+            }
             /**
              * The zero-length array is a special case, it seems that
              * DOM.setFileInputFiles does not actually update the files in that case, so
@@ -186,6 +189,16 @@ let CdpElementHandle = (() => {
             return yield* AsyncIterableUtil.map(results, node => {
                 return this.realm.adoptBackendNode(node.backendDOMNodeId);
             });
+        }
+        async backendNodeId() {
+            if (this.#backendNodeId) {
+                return this.#backendNodeId;
+            }
+            const { node } = await this.client.send('DOM.describeNode', {
+                objectId: this.handle.id,
+            });
+            this.#backendNodeId = node.backendNodeId;
+            return this.#backendNodeId;
         }
     };
 })();
