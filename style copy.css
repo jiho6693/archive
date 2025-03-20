@@ -2,10 +2,11 @@
   font-family: "1";
   src: url(./fonts/FiraCode-Regular.ttf);
 }
+
 body {
- 
-  font-size: 0.8rem;
+  font-size: 0.83rem;
   overflow-x: hidden;
+  margin-top: 3%;
   color: rgb(0, 0, 0);
   font-family: '1';
   background-color: rgb(255, 255, 255);
@@ -16,7 +17,7 @@ body {
   position: fixed;
   top: 0;
   left: 0;
-  height: 6.5rem;
+  height: 8rem;
   width: 100%;
 }
 
@@ -26,14 +27,14 @@ body {
   z-index: 9999;
   left: 4.6%;
   
-  top: 2.5rem;
+  top: 3rem;
 }
 
 input[type="text"] {
   z-index: 9999;
   color: #ff0000;
   position: fixed;
-  top: 4rem;
+  top: 5rem;
   left: 4.5%;
   font-family: '1';
   width: 6rem;
@@ -47,7 +48,9 @@ input[type="text"] {
 }
 
 input[type="text"]:focus {
+ 
   border: 0.08rem solid rgb(0, 0, 0);
+
 }
 
 input[type="text"]:focus::placeholder {
@@ -56,39 +59,34 @@ input[type="text"]:focus::placeholder {
 }
 
 #imageContainer {
-  padding-top:6rem;
+  padding-top:4rem;
   text-align: center;
 }
 
 #imageContainer img {
-  padding-left:1rem;
+  padding-left:1.5rem;
   margin: 0.5rem;
-  width: 13.6rem;
+  width: 16rem;
 }
 
 table {
-  text-align: left;
   display: grid;
-  column-gap: 3rem;
   grid-template-columns: 1fr 1fr;
   font-family: '1';
   line-height: 100%;
-  width:auto;
 }
 
 .googlesheet {
-  
   margin-left: 4%;
-  margin-right: 4%;
-  padding-top: 6.5rem;
+  padding-top: 5%;
 }
 
 .line {
-  top: 5.5rem;
-  left: 4.5%;
+  padding-top: 3.4%;
+  margin-left: 4%;
   
   position: fixed;
-  width: 91%;
+  width: 92.5%;
 }
 
 tr.highlighted-row {
@@ -124,24 +122,4 @@ a:hover {
 
 ::-webkit-scrollbar {
   display: none;
-}
-
-
-
-@media (max-width: 768px) {
- 
-
- 
-  table {
-    grid-template-columns: 1fr; /* 작은 화면에서는 한 개의 열로 변경 */
-  }
-
-  #imageContainer {
-    flex-direction: column; /* 이미지가 수직으로 정렬되도록 변경 */
-  }
-
-  #imageContainer img {
-    padding-left: 0;
-    width: 80%; /* 작은 화면에서 이미지 크기 조정 */
-  }
 }
