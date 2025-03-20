@@ -3,7 +3,7 @@
   src: url(./fonts/FiraCode-Regular.ttf);
 }
 body {
- 
+  
   font-size: 0.8rem;
   overflow-x: hidden;
   color: rgb(0, 0, 0);
@@ -127,12 +127,24 @@ a:hover {
 }
 
 
+@media (max-width: 1024px) {
+
+
+  table {
+    font-size: 0.8rem;
+    grid-template-columns: 1fr; /* 작은 화면에서는 한 개의 열로 변경 */
+  }
+}
+
+
 
 @media (max-width: 768px) {
  
 
+  
  
   table {
+    font-size: 0.6rem;
     grid-template-columns: 1fr; /* 작은 화면에서는 한 개의 열로 변경 */
   }
 
