@@ -157,16 +157,14 @@ async function generateScreenshot(url, screenshotPath) {
                 <link rel="stylesheet" href="style.css">
             </head>
             <body>
-                <div class="box">
-                    <div class="title">LIBRARY</div>
-                    <div class="index">
-                        <a href="index.html"> INDEX</a> / <a href="image.html"> IMAGE</a>
-                    </div>
+   <div class="box">
                 </div>
-                <div class="category">
-                    <div class="collection">COLLECTION</div>
+                <div class="index">
+                    <a href="index.html"> IMAGE -> INDEX </a>
                 </div>
-                <input type="text" id="searchInput" onkeydown="searchImages(event)" placeholder="Search..." />
+                <input type="text" id="search-input" placeholder="Search  ">
+                <div class="line"><hr /></div>
+                <input type="text" id="searchInput" onkeydown="searchImages(event)" placeholder="Search" />
                 <div id="imageContainer">${htmlImages.join('')}</div>
                 <script>
                     function searchImages(event) {

@@ -151,7 +151,7 @@ function processRows(json) {
                             link.href = row[key];
                             link.target = "_blank";
                             // Trim the text to a maximum length (e.g., 100 characters)
-                            const maxLength = 20;
+                            const maxLength = 25;
                             link.textContent = row[key].length > maxLength ? row[key].substring(0, maxLength) + '...' : row[key];
                             td.appendChild(link);
                         } else {
@@ -162,11 +162,11 @@ function processRows(json) {
 
                         // Apply fixed column widths
                         if (index === 0) {
-                            td.style.width = '20%'; // 첫 번째 열은 100px로 고정
+                            td.style.width = '30%'; // 첫 번째 열은 100px로 고정
                         } else if (index === 1) {
                             td.style.width = '25%'; // 두 번째 열은 500px로 고정
                         } else if (index === 2) {
-                            td.style.width = '20%'; // 세 번째 열은 700px로 고정
+                            td.style.width = '30%'; // 세 번째 열은 700px로 고정
                         }
 
                         tr.appendChild(td);
