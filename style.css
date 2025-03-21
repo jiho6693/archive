@@ -109,6 +109,7 @@ a:hover {
 }
 
 ::placeholder {
+  font-size: inherit;
   color: rgb(0, 0, 0);
 
   
@@ -130,8 +131,13 @@ a:hover {
 @media (max-width: 1024px) {
 
 
+  body{
+    font-size: 0.75rem;
+  }
+
   table {
-    font-size: 0.8rem;
+    
+    column-gap: 1rem;
     grid-template-columns: 1fr; /* 작은 화면에서는 한 개의 열로 변경 */
   }
 }
@@ -144,7 +150,8 @@ a:hover {
   
  
   table {
-    font-size: 0.6rem;
+    font-size: 0.7rem;
+    column-gap: 0rem;
     grid-template-columns: 1fr; /* 작은 화면에서는 한 개의 열로 변경 */
   }
 
@@ -154,6 +161,6 @@ a:hover {
 
   #imageContainer img {
     padding-left: 0;
-    width: 80%; /* 작은 화면에서 이미지 크기 조정 */
+    width: 40%; /* 작은 화면에서 이미지 크기 조정 */
   }
 }
