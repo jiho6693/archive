@@ -88,21 +88,23 @@ function processRows(json) {
                     const link = document.createElement('a');
                     link.href = row[key];
                     link.target = "_blank";
-                    const maxLength = 25;
-                    link.textContent = row[key].length > maxLength ? row[key].substring(0, maxLength) + '...' : row[key];
+                    const maxLength = 20;
+                    link.textContent = row[key].length > maxLength ? row[key].substring(0, maxLength) + '..' : row[key];
                     td.appendChild(link);
                 } else {
-                    const maxLength = 20;
-                    td.textContent = row[key].length > maxLength ? row[key].substring(0, maxLength) + '...' : row[key];
+                    const maxLength = 16;
+                    td.textContent = row[key].length > maxLength ? row[key].substring(0, maxLength) + '..' : row[key];
                 }
 
-                 // Apply fixed column widths
-                 if (index === 0) {
-                    td.style.width = '30%'; // 첫 번째 열은 100px로 고정
+                // Apply fixed column widths
+                if (index === 0) {
+                    td.style.width = '40%'; // 첫 번째 열
                 } else if (index === 1) {
-                    td.style.width = '25%'; // 두 번째 열은 500px로 고정
+                    td.style.width = '30%'; // 두 번째 열
                 } else if (index === 2) {
-                    td.style.width = '30%'; // 세 번째 열은 700px로 고정
+                    td.style.width = '15%'; // 세 번째 열
+                } else if (index === 3) {
+                    td.style.width = '15%'; // 네 번째 열 추가
                 }
                 
 
@@ -153,13 +155,13 @@ function processRows(json) {
                             link.href = row[key];
                             link.target = "_blank";
                             // Trim the text to a maximum length (e.g., 100 characters)
-                            const maxLength = 25;
-                            link.textContent = row[key].length > maxLength ? row[key].substring(0, maxLength) + '...' : row[key];
+                            const maxLength = 20;
+                            link.textContent = row[key].length > maxLength ? row[key].substring(0, maxLength) + '..' : row[key];
                             td.appendChild(link);
                         } else {
                             // Trim the text to a maximum length for other columns (e.g., 500 characters)
                             const maxLength = 20;
-                            td.textContent = row[key].length > maxLength ? row[key].substring(0, maxLength) + '...' : row[key];
+                            td.textContent = row[key].length > maxLength ? row[key].substring(0, maxLength) + '..' : row[key];
                         }
 
                          // Add event listeners for mouseover and mouseout
@@ -173,11 +175,13 @@ function processRows(json) {
 
                         // Apply fixed column widths
                         if (index === 0) {
-                            td.style.width = '30%'; // 첫 번째 열은 100px로 고정
+                            td.style.width = '35%'; // 첫 번째 열
                         } else if (index === 1) {
-                            td.style.width = '25%'; // 두 번째 열은 500px로 고정
+                            td.style.width = '40%'; // 두 번째 열
                         } else if (index === 2) {
-                            td.style.width = '30%'; // 세 번째 열은 700px로 고정
+                            td.style.width = '30%'; // 세 번째 열
+                        } else if (index === 3) {
+                            td.style.width = '25%'; // 네 번째 열 추가
                         }
 
                         tr.appendChild(td);
