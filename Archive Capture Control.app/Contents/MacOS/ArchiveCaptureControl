@@ -6,7 +6,7 @@ service_target="${launch_domain}/${service_label}"
 plist_path="/Users/ji-ho/Library/LaunchAgents/com.jiho.archive-capture-receiver.plist"
 archive_path="/Users/ji-ho/Documents/GitHub/archive"
 
-choice=$(/usr/bin/osascript -l AppleScript -e 'choose from list {"Start receiver", "Stop receiver", "Update missing images", "Check status"}')
+choice=$(/usr/bin/osascript -l AppleScript -e 'choose from list {"Start receiver", "Stop receiver", "Update missing images", "Publish archive", "Check status"}')
 
 case "$choice" in
   "Start receiver")
@@ -30,6 +30,12 @@ case "$choice" in
       -e 'tell application "Terminal" to activate' \
       -e "tell application \"Terminal\" to do script \"cd '${archive_path}' && npm run sync:archive\""
     /usr/bin/osascript -e 'display dialog "Image update has started in Terminal. Keep that window open until it says Archive sync complete."'
+    ;;
+  "Publish archive")
+    /usr/bin/osascript \
+      -e 'tell application "Terminal" to activate' \
+      -e "tell application \"Terminal\" to do script \"cd '${archive_path}' && /bin/zsh scripts/publish-archive.sh\""
+    /usr/bin/osascript -e 'display dialog "Publishing has started in Terminal. Keep that window open until it confirms completion."'
     ;;
   "Check status")
     if /bin/launchctl print "$service_target" >/dev/null 2>&1; then

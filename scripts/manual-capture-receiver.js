@@ -3,7 +3,7 @@ const fs = require('fs');
 const http = require('http');
 const os = require('os');
 const path = require('path');
-const { execFileSync, spawnSync } = require('child_process');
+const { execFileSync } = require('child_process');
 
 const root = path.join(__dirname, '..');
 const imagesDirectory = path.join(root, 'images');
@@ -34,23 +34,6 @@ function addEntry({ artist, category, url }) {
   const temporaryPath = `${archiveDataPath}.tmp`;
   fs.writeFileSync(temporaryPath, `${JSON.stringify(entries, null, 2)}\n`);
   fs.renameSync(temporaryPath, archiveDataPath);
-}
-
-function commitCapture({ artist, url }) {
-  const imagePath = path.join('images', filenameFor(url));
-  const dataPath = path.basename(archiveDataPath);
-  execFileSync('git', ['add', '--', dataPath, imagePath], { cwd: root, stdio: 'ignore' });
-
-  const diff = spawnSync('git', ['diff', '--cached', '--quiet', '--', dataPath, imagePath], { cwd: root });
-  if (diff.status === 0) return false;
-  if (diff.status !== 1) throw new Error('Could not inspect the pending archive commit');
-
-  const cleanArtist = artist.replace(/\s+/g, ' ').trim().slice(0, 60);
-  execFileSync('git', ['commit', '-m', `archive: add ${cleanArtist}`, '--', dataPath, imagePath], {
-    cwd: root,
-    stdio: 'ignore'
-  });
-  return true;
 }
 
 function saveCompressedJpeg(buffer, outputPath) {
@@ -98,8 +81,7 @@ http.createServer((request, response) => {
       const payload = JSON.parse(body);
       if (request.url === '/entry') {
         addEntry(payload);
-        const committed = commitCapture(payload);
-        respond(response, 200, { ok: true, committed });
+        respond(response, 200, { ok: true });
         return;
       }
 
