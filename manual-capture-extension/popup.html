@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="popup.css">
+  <title>Archive Capture</title>
+</head>
+<body>
+  <main>
+    <h1>ARCHIVE CAPTURE</h1>
+    <form id="capture-form">
+      <label>
+        ARTIST
+        <input id="artist" name="artist" required autocomplete="off">
+      </label>
+      <label>
+        CATEGORY
+        <input id="category" name="category" required autocomplete="off" placeholder="web / artist">
+      </label>
+      <label>
+        LINK
+        <input id="url" name="url" required readonly>
+      </label>
+      <button type="submit">CAPTURE + ADD TO SHEET</button>
+    </form>
+
+    <details>
+      <summary>CONNECTION SETTINGS</summary>
+      <label>
+        APPS SCRIPT URL
+        <input id="endpoint" type="url" placeholder="https://script.google.com/.../exec">
+      </label>
+      <label>
+        PERSONAL TOKEN
+        <input id="token" type="password" autocomplete="off">
+      </label>
+      <button id="save-settings" type="button">SAVE SETTINGS</button>
+    </details>
+    <p id="status" role="status"></p>
+  </main>
+  <script src="popup.js"></script>
+</body>
+</html>

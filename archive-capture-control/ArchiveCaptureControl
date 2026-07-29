@@ -1,0 +1,41 @@
+#!/bin/zsh
+
+launch_domain="gui/501"
+service_label="com.jiho.archive-capture-receiver"
+service_target="${launch_domain}/${service_label}"
+plist_path="/Users/ji-ho/Library/LaunchAgents/com.jiho.archive-capture-receiver.plist"
+archive_path="/Users/ji-ho/Documents/GitHub/archive"
+
+choice=$(/usr/bin/osascript -l AppleScript -e 'choose from list {"Start receiver", "Stop receiver", "Update missing images", "Check status"}')
+
+case "$choice" in
+  "Start receiver")
+    if /bin/launchctl bootstrap "$launch_domain" "$plist_path" 2>/tmp/archive-capture-control-error; then
+      /usr/bin/osascript -e 'display dialog "The capture receiver is running."'
+    else
+      error_message=$(< /tmp/archive-capture-control-error)
+      /usr/bin/osascript -e "display dialog \"Could not start receiver: ${error_message}\""
+    fi
+    ;;
+  "Stop receiver")
+    if /bin/launchctl bootout "$service_target" 2>/tmp/archive-capture-control-error; then
+      /usr/bin/osascript -e 'display dialog "The capture receiver has stopped."'
+    else
+      error_message=$(< /tmp/archive-capture-control-error)
+      /usr/bin/osascript -e "display dialog \"Could not stop receiver: ${error_message}\""
+    fi
+    ;;
+  "Update missing images")
+    /usr/bin/osascript \
+      -e 'tell application "Terminal" to activate' \
+      -e "tell application \"Terminal\" to do script \"cd '${archive_path}' && npm run sync:archive\""
+    /usr/bin/osascript -e 'display dialog "Image update has started in Terminal. Keep that window open until it says Archive sync complete."'
+    ;;
+  "Check status")
+    if /bin/launchctl print "$service_target" >/dev/null 2>&1; then
+      /usr/bin/osascript -e 'display dialog "Receiver is running."'
+    else
+      /usr/bin/osascript -e 'display dialog "Receiver is stopped."'
+    fi
+    ;;
+esac

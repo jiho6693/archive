@@ -1,0 +1,3254 @@
+[
+  {
+    "artist": "Rhizome",
+    "category": "web / archive ",
+    "url": "https://rhizome.org/software/",
+    "image": "https___rhizome_org_software_.jpg"
+  },
+  {
+    "artist": "Open Acess",
+    "category": "web",
+    "url": "https://www.nga.gov/open-access-images.html",
+    "image": "https___www_nga_gov_open_access_images_html.jpg"
+  },
+  {
+    "artist": "Design Museum",
+    "category": "design / museum",
+    "url": "https://www.webdesignmuseum.org/",
+    "image": "https___www_webdesignmuseum_org_.jpg"
+  },
+  {
+    "artist": "Brand Style",
+    "category": "brand / style",
+    "url": "https://brandingstyleguides.com/",
+    "image": "https___brandingstyleguides_com_.jpg"
+  },
+  {
+    "artist": "Archive",
+    "category": "archive",
+    "url": "https://web.archive.org/",
+    "image": "https___web_archive_org_.jpg"
+  },
+  {
+    "artist": "Contemporaryartlibrary",
+    "category": "web / library",
+    "url": "https://www.contemporaryartlibrary.org/",
+    "image": "https___www_contemporaryartlibrary_org_.jpg"
+  },
+  {
+    "artist": "Fotomuseum",
+    "category": "web",
+    "url": "https://www.fotomuseum.ch/de/2014/03/03/is-photography-over/",
+    "image": "https___www_fotomuseum_ch_de_2014_03_03_is_photography_over_.jpg"
+  },
+  {
+    "artist": "Critialcode-Recipe",
+    "category": "web",
+    "url": "https://criticalcode.recipes/",
+    "image": "https___criticalcode_recipes_.jpg"
+  },
+  {
+    "artist": "Media Art Net",
+    "category": "web",
+    "url": "http://www.medienkunstnetz.de/themes/#theme2",
+    "image": "http___www_medienkunstnetz_de_themes__theme2.jpg"
+  },
+  {
+    "artist": "Adnauuseam",
+    "category": "web / program",
+    "url": "https://adnauseam.io/",
+    "image": "https___adnauseam_io_.jpg"
+  },
+  {
+    "artist": "Add-Art",
+    "category": "web / program",
+    "url": "https://add-art.org/",
+    "image": "https___add_art_org_.jpg"
+  },
+  {
+    "artist": "Pier 9",
+    "category": "residency / techology",
+    "url": "https://www.sherrying.com/pier-9",
+    "image": "https___www_sherrying_com_pier_9.jpg"
+  },
+  {
+    "artist": "Decolonize This Place",
+    "category": "insititution",
+    "url": "https://decolonizethisplace.org/",
+    "image": "https___decolonizethisplace_org_.jpg"
+  },
+  {
+    "artist": "Decolonize This Place",
+    "category": "web / insititution",
+    "url": "https://decolonizethisplace.org/9weeksofartinaction2",
+    "image": "https___decolonizethisplace_org_9weeksofartinaction2.jpg"
+  },
+  {
+    "artist": "Awards",
+    "category": "webGL",
+    "url": "https://www.awwwards.com/websites/webgl/",
+    "image": "https___www_awwwards_com_websites_webgl_.jpg"
+  },
+  {
+    "artist": "Performa",
+    "category": "web/archive / performance/link",
+    "url": "https://performa-arts.org/about",
+    "image": "https___performa_arts_org_about.jpg"
+  },
+  {
+    "artist": "Leah Beeferman",
+    "category": "image / screen / weather",
+    "url": "https://www.leahbeeferman.com/",
+    "image": "https___www_leahbeeferman_com_.jpg"
+  },
+  {
+    "artist": "Sourcetype",
+    "category": "web / archive / link",
+    "url": "https://www.sourcetype.com/#space",
+    "image": "https___www_sourcetype_com__space.jpg"
+  },
+  {
+    "artist": "Adocs",
+    "category": "zine / book / archive",
+    "url": "https://adocs.co/",
+    "image": "https___adocs_co_.jpg"
+  },
+  {
+    "artist": "The Book Society",
+    "category": "zine / book / archive",
+    "url": "https://thebooksociety.org/",
+    "image": "https___thebooksociety_org_.jpg"
+  },
+  {
+    "artist": "Printed Matter",
+    "category": "zine / book / archive",
+    "url": "https://www.printedmatter.org/",
+    "image": "https___www_printedmatter_org_.jpg"
+  },
+  {
+    "artist": "It'S Nice That",
+    "category": "web / archive",
+    "url": "https://www.itsnicethat.com/articles/junwoo-park-discover-illustration-140323",
+    "image": "https___www_itsnicethat_com_articles_junwoo_park_discover_illustration_140323.jpg"
+  },
+  {
+    "artist": "Vdrome",
+    "category": "web / magazine / archive",
+    "url": "https://www.vdrome.org/",
+    "image": "https___www_vdrome_org_.jpg"
+  },
+  {
+    "artist": "E-Flux",
+    "category": "web / magazine ",
+    "url": "https://www.e-flux.com/",
+    "image": "https___www_e_flux_com_.jpg"
+  },
+  {
+    "artist": "Beattitude",
+    "category": "magazine / web",
+    "url": "https://beattitude.kr/magazine/jsf/jet-engine:grid-1/meta/tag-filter!is_custom_checkbox:Art/",
+    "image": "https___beattitude_kr_magazine_jsf_jet_engine_grid_1_meta_tag_filter_is_custom_checkbox_Art_.jpg"
+  },
+  {
+    "artist": "Ryoji Ikeda",
+    "category": "screen / scale ",
+    "url": "https://www.ryojiikeda.com/",
+    "image": "https___www_ryojiikeda_com_.jpg"
+  },
+  {
+    "artist": "Jim Campbell",
+    "category": "pixel / screen",
+    "url": "https://www.google.com/search?q=Jim+Campbell&sca_esv=591715800&rlz=1C5CHFA_enKR1016KR1017&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiImfaetJeDAxXnUPUHHX2lCzgQ_AUoAXoECAMQAw&cshid=1702848300231554&biw=1352&bih=757&dpr=2",
+    "image": "https___www_google_com_search_q_Jim_Campbell_sca_esv_591715800_rlz_1C5CHFA_enKR1016KR1017_tbm_isch_source_lnms_sa_X_ved_2ahUKEwiImfaetJeDAxXnUPUHHX2lCzgQ_AUoAXoECAMQAw_cshid_1702848300231554_biw_1352_bih_757_dpr_2.jpg"
+  },
+  {
+    "artist": "Olympiagallery",
+    "category": "design / online / gallery",
+    "url": "https://sagmeisterwalsh.com/work/all/beauty/",
+    "image": "https___sagmeisterwalsh_com_work_all_beauty_.jpg"
+  },
+  {
+    "artist": "Sagmeisterwalsh",
+    "category": "web / graphic",
+    "url": "https://sagmeisterwalsh.com/work/all/beauty/",
+    "image": "https___sagmeisterwalsh_com_work_all_beauty_.jpg"
+  },
+  {
+    "artist": "Woven Sound",
+    "category": "sound / active / p5",
+    "url": "https://woven-sound.surge.sh/",
+    "image": "https___woven_sound_surge_sh_.jpg"
+  },
+  {
+    "artist": "Every Noise At Once",
+    "category": "sound / data ",
+    "url": "https://everynoise.com/",
+    "image": "https___everynoise_com_.jpg"
+  },
+  {
+    "artist": "Dali Museum",
+    "category": "Uncategorised",
+    "url": "https://www.youtube.com/watch?v=F1eLeIocAcU",
+    "image": "https___www_youtube_com_watch_v_F1eLeIocAcU.jpg"
+  },
+  {
+    "artist": "Cyber Feminism",
+    "category": "web / index / feminism",
+    "url": "https://cyberfeminismindex.com/",
+    "image": "https___cyberfeminismindex_com_.jpg"
+  },
+  {
+    "artist": "10 Websites Changed The World",
+    "category": "web / arhcive  / proto",
+    "url": "https://thenextweb.com/news/10-websites-that-changed-the-world-theyre-not-what-you-might-expect-video",
+    "image": "https___thenextweb_com_news_10_websites_that_changed_the_world_theyre_not_what_you_might_expect_video.jpg"
+  },
+  {
+    "artist": "Nipponcolor",
+    "category": "color",
+    "url": "https://nipponcolors.com/#benihiwada",
+    "image": "https___nipponcolors_com__benihiwada.jpg"
+  },
+  {
+    "artist": "Jody ",
+    "category": "web",
+    "url": "http://idn.jodi.org/",
+    "image": "http___idn_jodi_org_.jpg"
+  },
+  {
+    "artist": "Jorg Piringer",
+    "category": "web",
+    "url": "https://joerg.piringer.net/",
+    "image": "https___joerg_piringer_net_.jpg"
+  },
+  {
+    "artist": "Harm",
+    "category": "web generic algirythme",
+    "url": "https://harm.work/",
+    "image": "https___harm_work_.jpg"
+  },
+  {
+    "artist": "Jonrafman",
+    "category": "texture wrap room",
+    "url": "https://jonrafman.com/bnpj.html",
+    "image": "https___jonrafman_com_bnpj_html.jpg"
+  },
+  {
+    "artist": "Greogry Kalliche",
+    "category": "light / installation",
+    "url": "https://gregorykalliche.com/",
+    "image": "https___gregorykalliche_com_.jpg"
+  },
+  {
+    "artist": "Lydia Ourahmane",
+    "category": "light / installation",
+    "url": "https://www.lydiaourahmane.com/",
+    "image": "https___www_lydiaourahmane_com_.jpg"
+  },
+  {
+    "artist": "Uva",
+    "category": "collective london",
+    "url": "https://www.uva.co.uk/",
+    "image": "https___www_uva_co_uk_.jpg"
+  },
+  {
+    "artist": "Lozano Hemmer",
+    "category": "projector, computer, digital microscope, industrial camera, metal enclosure, custom software",
+    "url": "https://www.lozano-hemmer.com/pulse_index.php",
+    "image": "https___www_lozano_hemmer_com_pulse_index_php.jpg"
+  },
+  {
+    "artist": "Romy Achituv, Camille Utterback",
+    "category": "text rain",
+    "url": "https://americanart.si.edu/artwork/text-rain-109552",
+    "image": "https___americanart_si_edu_artwork_text_rain_109552.jpg"
+  },
+  {
+    "artist": "Cheyeny Thompsom",
+    "category": "pattern data",
+    "url": "https://www.artforum.com/events/cheyney-thompson-3-191853/",
+    "image": "https___www_artforum_com_events_cheyney_thompson_3_191853_.jpg"
+  },
+  {
+    "artist": "Casey Reas",
+    "category": "color data",
+    "url": "https://bitforms.art/exhibition/a-generative-movement/cr_theresnodistance1_2_1_w/",
+    "image": "https___bitforms_art_exhibition_a_generative_movement_cr_theresnodistance1_2_1_w_.jpg"
+  },
+  {
+    "artist": "Xavier Hufkens",
+    "category": "bump sculpture glitch",
+    "url": "https://www.xavierhufkens.com/exhibitions/convertible-fat-car-porsche",
+    "image": "https___www_xavierhufkens_com_exhibitions_convertible_fat_car_porsche.jpg"
+  },
+  {
+    "artist": "Geogoo",
+    "category": "web interaction",
+    "url": "https://geogoo.net/",
+    "image": "https___geogoo_net_.jpg"
+  },
+  {
+    "artist": "Human Beast",
+    "category": "Performance / Noise",
+    "url": "https://www.youtube.com/watch?v=zdeL1Gc_FGg&ab_channel=ValerieMartino",
+    "image": "https___www_youtube_com_watch_v_zdeL1Gc_FGg_ab_channel_ValerieMartino.jpg"
+  },
+  {
+    "artist": "From here till now",
+    "category": "Performance",
+    "url": "http://www.fromheretillnow.com/zine/james-k-by-eli-v-manuscript",
+    "image": "http___www_fromheretillnow_com_zine_james_k_by_eli_v_manuscript.jpg"
+  },
+  {
+    "artist": "Sam Lavigne",
+    "category": "data, surveillance, cops, natural language processing, automation",
+    "url": "https://lav.io/",
+    "image": "https___lav_io_.jpg"
+  },
+  {
+    "artist": "The Shed",
+    "category": "exhibition media / installaion reference",
+    "url": "https://www.theshed.org/program/63-manual-override",
+    "image": "https___www_theshed_org_program_63_manual_override.jpg"
+  },
+  {
+    "artist": "Itch",
+    "category": "Game p5",
+    "url": "https://itch.io/games/made-with-p5js",
+    "image": "https___itch_io_games_made_with_p5js.jpg"
+  },
+  {
+    "artist": "Jetet",
+    "category": "archive web",
+    "url": "http://www.jetset.nl/",
+    "image": "http___www_jetset_nl_.jpg"
+  },
+  {
+    "artist": "Casey Reas",
+    "category": "data visual ",
+    "url": "https://reas.com/",
+    "image": "https___reas_com_.jpg"
+  },
+  {
+    "artist": "Mushy",
+    "category": "artist (studio work)",
+    "url": "https://everestpipkin.itch.io/mushy",
+    "image": "https___everestpipkin_itch_io_mushy.jpg"
+  },
+  {
+    "artist": "Thomas Ruff",
+    "category": "jpeg photography perspective",
+    "url": "https://www.moma.org/collection/works/149384",
+    "image": "https___www_moma_org_collection_works_149384.jpg"
+  },
+  {
+    "artist": "Coryarcangel",
+    "category": "internet jpeg compression",
+    "url": "https://coryarcangel.com/things-i-made/",
+    "image": "https___coryarcangel_com_things_i_made_.jpg"
+  },
+  {
+    "artist": "David Horvitz",
+    "category": "image text",
+    "url": "https://www.pocko.com/david-horvitz/",
+    "image": "https___www_pocko_com_david_horvitz_.jpg"
+  },
+  {
+    "artist": "Tele Garden",
+    "category": "garden robot",
+    "url": "https://www.google.com/search?sca_esv=572350337&rlz=1C5CHFA_enKR1016KR1017&q=telegarden.acc.at&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjb173Bu-yBAxV6ElkFHaNwDEkQ0pQJegQICRAB&biw=1352&bih=759&dpr=2#imgrc=CKTh3LpP_gmsPM",
+    "image": "https___www_google_com_search_sca_esv_572350337_rlz_1C5CHFA_enKR1016KR1017_q_telegarden_acc_at_tbm_isch_source_lnms_sa_X_ved_2ahUKEwjb173Bu_yBAxV6ElkFHaNwDEkQ0pQJegQICRAB_biw_1352_bih_759_dpr_2_imgrc_CKTh3LpP_gmsPM.jpg"
+  },
+  {
+    "artist": "Jon Rafman",
+    "category": "Video,DigitalMedia,Installation",
+    "url": "https://jonrafman.com/",
+    "image": "https___jonrafman_com_.jpg"
+  },
+  {
+    "artist": "Jason Isoliui",
+    "category": "Uncategorised",
+    "url": "https://jisolini.com/",
+    "image": "https___jisolini_com_.jpg"
+  },
+  {
+    "artist": "Meta Haven",
+    "category": "Graphic design, film, critical design",
+    "url": "https://metahaven.net/",
+    "image": "https___metahaven_net_.jpg"
+  },
+  {
+    "artist": "Vija Celemins",
+    "category": "Drawing, painting",
+    "url": "https://www.moma.org/collection/works/100210",
+    "image": "https___www_moma_org_collection_works_100210.jpg"
+  },
+  {
+    "artist": "Joyceho",
+    "category": "Installation,Video,Performance",
+    "url": "https://joyceho.com/ROCK",
+    "image": "https___joyceho_com_ROCK.jpg"
+  },
+  {
+    "artist": "New Rafael",
+    "category": "WebArt,DigitalMedia,GenerativeArt",
+    "url": "https://www.newrafael.com/",
+    "image": "https___www_newrafael_com_.jpg"
+  },
+  {
+    "artist": "Bruno-Latour",
+    "category": "Theory (philosopher, sociologist)",
+    "url": "http://www.bruno-latour.fr/virtual/EN/index.html",
+    "image": "http___www_bruno_latour_fr_virtual_EN_index_html.jpg"
+  },
+  {
+    "artist": "Detroit Group",
+    "category": "CollectivePractice,UrbanIntervention,CommunityEngagement",
+    "url": "http://openendedgroup.com/artworks/images/Detroit-Transect-Artists-Statement-and-Final-Report_10.1.14.pdf",
+    "image": "http___openendedgroup_com_artworks_images_Detroit_Transect_Artists_Statement_and_Final_Report_10_1_14_pdf.jpg"
+  },
+  {
+    "artist": "Luba Drozd",
+    "category": "Installation, sound, sculptural environments Sensory perception, memory, spatial politics",
+    "url": "https://www.lubadrozd.com/",
+    "image": "https___www_lubadrozd_com_.jpg"
+  },
+  {
+    "artist": "Clement Valla",
+    "category": "3DRendering,DigitalPrints,AlgorithmicArt",
+    "url": "http://clementvalla.com/",
+    "image": "http___clementvalla_com_.jpg"
+  },
+  {
+    "artist": "Jordanmetz",
+    "category": "web 3dd",
+    "url": "https://www.jordanmetz.com/virtual-reliquary",
+    "image": "https___www_jordanmetz_com_virtual_reliquary.jpg"
+  },
+  {
+    "artist": "Ken Unsworth",
+    "category": "Installation,Sculpture,Performance",
+    "url": "https://www.google.com/search?q=ken+unsworth+artist&rlz=1C5CHFA_enKR1016KR1017&ei=IyJwY43jGdWg5NoPosyXKA&oq=artist+ken+uns&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgAMgYIABAWEB4yBQgAEIYDMgUIABCGAzoKCAAQRxDWBBCwAzoECC4QQzoFCAAQgAQ6BQguEIAESgQITRgBSgQIQRgASgQIRhgAUNsDWKwLYM0daAFwAXgAgAGHAYgBlwOSAQMyLjKYAQCgAQHIAQjAAQE&sclient=gws-wiz-serp#imgrc=YsVYKCh6kYWCEM",
+    "image": "ec4bb2249c20bf22abc4927736a47ca7.jpg"
+  },
+  {
+    "artist": "Avoir",
+    "category": "index website",
+    "url": "https://avoir.website/projects",
+    "image": "https___avoir_website_projects.jpg"
+  },
+  {
+    "artist": "Verygoodfilms",
+    "category": "web archive filme catalouge",
+    "url": "https://verygoodfilms.co/",
+    "image": "https___verygoodfilms_co_.jpg"
+  },
+  {
+    "artist": "Kindling",
+    "category": "web magazine",
+    "url": "https://www.kindlingmag.com/",
+    "image": "https___www_kindlingmag_com_.jpg"
+  },
+  {
+    "artist": "Isamu Noguhci",
+    "category": "Sculpture,Design,LandscapeArchitecture",
+    "url": "https://www.google.com/search?sca_esv=4b64fb292c50f957&q=Isamu+Noguchi&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBsxayPSIAqObp_AgjkUGqel3rTRMIJGV_ECIUB00mupujJbyw82c7vlYBaFJu3BmNAQzAFr6obCTLutWM17qnmiOU-zUTKn7eXIlsD8HYbVMoPCUoQ-8w2eBI-HPhrVEu8E-X-pRJi-IDF2DFIJu34aAXq7SSNs64lEYJnUMf4GCLzulQQ&sa=X&ved=2ahUKEwi9uOri0ZqMAxUKh68BHeptAaEQtKgLegQIFBAB&biw=1920&bih=958&dpr=2",
+    "image": "71f5b86cfd07bf1363c222af2e0d5361.jpg"
+  },
+  {
+    "artist": "Minkyoungkim",
+    "category": "desinger web",
+    "url": "https://minkyoungkim.com/home/",
+    "image": "https___minkyoungkim_com_home_.jpg"
+  },
+  {
+    "artist": "Jesper Just",
+    "category": "medai screen, installation",
+    "url": "https://www.jesperjust.com/programme.html",
+    "image": "https___www_jesperjust_com_programme_html.jpg"
+  },
+  {
+    "artist": "Mark Dorf",
+    "category": "media",
+    "url": "https://mdorf.com/",
+    "image": "https___mdorf_com_.jpg"
+  },
+  {
+    "artist": "Lauren Mccarthy",
+    "category": "media / digital",
+    "url": "https://lauren-mccarthy.com/",
+    "image": "https___lauren_mccarthy_com_.jpg"
+  },
+  {
+    "artist": "Nick Montfort",
+    "category": "mit prof",
+    "url": "https://nickm.com/",
+    "image": "https___nickm_com_.jpg"
+  },
+  {
+    "artist": "Untitled",
+    "category": "web",
+    "url": "http://wwwwwwwww.jodi.org/betalab/rain/digi4.html",
+    "image": "http___wwwwwwwww_jodi_org_betalab_rain_digi4_html.jpg"
+  },
+  {
+    "artist": "Eva & Franco Matters",
+    "category": "web",
+    "url": "https://0100101110101101.org/",
+    "image": "https___0100101110101101_org_.jpg"
+  },
+  {
+    "artist": "Aaron Koblin",
+    "category": "web",
+    "url": "http://www.aaronkoblin.com/",
+    "image": "http___www_aaronkoblin_com_.jpg"
+  },
+  {
+    "artist": "Ralf Baecker",
+    "category": "web",
+    "url": "https://rlfbckr.io/work/ptpbta/",
+    "image": "https___rlfbckr_io_work_ptpbta_.jpg"
+  },
+  {
+    "artist": "Dinakelberman",
+    "category": "web image",
+    "url": "https://imgoogle.dinakelberman.com/",
+    "image": "https___imgoogle_dinakelberman_com_.jpg"
+  },
+  {
+    "artist": "Bruno-Simon",
+    "category": "web portfolio",
+    "url": "https://bruno-simon.com/",
+    "image": "https___bruno_simon_com_.jpg"
+  },
+  {
+    "artist": "Zach Blas",
+    "category": "internet system",
+    "url": "https://zachblas.info/",
+    "image": "https___zachblas_info_.jpg"
+  },
+  {
+    "artist": "Doug Aitken",
+    "category": "install reflection",
+    "url": "https://www.dougaitkenworkshop.com/",
+    "image": "https___www_dougaitkenworkshop_com_.jpg"
+  },
+  {
+    "artist": "Ryoji Ikeda",
+    "category": "sensor pixel installation",
+    "url": "https://www.google.com/search?sca_esv=4b64fb292c50f957&q=Ryoji+Ikeda&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBjLjqIC1CYKD9D-DQAQS3Z44LBK6yTXN_5587Z3ya9D76ZZ826DWN9d1Qgzn83HTxkNyD-y2lvIVOgVuXoW4DIBemkWpiAh5dAj38Z0PC4v-xHue7DNBjXSEv0oaT8EQq8rpOkIZmT4uFJd5QLVFJ1T3gEzNHJem1v1gc2MBCvlPJWjJUQ&sa=X&ved=2ahUKEwj1hYbf0ZqMAxUalK8BHaUZNg0QtKgLegQIGBAB&biw=1920&bih=958&dpr=2",
+    "image": "87de18c8e3afde8f738d723f5de50d9c.jpg"
+  },
+  {
+    "artist": "Lee Kit",
+    "category": "Installation,Painting,Projection/ Intimacy,EverydayObjects,SubtleEmotion,PoliticalUnderstatement",
+    "url": "https://www.google.com/search?sca_esv=4b64fb292c50f957&q=Lee+Kit&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBhIpUzwo1xVav_yEtDdg_xMX8ipsS7RcD4WuEjgHFdfeQw8eSImegYLOQcJ-YXF0Pmn7VJY8CpBHO2yPLYDfX2S8mTQkswJEBFmALk4H-iIUUmWyNGUz71UkhbsJdE2gsT5kpnBQFC2AYES4VLdI6Ux5yeIkLs-GJgLGyZm1-KsdeIn5mA&sa=X&ved=2ahUKEwiA2Irb0ZqMAxU9ePUHHVCzJpoQtKgLegQIDRAB&biw=1920&bih=958&dpr=2",
+    "image": "e2dc898fad847cea054db6a9d4f40c55.jpg"
+  },
+  {
+    "artist": "Chris marker ",
+    "category": "archive",
+    "url": "https://www.google.com/search?sca_esv=584731264&rlz=1C5CHFA_enKR1016KR1017&q=chris+marker+immemory&tbm=isch&source=lnms&sa=X&ved=2ahUKEwi77I_48tiCAxUwFlkFHSF3AXEQ0pQJegQIDRAB&biw=1352&bih=757&dpr=2#imgrc=N3CLMq2BmZaJVM",
+    "image": "https___www_google_com_search_sca_esv_584731264_rlz_1C5CHFA_enKR1016KR1017_q_chris_marker_immemory_tbm_isch_source_lnms_sa_X_ved_2ahUKEwi77I_48tiCAxUwFlkFHSF3AXEQ0pQJegQIDRAB_biw_1352_bih_757_dpr_2_imgrc_N3CLMq2BmZaJVM.jpg"
+  },
+  {
+    "artist": "George Legrady",
+    "category": "Archive",
+    "url": "https://digitalartarchive.at/database/general/work/an-anecdoted-archive-from-the-cold-war.html",
+    "image": "https___digitalartarchive_at_database_general_work_an_anecdoted_archive_from_the_cold_war_html.jpg"
+  },
+  {
+    "artist": "Jesper Just",
+    "category": "Jesper Just",
+    "url": "https://www.google.com/search?sca_esv=c34f1484862cc875&q=Jesper+Just&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBjLjqIC1CYKD9D-DQAQS3Z598VAVBnbpHrmLO7c8q4i29MHIoj62rC0KLNSn9Sz5z3esFN5drB9QO4K_J7PbHKiOJnkbQL94KPMWWfP42kcXLmA05Kz_kWSlBbJw3EyH2rvflvwG7CF_3RriU7tNogaTVRNHY8WquDbJw9ZbEZR3LqeFVg&sa=X&ved=2ahUKEwjN8qHO0ZqMAxWbm68BHbm7Gg8QtKgLegQIFRAB&biw=1920&bih=958&dpr=2",
+    "image": "8aa5116dec22923034348eb35e95b44a.jpg"
+  },
+  {
+    "artist": "Haroon Paroki",
+    "category": "Installation,SoundArt,Electronics",
+    "url": "https://www.harunfarocki.de/home.html",
+    "image": "https___www_harunfarocki_de_home_html.jpg"
+  },
+  {
+    "artist": "Hito Steyerl",
+    "category": "VideoEssay,Installation,Theory",
+    "url": "https://www.google.com/search?sca_esv=4b64fb292c50f957&q=Hito+Steyerl&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBjLjqIC1CYKD9D-DQAQS3Z44LBK6yTXN_5587Z3ya9D76ZZ826DWN9d1Qgzn83HTxkNyD-y2lvIVOgVuXoW4DIBemkWpiAh5dAj38Z0PC4v-xHue7DNBjXSEv0oaT8EQq8rpOkIZmT4uFJd5QLVFJ1T3gEzNHJem1v1gc2MBCvlPJWjJUQ&sa=X&ved=2ahUKEwj_iKLD0ZqMAxUgkK8BHVgoHIcQtKgLegQIFxAB&biw=1920&bih=958&dpr=2",
+    "image": "ec729bbd0dea3c0ead077bf7d4ea3e6a.jpg"
+  },
+  {
+    "artist": "Nemie Goudal",
+    "category": "glitch nature",
+    "url": "https://www.google.com/search?q=Nemie+Goudal&oq=Nemie+Goudal&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzM2MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8",
+    "image": "https___www_google_com_search_q_Nemie_Goudal_oq_Nemie_Goudal_gs_lcrp_EgZjaHJvbWUyBggAEEUYOdIBBzM2MWowajeoAgCwAgA_sourceid_chrome_ie_UTF_8.jpg"
+  },
+  {
+    "artist": " Toril Johannessen\n\n",
+    "category": "Move, scale",
+    "url": "https://www.toriljohannessen.no/works/transcendental-physics/",
+    "image": "https___www_toriljohannessen_no_works_transcendental_physics_.jpg"
+  },
+  {
+    "artist": "Trevor Paglen",
+    "category": "perspective, ",
+    "url": "https://www.google.com/search?sca_esv=c34f1484862cc875&q=Trevor+Paglen&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBnsX62dbVmWR6QCQ5QEtPRrN1KFHti9EP_dqC742rxzHNYrK4aIGJt-VBGd9a6Cy3PUCVIbXOXyNSMm1nLumVA1DyqdUISZJ0S_wUr3-nFgn9UzXPNT8B_yEJyltoYwlFo9_sJAdocaQrGORfK7dw_gP3vKq0YUTYEbVGeVCacy50s4k_Q&sa=X&ved=2ahUKEwi069LAz5qMAxXqlFYBHbTvKbMQtKgLegQIDhAB",
+    "image": "218fa49346ffcd5eea846f2c124b57b7.jpg"
+  },
+  {
+    "artist": "Hhha",
+    "category": "hhha web index graphic",
+    "url": "https://www.hhha.online/",
+    "image": "https___www_hhha_online_.jpg"
+  },
+  {
+    "artist": "Israelkandarian",
+    "category": "graphic",
+    "url": "https://israelkandarian.com/",
+    "image": "https___israelkandarian_com_.jpg"
+  },
+  {
+    "artist": "Studio moniker",
+    "category": "Uncategorised",
+    "url": "https://studiomoniker.com/",
+    "image": "https___studiomoniker_com_.jpg"
+  },
+  {
+    "artist": "Scotthessels",
+    "category": "Uncategorised",
+    "url": "http://scotthessels.com/",
+    "image": "http___scotthessels_com_.jpg"
+  },
+  {
+    "artist": "Kenjacobs gallery",
+    "category": "Uncategorised",
+    "url": "https://www.kenjacobsgallery.com/",
+    "image": "https___www_kenjacobsgallery_com_.jpg"
+  },
+  {
+    "artist": "mjt",
+    "category": "Uncategorised",
+    "url": "https://www.mjt.org/exhibits/letters/letters.html",
+    "image": "https___www_mjt_org_exhibits_letters_letters_html.jpg"
+  },
+  {
+    "artist": "Anthony Macall",
+    "category": "light",
+    "url": "https://www.google.com/search?q=anthony+mccall&rlz=1C5CHFA_enKR1016KR1017&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjl5oeik5v9AhXrrokEHYDtCEcQ_AUoAXoECAEQAw&biw=1147&bih=637&dpr=2",
+    "image": "https___www_google_com_search_q_anthony_mccall_rlz_1C5CHFA_enKR1016KR1017_source_lnms_tbm_isch_sa_X_ved_2ahUKEwjl5oeik5v9AhXrrokEHYDtCEcQ_AUoAXoECAEQAw_biw_1147_bih_637_dpr_2.jpg"
+  },
+  {
+    "artist": "Mimionuoha",
+    "category": "Uncategorised",
+    "url": "https://mimionuoha.com/the-library-of-missing-datasets",
+    "image": "https___mimionuoha_com_the_library_of_missing_datasets.jpg"
+  },
+  {
+    "artist": "Studiodumbar",
+    "category": "design web",
+    "url": "https://studiodumbar.com/",
+    "image": "https___studiodumbar_com_.jpg"
+  },
+  {
+    "artist": "Laboria Cuboniks",
+    "category": "A Politics for Alienation",
+    "url": "https://laboriacuboniks.net/manifesto/zenofeminizm-yabancilasma-icin-bir-politika/",
+    "image": "https___laboriacuboniks_net_manifesto_zenofeminizm_yabancilasma_icin_bir_politika_.jpg"
+  },
+  {
+    "artist": "Jodi",
+    "category": "glitch",
+    "url": "https://www.youtube.com/watch?v=1pVnwhds-QA&ab_channel=Aldobii",
+    "image": "https___www_youtube_com_watch_v_1pVnwhds_QA_ab_channel_Aldobii.jpg"
+  },
+  {
+    "artist": "David Blair",
+    "category": "wax web",
+    "url": "https://www.waxweb.org/",
+    "image": "https___www_waxweb_org_.jpg"
+  },
+  {
+    "artist": "Yaniksoland",
+    "category": "Uncategorised",
+    "url": "http://www.yaniksoland.ch/",
+    "image": "http___www_yaniksoland_ch_.jpg"
+  },
+  {
+    "artist": "Timo Toots",
+    "category": "surveillance private data",
+    "url": "https://www.timo.ee/",
+    "image": "https___www_timo_ee_.jpg"
+  },
+  {
+    "artist": "Ana Laura Cantera",
+    "category": "bio robot",
+    "url": "https://www.analauracantera.com.ar/home",
+    "image": "https___www_analauracantera_com_ar_home.jpg"
+  },
+  {
+    "artist": "Kimheecheon",
+    "category": "Uncategorised",
+    "url": "http://kimheecheon.com/",
+    "image": "http___kimheecheon_com_.jpg"
+  },
+  {
+    "artist": "Yoonhyanro",
+    "category": "Uncategorised",
+    "url": "https://yoonhyangro.tumblr.com/",
+    "image": "https___yoonhyangro_tumblr_com_.jpg"
+  },
+  {
+    "artist": "Contact Gonzo",
+    "category": "performance",
+    "url": "https://www.youtube.com/watch?v=Ax-wwMmw70A",
+    "image": "https___www_youtube_com_watch_v_Ax_wwMmw70A.jpg"
+  },
+  {
+    "artist": "Kimayoung",
+    "category": "Uncategorised",
+    "url": "http://ayoungkim.com/wp/",
+    "image": "http___ayoungkim_com_wp_.jpg"
+  },
+  {
+    "artist": "Refikcanadol",
+    "category": "high image",
+    "url": "https://refikanadol.com/",
+    "image": "https___refikanadol_com_.jpg"
+  },
+  {
+    "artist": "Otolith Group",
+    "category": "Uncategorised",
+    "url": "https://otolithgroup.org/",
+    "image": "https___otolithgroup_org_.jpg"
+  },
+  {
+    "artist": "Halim El-Dabh",
+    "category": "sound composer",
+    "url": "https://en.wikipedia.org/wiki/Halim_El-Dabh",
+    "image": "https___en_wikipedia_org_wiki_Halim_El_Dabh.jpg"
+  },
+  {
+    "artist": "Pierre Schaeffer",
+    "category": "sound composer",
+    "url": "https://www.google.com/search?q=pierre+schaeffer&source=lmns&tbm=vid&bih=765&biw=1352&rlz=1C5CHFA_enKR1016KR1017&hl=en&sa=X&ved=2ahUKEwjI0ceMj8_9AhUvCVkFHe8zBkIQ_AUoAnoECAEQAg",
+    "image": "https___www_google_com_search_q_pierre_schaeffer_source_lmns_tbm_vid_bih_765_biw_1352_rlz_1C5CHFA_enKR1016KR1017_hl_en_sa_X_ved_2ahUKEwjI0ceMj8_9AhUvCVkFHe8zBkIQ_AUoAnoECAEQAg.jpg"
+  },
+  {
+    "artist": "Rosenmunthe",
+    "category": "data, actor , bruno",
+    "url": "https://rosenmunthe.com/",
+    "image": "https___rosenmunthe_com_.jpg"
+  },
+  {
+    "artist": "Ahram Kwon",
+    "category": "media, installation, wall",
+    "url": "https://ahramkwon.com/Home",
+    "image": "https___ahramkwon_com_Home.jpg"
+  },
+  {
+    "artist": "Alan Resnick",
+    "category": "Ai movie",
+    "url": "https://alanresnick.info/tagged/digitalpainting",
+    "image": "https___alanresnick_info_tagged_digitalpainting.jpg"
+  },
+  {
+    "artist": "Aziz Hazara",
+    "category": "Uncategorised",
+    "url": "https://artsandculture.google.com/story/aziz-hazara-biennale-of-sydney/7wXxFDfsklpr3Q?hl=en",
+    "image": "https___artsandculture_google_com_story_aziz_hazara_biennale_of_sydney_7wXxFDfsklpr3Q_hl_en.jpg"
+  },
+  {
+    "artist": "Jacolby Satterwhite",
+    "category": "performance video",
+    "url": "https://www.google.com/search?q=jacolby+satterwhite&rlz=1C5CHFA_enKR1016KR1017&hl=en&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiijPvun7n-AhXXpokEHZ8zBtAQ0pQJegQIBhAC&biw=1352&bih=765&dpr=2",
+    "image": "https___www_google_com_search_q_jacolby_satterwhite_rlz_1C5CHFA_enKR1016KR1017_hl_en_source_lnms_tbm_isch_sa_X_ved_2ahUKEwiijPvun7n_AhXXpokEHZ8zBtAQ0pQJegQIBhAC_biw_1352_bih_765_dpr_2.jpg"
+  },
+  {
+    "artist": "Untitled",
+    "category": "Uncategorised",
+    "url": "https://biennialfoundation.org/2016/09/shanghai_biennale/",
+    "image": "https___biennialfoundation_org_2016_09_shanghai_biennale_.jpg"
+  },
+  {
+    "artist": "Yuri Pattison",
+    "category": "screen , computers, structure",
+    "url": "https://artviewer.org/yuri-pattison-at-the-douglas-hyde-gallery/",
+    "image": "https___artviewer_org_yuri_pattison_at_the_douglas_hyde_gallery_.jpg"
+  },
+  {
+    "artist": "Untitled",
+    "category": "Uncategorised",
+    "url": "https://jsfoundation.art/artworks/paralyzed/",
+    "image": "https___jsfoundation_art_artworks_paralyzed_.jpg"
+  },
+  {
+    "artist": "Untitled",
+    "category": "Uncategorised",
+    "url": "https://momentfactory.com/work/all/all/soissons-en-lumieres",
+    "image": "https___momentfactory_com_work_all_all_soissons_en_lumieres.jpg"
+  },
+  {
+    "artist": "Christopher Wool",
+    "category": "text wall conceptual drawing",
+    "url": "https://www.google.com/search?sca_esv=567074376&hl=en&q=Christopher+Wool&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiL1vGiprqBAxXRFFkFHe3MClIQ0pQJegQIChAB&biw=2028&bih=1138&dpr=1.33",
+    "image": "https___www_google_com_search_sca_esv_567074376_hl_en_q_Christopher_Wool_tbm_isch_source_lnms_sa_X_ved_2ahUKEwiL1vGiprqBAxXRFFkFHe3MClIQ0pQJegQIChAB_biw_2028_bih_1138_dpr_1_33.jpg"
+  },
+  {
+    "artist": "Untitled",
+    "category": "Uncategorised",
+    "url": "https://www.lozano-hemmer.com/exhibitions.php",
+    "image": "https___www_lozano_hemmer_com_exhibitions_php.jpg"
+  },
+  {
+    "artist": "ouchhh",
+    "category": "Uncategorised",
+    "url": "https://ouchhh.tv/",
+    "image": "https___ouchhh_tv_.jpg"
+  },
+  {
+    "artist": "Balmingtiger",
+    "category": "Uncategorised",
+    "url": "https://balmingtiger.com/",
+    "image": "https___balmingtiger_com_.jpg"
+  },
+  {
+    "artist": "Laure Prouvost",
+    "category": "Uncategorised",
+    "url": "https://www.google.com/search?q=Laure+Prouvost&rlz=1C5CHFA_enKR1016KR1017&oq=Laure+Prouvost&aqs=chrome..69i57j69i61l2j69i60.345j0j7&sourceid=chrome&ie=UTF-8",
+    "image": "https___www_google_com_search_q_Laure_Prouvost_rlz_1C5CHFA_enKR1016KR1017_oq_Laure_Prouvost_aqs_chrome__69i57j69i61l2j69i60_345j0j7_sourceid_chrome_ie_UTF_8.jpg"
+  },
+  {
+    "artist": "Klara Liden",
+    "category": "Uncategorised",
+    "url": "http://www.reenaspaulings.com/KL.htm",
+    "image": "http___www_reenaspaulings_com_KL_htm.jpg"
+  },
+  {
+    "artist": "France Stark",
+    "category": "Uncategorised",
+    "url": "https://www.google.com/search?sa=X&rlz=1C5CHFA_enKR1016KR1017&hl=en&q=My+Best+Thing&si=AMnBZoErWInxUlKOyGQp-nlEF17sKvDdATwz2UZyqwbH7jtcQtHMz3BbEFgkP5NEGUk20h5HtbD2rk1TlQ4NrC7ke-v0fckWNlUqHxDf32YCEWvOz3YmwtLcEXTxLvKXieJSDrvoPALw3_B7ewf_16V_btH4PfAruyehcBK1zm_dHsOwFHvON9c%3D&ved=2ahUKEwjA47fSz4v_AhWvhYkEHQaDDFYQ3LoBegQIDRAB&biw=1352&bih=765&dpr=2",
+    "image": "229c93408b6254932605eeb02367aa9d.jpg"
+  },
+  {
+    "artist": "Tunauysal",
+    "category": "Uncategorised",
+    "url": "https://www.tunauysal.com/grey-zone",
+    "image": "https___www_tunauysal_com_grey_zone.jpg"
+  },
+  {
+    "artist": "Jean-Pierre Hébert\n",
+    "category": "algorithmic art",
+    "url": "https://www.google.com/search?sca_esv=567074376&hl=en&q=jean+pierre+hebert&tbm=isch&source=lnms&sa=X&ved=2ahUKEwilsuP7pbqBAxV-ElkFHdXoAbYQ0pQJegQIChAB&biw=2028&bih=1138&dpr=1.33",
+    "image": "https___www_google_com_search_sca_esv_567074376_hl_en_q_jean_pierre_hebert_tbm_isch_source_lnms_sa_X_ved_2ahUKEwilsuP7pbqBAxV_ElkFHdXoAbYQ0pQJegQIChAB_biw_2028_bih_1138_dpr_1_33.jpg"
+  },
+  {
+    "artist": "Vickie Vainionpää",
+    "category": "bubble flat painting",
+    "url": "https://www.google.com/search?sca_esv=567032013&sxsrf=AM9HkKmpZ87SC4HKfoWeI49cWGLPWA79UQ:1695238182620&q=Vickie+Vainionp%C3%A4%C3%A4&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjf0Lyt9rmBAxX-FVkFHW2sC9wQ0pQJegQIDBAB&biw=1770&bih=1010&dpr=2#imgrc=fe1etOPUheFEbM",
+    "image": "fdcd8cb1f5ddf88a1d9f5d1aa4da4bdd.jpg"
+  },
+  {
+    "artist": "Untitled",
+    "category": "building",
+    "url": "https://vimeo.com/589324922",
+    "image": "https___vimeo_com_589324922.jpg"
+  },
+  {
+    "artist": "Untitled",
+    "category": "Uncategorised",
+    "url": "https://www.moma.org/collection/works/118839",
+    "image": "https___www_moma_org_collection_works_118839.jpg"
+  },
+  {
+    "artist": "Daisyginsberg",
+    "category": "Uncategorised",
+    "url": "https://www.daisyginsberg.com/",
+    "image": "https___www_daisyginsberg_com_.jpg"
+  },
+  {
+    "artist": "I'M Sitting In The Room",
+    "category": "song, repetition",
+    "url": "https://en.wikipedia.org/wiki/I_Am_Sitting_in_a_Room",
+    "image": "https___en_wikipedia_org_wiki_I_Am_Sitting_in_a_Room.jpg"
+  },
+  {
+    "artist": "Travess",
+    "category": "piexl digitaldrawing",
+    "url": "https://www.travesssmalley.com/",
+    "image": "https___www_travesssmalley_com_.jpg"
+  },
+  {
+    "artist": "Teamlab",
+    "category": "visualization",
+    "url": "https://www.teamlab.art/e/macao/",
+    "image": "https___www_teamlab_art_e_macao_.jpg"
+  },
+  {
+    "artist": "Rosa Menkman",
+    "category": "coumputerart glitch",
+    "url": "http://rosa-menkman.blogspot.com/",
+    "image": "http___rosa_menkman_blogspot_com_.jpg"
+  },
+  {
+    "artist": "Sarah Meyohas",
+    "category": "square reflection",
+    "url": "https://sarahmeyohas.com/speculations/",
+    "image": "https___sarahmeyohas_com_speculations_.jpg"
+  },
+  {
+    "artist": "Granular Synthesis",
+    "category": "noise glitch Synthesis",
+    "url": "https://granularsynthesis.info/Start",
+    "image": "https___granularsynthesis_info_Start.jpg"
+  },
+  {
+    "artist": "Lawrence Weiner",
+    "category": "Text wall conceptual",
+    "url": "https://www.google.com/search?client=firefox-b-1-d&sca_esv=567074376&hl=en&q=lawrence+weiner&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjEs--ZpLqBAxVuKlkFHaAJA4gQ0pQJegQIChAB&biw=2028&bih=1138&dpr=1.33",
+    "image": "https___www_google_com_search_client_firefox_b_1_d_sca_esv_567074376_hl_en_q_lawrence_weiner_tbm_isch_source_lnms_sa_X_ved_2ahUKEwjEs__ZpLqBAxVuKlkFHaAJA4gQ0pQJegQIChAB_biw_2028_bih_1138_dpr_1_33.jpg"
+  },
+  {
+    "artist": "Pattern And Decoration",
+    "category": "Pattern and Decoration",
+    "url": "https://www.artsy.net/article/artsy-editorial-pattern-decoration-movement-challenged-machismo-modernism",
+    "image": "https___www_artsy_net_article_artsy_editorial_pattern_decoration_movement_challenged_machismo_modernism.jpg"
+  },
+  {
+    "artist": "Petra Cortright",
+    "category": "painter flower drawing / digital painting",
+    "url": "https://www.petracortright.com/",
+    "image": "https___www_petracortright_com_.jpg"
+  },
+  {
+    "artist": "Jorg Iringer",
+    "category": "digital soudn visual interative",
+    "url": "https://joerg.piringer.net/",
+    "image": "https___joerg_piringer_net_.jpg"
+  },
+  {
+    "artist": "Loweredcase",
+    "category": "web interative",
+    "url": "https://loweredcase.github.io/generativeType-letterMatter/",
+    "image": "https___loweredcase_github_io_generativeType_letterMatter_.jpg"
+  },
+  {
+    "artist": "Harold Cohen",
+    "category": "Ai drawing ",
+    "url": "https://www.google.com/search?sca_esv=566982129&rlz=1C5CHFA_enKR1016KR1017&q=Harold+Cohen&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiugJrf6bmBAxUel4kEHbAMANsQ0pQJegQICxAB&biw=2028&bih=1138&dpr=1.33#imgrc=fqgRVUQ0Ezw59M",
+    "image": "https___www_google_com_search_sca_esv_566982129_rlz_1C5CHFA_enKR1016KR1017_q_Harold_Cohen_tbm_isch_source_lnms_sa_X_ved_2ahUKEwiugJrf6bmBAxUel4kEHbAMANsQ0pQJegQICxAB_biw_2028_bih_1138_dpr_1_33_imgrc_fqgRVUQ0Ezw59M.jpg"
+  },
+  {
+    "artist": "Saraludy",
+    "category": "digital web pixel",
+    "url": "https://www.saraludy.com/2009",
+    "image": "https___www_saraludy_com_2009.jpg"
+  },
+  {
+    "artist": "The New Tendencies",
+    "category": "pixel dot",
+    "url": "https://www.google.com/search?sca_esv=574510585&rlz=1C5CHFA_enKR1016KR1017&q=the+new+tendencies&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiSgca0rYCCAxVOtokEHd1oBQkQ0pQJegQIChAB&biw=1352&bih=759&dpr=2",
+    "image": "https___www_google_com_search_sca_esv_574510585_rlz_1C5CHFA_enKR1016KR1017_q_the_new_tendencies_tbm_isch_source_lnms_sa_X_ved_2ahUKEwiSgca0rYCCAxVOtokEHd1oBQkQ0pQJegQIChAB_biw_1352_bih_759_dpr_2.jpg"
+  },
+  {
+    "artist": "Rube Goldberg",
+    "category": "cartoon machine mechanism",
+    "url": "https://www.google.com/search?sca_esv=574510585&rlz=1C5CHFA_enKR1016KR1017&q=rube+goldberg&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiTooq5r4CCAxVrg4kEHStPCAkQ0pQJegQIDBAB&biw=1352&bih=759&dpr=2",
+    "image": "https___www_google_com_search_sca_esv_574510585_rlz_1C5CHFA_enKR1016KR1017_q_rube_goldberg_tbm_isch_source_lnms_sa_X_ved_2ahUKEwiTooq5r4CCAxVrg4kEHStPCAkQ0pQJegQIDBAB_biw_1352_bih_759_dpr_2.jpg"
+  },
+  {
+    "artist": "Untitled",
+    "category": "knit e-textile graphic",
+    "url": "https://veravandeseyp.com/?fbclid=PAZXh0bgNhZW0CMTEAAabN5eGkxGvfCT2zKvHi56G8k-8vYOIievy2sEtCmglg_I6kJA9D-ai0gLw_aem_aMEpV0dLJVeExVySQCceBg",
+    "image": "https___veravandeseyp_com__fbclid_PAZXh0bgNhZW0CMTEAAabN5eGkxGvfCT2zKvHi56G8k_8vYOIievy2sEtCmglg_I6kJA9D_ai0gLw_aem_aMEpV0dLJVeExVySQCceBg.jpg"
+  },
+  {
+    "artist": "Curating The Library",
+    "category": "book in website",
+    "url": "https://ctl.werkplaatstypografie.org/",
+    "image": "https___ctl_werkplaatstypografie_org_.jpg"
+  },
+  {
+    "artist": "Nataliajordanova",
+    "category": "book in website, scroll / perspective",
+    "url": "https://nataliajordanova.com/",
+    "image": "https___nataliajordanova_com_.jpg"
+  },
+  {
+    "artist": "Yehwan Song",
+    "category": "book in website",
+    "url": "https://yhsong.com/isia_wt_summerschool_archive/",
+    "image": "https___yhsong_com_isia_wt_summerschool_archive_.jpg"
+  },
+  {
+    "artist": "Reading Machine",
+    "category": "book in website, archive",
+    "url": "https://tdingsun.github.io/reading-machines/",
+    "image": "https___tdingsun_github_io_reading_machines_.jpg"
+  },
+  {
+    "artist": "Book land",
+    "category": "book in website, archive",
+    "url": "https://boook.land/",
+    "image": "https___boook_land_.jpg"
+  },
+  {
+    "artist": "Politiecs of the archive",
+    "category": "archive politics",
+    "url": "https://transversal.at/transversal/0608/steyerl/en",
+    "image": "https___transversal_at_transversal_0608_steyerl_en.jpg"
+  },
+  {
+    "artist": "Zero Yen House",
+    "category": "install",
+    "url": "https://www.0yenhouse.com/en/index.html",
+    "image": "https___www_0yenhouse_com_en_index_html.jpg"
+  },
+  {
+    "artist": "Teamlab",
+    "category": "teamLab",
+    "url": "https://www.teamlab.art/",
+    "image": "https___www_teamlab_art_.jpg"
+  },
+  {
+    "artist": "Oliverlaric",
+    "category": "3d printer-scul",
+    "url": "http://oliverlaric.com/panoramafreiheit.html",
+    "image": "http___oliverlaric_com_panoramafreiheit_html.jpg"
+  },
+  {
+    "artist": "Shinseungback Kimyonghun",
+    "category": "media install",
+    "url": "https://ssbkyh.com/works/animal_classifier/",
+    "image": "https___ssbkyh_com_works_animal_classifier_.jpg"
+  },
+  {
+    "artist": "Vito Acconci",
+    "category": "perfo media",
+    "url": "https://www.google.com/search?q=vito+acconci&rlz=1C5CHFA_enKR1016KR1017&oq=vito+acconci&aqs=chrome..69i57.12334j0j9&sourceid=chrome&ie=UTF-8",
+    "image": "https___www_google_com_search_q_vito_acconci_rlz_1C5CHFA_enKR1016KR1017_oq_vito_acconci_aqs_chrome__69i57_12334j0j9_sourceid_chrome_ie_UTF_8.jpg"
+  },
+  {
+    "artist": "Griffin",
+    "category": "digital",
+    "url": "https://www.griffinsmithart.com/home",
+    "image": "https___www_griffinsmithart_com_home.jpg"
+  },
+  {
+    "artist": "Untitled",
+    "category": "projector mapping",
+    "url": "https://www.youtube.com/watch?v=lX6JcybgDFo&ab_channel=Creators",
+    "image": "https___www_youtube_com_watch_v_lX6JcybgDFo_ab_channel_Creators.jpg"
+  },
+  {
+    "artist": "Paolo Cirio",
+    "category": "img",
+    "url": "https://paolocirio.net/work/face-to-facebook/",
+    "image": "https___paolocirio_net_work_face_to_facebook_.jpg"
+  },
+  {
+    "artist": "Sung Hwan Kim",
+    "category": "media install",
+    "url": "https://sunghwankim.org/\n",
+    "image": "https___sunghwankim_org__.jpg"
+  },
+  {
+    "artist": "Omer Fast",
+    "category": "media install",
+    "url": "https://www.jamescohan.com/artists/omer-fast?view=slider#4",
+    "image": "https___www_jamescohan_com_artists_omer_fast_view_slider_4.jpg"
+  },
+  {
+    "artist": "Harun Faroki",
+    "category": "media install",
+    "url": "https://vimeo.com/413615212",
+    "image": "https___vimeo_com_413615212.jpg"
+  },
+  {
+    "artist": "Changseoyoung",
+    "category": "scultpure",
+    "url": "https://www.changseoyoung.com/bhb",
+    "image": "https___www_changseoyoung_com_bhb.jpg"
+  },
+  {
+    "artist": "Martine Neddam",
+    "category": "media install",
+    "url": "https://about.mouchette.org/truth-that-lies-photos/",
+    "image": "https___about_mouchette_org_truth_that_lies_photos_.jpg"
+  },
+  {
+    "artist": "Daito Tanabe",
+    "category": "media artist",
+    "url": "https://www.daito.ws/work/",
+    "image": "https___www_daito_ws_work_.jpg"
+  },
+  {
+    "artist": "Gina Folly",
+    "category": "media ",
+    "url": "https://artviewer.org/gina-folly-at-almanac/",
+    "image": "https___artviewer_org_gina_folly_at_almanac_.jpg"
+  },
+  {
+    "artist": "Ue",
+    "category": "effect",
+    "url": "https://vimeo.com/95136221",
+    "image": "https___vimeo_com_95136221.jpg"
+  },
+  {
+    "artist": "My Whale",
+    "category": "effect",
+    "url": "https://vimeo.com/177685943",
+    "image": "https___vimeo_com_177685943.jpg"
+  },
+  {
+    "artist": "Shohei Fujimoto",
+    "category": "effect",
+    "url": "https://vimeo.com/172374937",
+    "image": "https___vimeo_com_172374937.jpg"
+  },
+  {
+    "artist": "Nohlab",
+    "category": "effect",
+    "url": "https://vimeo.com/191239515",
+    "image": "https___vimeo_com_191239515.jpg"
+  },
+  {
+    "artist": "Kohui",
+    "category": "effect",
+    "url": "https://vimeo.com/719828808?embedded=true&source=vimeo_logo&owner=47275150",
+    "image": "https___vimeo_com_719828808_embedded_true_source_vimeo_logo_owner_47275150.jpg"
+  },
+  {
+    "artist": "Hayoun Kwon",
+    "category": "vr",
+    "url": "https://www.hayounkwon.com/",
+    "image": "https___www_hayounkwon_com_.jpg"
+  },
+  {
+    "artist": "Janet Cardiff",
+    "category": "sound install",
+    "url": "https://cardiffmiller.com/installations/the-forty-part-motet/",
+    "image": "https___cardiffmiller_com_installations_the_forty_part_motet_.jpg"
+  },
+  {
+    "artist": "Amaliaulman",
+    "category": "install",
+    "url": "http://privilege.amaliaulman.eu/labourdance.html",
+    "image": "http___privilege_amaliaulman_eu_labourdance_html.jpg"
+  },
+  {
+    "artist": "Kiseulki",
+    "category": "designer",
+    "url": "https://www.kiseulki.com/",
+    "image": "https___www_kiseulki_com_.jpg"
+  },
+  {
+    "artist": "Dawn Chan",
+    "category": "Writer",
+    "url": "https://www.dawnchan.com/",
+    "image": "https___www_dawnchan_com_.jpg"
+  },
+  {
+    "artist": "Jeffrey Shaw",
+    "category": "city database",
+    "url": "https://www.jeffreyshawcompendium.com/portfolio/legible-city/",
+    "image": "https___www_jeffreyshawcompendium_com_portfolio_legible_city_.jpg"
+  },
+  {
+    "artist": "Shonkyunghwa",
+    "category": "painting install",
+    "url": "https://www.kyunghwashon.com/#/psychogeographic-abstract-landscapes/",
+    "image": "https___www_kyunghwashon_com___psychogeographic_abstract_landscapes_.jpg"
+  },
+  {
+    "artist": "Alex Da Corte",
+    "category": "light install",
+    "url": "http://alexdacorte.com/",
+    "image": "http___alexdacorte_com_.jpg"
+  },
+  {
+    "artist": "Nathan Coley",
+    "category": "install text",
+    "url": "https://www.studionathancoley.com/",
+    "image": "https___www_studionathancoley_com_.jpg"
+  },
+  {
+    "artist": "Jane And Louise Wilson",
+    "category": "bit digital install video",
+    "url": "https://janeandlouisewilson.co.uk/",
+    "image": "https___janeandlouisewilson_co_uk_.jpg"
+  },
+  {
+    "artist": "Richard Wilson",
+    "category": "archi install sculp",
+    "url": "https://www.richardwilsonsculptor.com/",
+    "image": "https___www_richardwilsonsculptor_com_.jpg"
+  },
+  {
+    "artist": "Laura Vickerson",
+    "category": "textile  tent",
+    "url": "http://lauravickerson.com/",
+    "image": "http___lauravickerson_com_.jpg"
+  },
+  {
+    "artist": "Mark Wallinger",
+    "category": "horse Decalcomania",
+    "url": "https://www.google.com/search?q=Mark+Wallinger&rlz=1C5CHFA_enKR1016KR1017&source=lnms&tbm=isch&sa=X&ved=2ahUKEwit3K-igKr7AhW8MlkFHd3sCzsQ_AUoAXoECAIQAw&biw=1745&bih=910&dpr=2.2#imgrc=rTWMz0L53fi_-M",
+    "image": "https___www_google_com_search_q_Mark_Wallinger_rlz_1C5CHFA_enKR1016KR1017_source_lnms_tbm_isch_sa_X_ved_2ahUKEwit3K_igKr7AhW8MlkFHd3sCzsQ_AUoAXoECAIQAw_biw_1745_bih_910_dpr_2_2_imgrc_rTWMz0L53fi__M.jpg"
+  },
+  {
+    "artist": "Wolfgang Weileder",
+    "category": "archi install sculp",
+    "url": "https://www.wolfgangweileder.com/",
+    "image": "https___www_wolfgangweileder_com_.jpg"
+  },
+  {
+    "artist": "Sarah Pickering",
+    "category": "photo",
+    "url": "https://www.sarahpickering.co.uk/",
+    "image": "https___www_sarahpickering_co_uk_.jpg"
+  },
+  {
+    "artist": "Gary Perkins",
+    "category": "cctv surveillance",
+    "url": "https://www.newcontemporaries.org.uk/1996/artists/gary-perkins",
+    "image": "https___www_newcontemporaries_org_uk_1996_artists_gary_perkins.jpg"
+  },
+  {
+    "artist": "Morehshin Allahyari",
+    "category": "Uncategorised",
+    "url": "https://morehshin.com/feministfuture/",
+    "image": "https___morehshin_com_feministfuture_.jpg"
+  },
+  {
+    "artist": "Feltrom",
+    "category": "data annual report",
+    "url": "http://feltron.com/index.html",
+    "image": "http___feltron_com_index_html.jpg"
+  },
+  {
+    "artist": "Sasa",
+    "category": "data annual report",
+    "url": "https://docs.google.com/presentation/d/1NT4yX9o6i_FcgYszg7xu3WWMGhete-cTQJ10mmpaE1c/edit?usp=sharing",
+    "image": "https___docs_google_com_presentation_d_1NT4yX9o6i_FcgYszg7xu3WWMGhete_cTQJ10mmpaE1c_edit_usp_sharing.jpg"
+  },
+  {
+    "artist": "Tom Brenner",
+    "category": " photo politic",
+    "url": "https://www.tombrenner.net/on-capitol-hill#1",
+    "image": "https___www_tombrenner_net_on_capitol_hill_1.jpg"
+  },
+  {
+    "artist": "Max Siedentopf",
+    "category": "photo ",
+    "url": "https://maxsiedentopf.com/",
+    "image": "https___maxsiedentopf_com_.jpg"
+  },
+  {
+    "artist": "Jason Fulford",
+    "category": "photo ",
+    "url": "https://www.jasonfulford.com/0099.html",
+    "image": "https___www_jasonfulford_com_0099_html.jpg"
+  },
+  {
+    "artist": "Roman Ondak",
+    "category": "repetition",
+    "url": "https://www.google.com/search?q=roman+ondak&hl=en&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi4rZDJ7b39AhV-FFkFHfFDA7YQ_AUoAXoECAEQAw&biw=1920&bih=1001&dpr=2",
+    "image": "https___www_google_com_search_q_roman_ondak_hl_en_source_lnms_tbm_isch_sa_X_ved_2ahUKEwi4rZDJ7b39AhV_FFkFHfFDA7YQ_AUoAXoECAEQAw_biw_1920_bih_1001_dpr_2.jpg"
+  },
+  {
+    "artist": "Roman Opalka",
+    "category": "repetition number",
+    "url": "https://www.google.com/search?q=roman+opalka&tbm=isch&ved=2ahUKEwi31J7P7b39AhWpGVkFHR2TAScQ2-cCegQIABAA&oq=roman+opalka&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIECAAQHjoECAAQQzoHCAAQgAQQGDoGCAAQCBAeOggIABCABBCxA1DuA1iMJ2DFKGgDcAB4AIABeYgBrwaSAQM4LjOYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=YugAZLebGamz5NoPnaaGuAI&bih=1001&biw=1920&hl=en",
+    "image": "77c83f9209ba657466e972c9a83f8317.jpg"
+  },
+  {
+    "artist": "Camille Henrot",
+    "category": "Uncategorised",
+    "url": "https://www.moma.org/artists/44883",
+    "image": "https___www_moma_org_artists_44883.jpg"
+  },
+  {
+    "artist": "Cheonwook Park",
+    "category": "install triangle",
+    "url": "http://www.cheonwook.com/",
+    "image": "http___www_cheonwook_com_.jpg"
+  },
+  {
+    "artist": "Parttimesuite",
+    "category": "Uncategorised",
+    "url": "http://www.parttimesuite.org/",
+    "image": "http___www_parttimesuite_org_.jpg"
+  },
+  {
+    "artist": "Petter Dahlstrom Persson",
+    "category": "scultpure wood",
+    "url": "http://www.petterdahlstrom.se/",
+    "image": "http___www_petterdahlstrom_se_.jpg"
+  },
+  {
+    "artist": "Louis Gagliardi",
+    "category": "Uncategorised",
+    "url": "http://louisagagliardi.com/",
+    "image": "http___louisagagliardi_com_.jpg"
+  },
+  {
+    "artist": "Kang Young Min",
+    "category": "h",
+    "url": "https://www.choiceart.company/%EB%B3%B5%EC%A0%9C-%EC%9C%A4%EB%8F%84%EC%9B%90",
+    "image": "https___www_choiceart_company__EB_B3_B5_EC_A0_9C__EC_9C_A4_EB_8F_84_EC_9B_90.jpg"
+  },
+  {
+    "artist": "Untitled",
+    "category": "Uncategorised",
+    "url": "https://lav.io/",
+    "image": "https___lav_io_.jpg"
+  },
+  {
+    "artist": "Ibrahim Mahama",
+    "category": "Uncategorised",
+    "url": "https://artsandculture.google.com/story/YQUxeX2xUAukNg?hl=en",
+    "image": "https___artsandculture_google_com_story_YQUxeX2xUAukNg_hl_en.jpg"
+  },
+  {
+    "artist": "W.E.B Dubois",
+    "category": " data french sociologist",
+    "url": "https://www.google.com/search?q=w+e+b+dubois+data+portraits&rlz=1C5CHFA_enKR1016KR1017&hl=en&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiOrvGYptL9AhWLFVkFHdVYDZAQ_AUoAXoECAEQAw&biw=1352&bih=765&dpr=2",
+    "image": "https___www_google_com_search_q_w_e_b_dubois_data_portraits_rlz_1C5CHFA_enKR1016KR1017_hl_en_source_lnms_tbm_isch_sa_X_ved_2ahUKEwiOrvGYptL9AhWLFVkFHdVYDZAQ_AUoAXoECAEQAw_biw_1352_bih_765_dpr_2.jpg"
+  },
+  {
+    "artist": "Bernie Krause",
+    "category": "sound, nature",
+    "url": "https://artsandculture.google.com/story/bQVRLYSKqWTjYA?hl=en",
+    "image": "https___artsandculture_google_com_story_bQVRLYSKqWTjYA_hl_en.jpg"
+  },
+  {
+    "artist": "Lucas ansel",
+    "category": "risd animator / animation / pizza",
+    "url": "https://www.theshop.sucks/",
+    "image": "https___www_theshop_sucks_.jpg"
+  },
+  {
+    "artist": "tameemsankari",
+    "category": "code  / dot ",
+    "url": "https://www.outlandersdesign.com/",
+    "image": "https___www_outlandersdesign_com_.jpg"
+  },
+  {
+    "artist": "Nejc Prah",
+    "category": "desginer",
+    "url": "https://www.nejcprah.com/",
+    "image": "https___www_nejcprah_com_.jpg"
+  },
+  {
+    "artist": "Piet Zwart",
+    "category": "desginer",
+    "url": "https://www.google.com/search?q=Piet+Zwart&rlz=1C5CHFA_enKR1016KR1017&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiv57yq-978AhXzFlkFHZuuDz0Q_AUoAXoECAIQAw&biw=1352&bih=708&dpr=2",
+    "image": "https___www_google_com_search_q_Piet_Zwart_rlz_1C5CHFA_enKR1016KR1017_source_lnms_tbm_isch_sa_X_ved_2ahUKEwiv57yq_978AhXzFlkFHZuuDz0Q_AUoAXoECAIQAw_biw_1352_bih_708_dpr_2.jpg"
+  },
+  {
+    "artist": "Armin Hofmann",
+    "category": "Designer",
+    "url": "https://www.google.com/search?q=Armin+Hofmann&rlz=1C5CHFA_enKR1016KR1017&hl=en&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiejeD01dn8AhUiF2IAHVVZC1EQ_AUoAXoECAIQAw&biw=1352&bih=765&dpr=2",
+    "image": "https___www_google_com_search_q_Armin_Hofmann_rlz_1C5CHFA_enKR1016KR1017_hl_en_source_lnms_tbm_isch_sa_X_ved_2ahUKEwiejeD01dn8AhUiF2IAHVVZC1EQ_AUoAXoECAIQAw_biw_1352_bih_765_dpr_2.jpg"
+  },
+  {
+    "artist": "Sulki Min",
+    "category": "Designer",
+    "url": "https://www.sulki-min.com/wp/index-random/",
+    "image": "https___www_sulki_min_com_wp_index_random_.jpg"
+  },
+  {
+    "artist": "North East",
+    "category": "tokyo based bookstore",
+    "url": "https://www.northeastshop.com/",
+    "image": "https___www_northeastshop_com_.jpg"
+  },
+  {
+    "artist": "Alessio Borando",
+    "category": "graphic",
+    "url": "https://drool-art.com/collections/alessio-borando?rfsn=7499615.2cf251&utm_source=refersion&utm_medium=affiliate&utm_campaign=7499615.2cf251",
+    "image": "https___drool_art_com_collections_alessio_borando_rfsn_7499615_2cf251_utm_source_refersion_utm_medium_affiliate_utm_campaign_7499615_2cf251.jpg"
+  },
+  {
+    "artist": "Lieberman kiepereddemaan",
+    "category": "web designer",
+    "url": "https://liebermannkiepereddemann.de/?fbclid=PAZXh0bgNhZW0CMTEAAaa65kjNeNqAZc9j4okfg7iZ4M0XTVWjm6U3dAwoylv6EExjAQISAm32Kbk_aem_6ovP9-HjjK5e4ucgjkmc3A",
+    "image": "https___liebermannkiepereddemann_de__fbclid_PAZXh0bgNhZW0CMTEAAaa65kjNeNqAZc9j4okfg7iZ4M0XTVWjm6U3dAwoylv6EExjAQISAm32Kbk_aem_6ovP9_HjjK5e4ucgjkmc3A.jpg"
+  },
+  {
+    "artist": "marinusklinksik",
+    "category": "web designer",
+    "url": "https://marinusklinksik.de/?fbclid=PAZXh0bgNhZW0CMTEAAaaUS019-mgGDZt0kOS0gvr-3giwngTfNfamXx0RS0TX7PD7GRcl0-oascw_aem_ntDcMRwHd1EinQQuKSWRiA",
+    "image": "https___marinusklinksik_de__fbclid_PAZXh0bgNhZW0CMTEAAaaUS019_mgGDZt0kOS0gvr_3giwngTfNfamXx0RS0TX7PD7GRcl0_oascw_aem_ntDcMRwHd1EinQQuKSWRiA.jpg"
+  },
+  {
+    "artist": "A324:A343",
+    "category": "designer",
+    "url": "https://www.foznt.com/?fbclid=PAZXh0bgNhZW0CMTEAAaY7F33Ifgcyq3XhSrFausqukcfP6H7iUBO06v7WBBbEoxxNFG720seoHbk_aem_hHvpmDHApKBxWRXG3a8dvA",
+    "image": "https___www_foznt_com__fbclid_PAZXh0bgNhZW0CMTEAAaY7F33Ifgcyq3XhSrFausqukcfP6H7iUBO06v7WBBbEoxxNFG720seoHbk_aem_hHvpmDHApKBxWRXG3a8dvA.jpg"
+  },
+  {
+    "artist": "Studio_Lennartsendebruijn",
+    "category": "designer",
+    "url": "https://lennartsendebruijn.com/tag:Identities",
+    "image": "https___lennartsendebruijn_com_tag_Identities.jpg"
+  },
+  {
+    "artist": "Khanacaedemy",
+    "category": "Uncategorised",
+    "url": "https://www.khanacademy.org/khan-labs",
+    "image": "https___www_khanacademy_org_khan_labs.jpg"
+  },
+  {
+    "artist": "Be My Eyes",
+    "category": "Uncategorised",
+    "url": "https://www.bemyeyes.com/",
+    "image": "https___www_bemyeyes_com_.jpg"
+  },
+  {
+    "artist": "Bites",
+    "category": "Uncategorised",
+    "url": "https://www.bensbites.co/",
+    "image": "https___www_bensbites_co_.jpg"
+  },
+  {
+    "artist": "Kallado Mcdowell",
+    "category": "Uncategorised",
+    "url": "https://www.kalladomcdowell.com/",
+    "image": "https___www_kalladomcdowell_com_.jpg"
+  },
+  {
+    "artist": "Grain",
+    "category": "noise js library",
+    "url": "https://sarathsaleem.github.io/grained/",
+    "image": "https___sarathsaleem_github_io_grained_.jpg"
+  },
+  {
+    "artist": "Petra Cortright",
+    "category": "web",
+    "url": "https://www.petracortright.com/",
+    "image": "https___www_petracortright_com_.jpg"
+  },
+  {
+    "artist": "David Smith",
+    "category": "sculpture simple",
+    "url": "https://www.google.com/search?sca_esv=c34f1484862cc875&q=David+Smith&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBnsX62dbVmWR6QCQ5QEtPRrN1KFHti9EP_dqC742rxzHNYrK4aIGJt-VBGd9a6Cy3PUCVIbXOXyNSMm1nLumVA1DyqdUISZJ0S_wUr3-nFgn9UzXPNT8B_yEJyltoYwlFo9_sJAdocaQrGORfK7dw_gP3vKq0YUTYEbVGeVCacy50s4k_Q&sa=X&ved=2ahUKEwieqt7lzpqMAxWGi68BHdIQDNsQtKgLegQIExAB&biw=1920&bih=958&dpr=2",
+    "image": "132015d2304c52138596a102e9fdc794.jpg"
+  },
+  {
+    "artist": "Untitled",
+    "category": "sculpture simple",
+    "url": "https://www.google.com/search?sca_esv=c34f1484862cc875&q=Robert+Smith&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBnsX62dbVmWR6QCQ5QEtPRqut5gkyra9fZFbsKm1oGezZfNjBY6JC6SkJAVAOI0b5OFsBGc76aDMxtuacnLS7X32-5RBJi3DslBBuGrMim5dcyCpAyZTg_k-q35rsDodRcqN2TK5Sr6hG-8s-j-XIJlt7hyRrkkX4JvUEf1PhS4UabKMjw&sa=X&ved=2ahUKEwifscDBzpqMAxXenK8BHU4JC_UQtKgLegQIFxAB&biw=1920&bih=958&dpr=2",
+    "image": "a828699435edce9a62baa8b04302c5e8.jpg"
+  },
+  {
+    "artist": "Archive_ziro",
+    "category": "admin / googlesheet",
+    "url": "https://docs.google.com/spreadsheets/d/1378-w6EsdCVsaU6xkx9voDxWOF2eNBywt5HHkrVKs_4/edit#gid=0",
+    "image": "https___docs_google_com_spreadsheets_d_1378_w6EsdCVsaU6xkx9voDxWOF2eNBywt5HHkrVKs_4_edit_gid_0.jpg"
+  },
+  {
+    "artist": "Meriem Bennani",
+    "category": "Media install",
+    "url": "http://meriembennani.com/",
+    "image": "http___meriembennani_com_.jpg"
+  },
+  {
+    "artist": "Saidiya Hartman",
+    "category": "archive",
+    "url": "https://www.google.com/search?q=saodoya+hartman&sca_esv=579903341&rlz=1C5CHFA_enKR1016KR1017&ei=1E1JZfqJHc-p5NoPiOykyAg&ved=0ahUKEwj6w92-nLCCAxXPFFkFHQg2CYkQ4dUDCBA&uact=5&oq=saodoya+hartman&gs_lp=Egxnd3Mtd2l6LXNlcnAiD3Nhb2RveWEgaGFydG1hbjINEC4YDRiDARixAxiABDIHEC4YDRiABDIHEAAYDRiABDIHEC4YDRiABDIHEAAYDRiABDIHEC4YDRiABDIHEAAYDRiABDIHEAAYDRiABDIHEAAYDRiABDIHEAAYDRiABDIcEC4YDRiDARixAxiABBiXBRjcBBjeBBjgBNgBAUiIBFCpAlipAnABeAGQAQCYAbsBoAG7AaoBAzAuMbgBA8gBAPgBAcICChAAGEcY1gQYsAPiAwQYACBBiAYBkAYIugYGCAEQARgU&sclient=gws-wiz-serp",
+    "image": "b230961d3b67a3a229eddf0daca23a85.jpg"
+  },
+  {
+    "artist": "Paralleograms",
+    "category": "archive",
+    "url": "https://parallelograms.info/",
+    "image": "https___parallelograms_info_.jpg"
+  },
+  {
+    "artist": "Lene Baadsvig",
+    "category": "Install scuplture soil",
+    "url": "https://lenebaadsvig.com/Subterranea",
+    "image": "https___lenebaadsvig_com_Subterranea.jpg"
+  },
+  {
+    "artist": "Ryan Trecartin",
+    "category": "Media install",
+    "url": "https://www.google.com/search?q=Ryan+Trecartin&sca_esv=583234059&rlz=1C5CHFA_enKR1016KR1017&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiu5s60lsqCAxUMFFkFHRoNDfUQ0pQJegQIAhAE&biw=1352&bih=757&dpr=2",
+    "image": "https___www_google_com_search_q_Ryan_Trecartin_sca_esv_583234059_rlz_1C5CHFA_enKR1016KR1017_tbm_isch_source_lnms_sa_X_ved_2ahUKEwiu5s60lsqCAxUMFFkFHRoNDfUQ0pQJegQIAhAE_biw_1352_bih_757_dpr_2.jpg"
+  },
+  {
+    "artist": "Chandelr Mcwiilams",
+    "category": "data text",
+    "url": "http://chandlermcwilliams.com/",
+    "image": "http___chandlermcwilliams_com_.jpg"
+  },
+  {
+    "artist": "Uline",
+    "category": "packing",
+    "url": "https://www.uline.com/",
+    "image": "https___www_uline_com_.jpg"
+  },
+  {
+    "artist": "Nick Larsen",
+    "category": "fictional archaeological inventory and autobiography.",
+    "url": "https://nicklarsen.cargo.site/",
+    "image": "https___nicklarsen_cargo_site_.jpg"
+  },
+  {
+    "artist": "Beyondresolution",
+    "category": "rosa menkman  web politics of resolution process efficiency order functionality",
+    "url": "https://beyondresolution.info/",
+    "image": "https___beyondresolution_info_.jpg"
+  },
+  {
+    "artist": "rosa menkman",
+    "category": "Beyondresolution politics of resolution process efficiency order functionality glitch",
+    "url": "https://www.google.com/search?q=rosa+menkmen&rlz=1C5CHFA_enKR1016KR1017&oq=rosa+menkmen&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQwNDVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8",
+    "image": "https___www_google_com_search_q_rosa_menkmen_rlz_1C5CHFA_enKR1016KR1017_oq_rosa_menkmen_gs_lcrp_EgZjaHJvbWUyBggAEEUYOdIBCDQwNDVqMGo3qAIAsAIA_sourceid_chrome_ie_UTF_8.jpg"
+  },
+  {
+    "artist": "Folia",
+    "category": "token web game resolution glitch",
+    "url": "https://www.folia.app/works/12",
+    "image": "https___www_folia_app_works_12.jpg"
+  },
+  {
+    "artist": "mail box jodi",
+    "category": "mail archive jodi",
+    "url": "https://mboxjodi.org/",
+    "image": "https___mboxjodi_org_.jpg"
+  },
+  {
+    "artist": "Hollyhemdon",
+    "category": "ai aritst",
+    "url": "https://www.hollyherndon.com/",
+    "image": "https___www_hollyherndon_com_.jpg"
+  },
+  {
+    "artist": "Trevor Paglen",
+    "category": "archive / theorist / Race ",
+    "url": "https://english.columbia.edu/content/saidiya-v-hartman",
+    "image": "https___english_columbia_edu_content_saidiya_v_hartman.jpg"
+  },
+  {
+    "artist": "Gardianagroup",
+    "category": "machine drawing",
+    "url": "https://www.giardinagroup.com/",
+    "image": "https___www_giardinagroup_com_.jpg"
+  },
+  {
+    "artist": "Mario Klingemann",
+    "category": "ai aritst",
+    "url": "https://www.google.com/search?sca_esv=583240805&rlz=1C5CHFA_enKR1016KR1017&q=Mario+Klingemann&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiCx-6ymcqCAxVLrYkEHYE5Cn0Q0pQJegQIDhAB&biw=1352&bih=757&dpr=2",
+    "image": "https___www_google_com_search_sca_esv_583240805_rlz_1C5CHFA_enKR1016KR1017_q_Mario_Klingemann_tbm_isch_source_lnms_sa_X_ved_2ahUKEwiCx_6ymcqCAxVLrYkEHYE5Cn0Q0pQJegQIDhAB_biw_1352_bih_757_dpr_2.jpg"
+  },
+  {
+    "artist": "karen barad",
+    "category": "Pysicst gear mountain technology light",
+    "url": "https://www.google.com/search?sca_esv=578502807&rlz=1C5CHFA_enKR1016KR1017&hl=en&q=karen+barad&spell=1&sa=X&ved=2ahUKEwj0p9-YkKOCAxWHCnkGHWH8CnUQBSgAegQIDRAB&biw=1920&bih=995&dpr=1",
+    "image": "https___www_google_com_search_sca_esv_578502807_rlz_1C5CHFA_enKR1016KR1017_hl_en_q_karen_barad_spell_1_sa_X_ved_2ahUKEwj0p9_YkKOCAxWHCnkGHWH8CnUQBSgAegQIDRAB_biw_1920_bih_995_dpr_1.jpg"
+  },
+  {
+    "artist": "Ray Nayler",
+    "category": "Author  / The mountain in the sea",
+    "url": "https://www.google.com/search?q=Ray+Nayler&sca_esv=591396670&rlz=1C5CHFA_enKR1016KR1017&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjX8Pr0-pKDAxXviFYBHeO7B8IQ_AUoAXoECAIQAw&biw=1352&bih=757&dpr=2#imgrc=xOAv0CT3w-kNLM",
+    "image": "https___www_google_com_search_q_Ray_Nayler_sca_esv_591396670_rlz_1C5CHFA_enKR1016KR1017_tbm_isch_source_lnms_sa_X_ved_2ahUKEwjX8Pr0_pKDAxXviFYBHeO7B8IQ_AUoAXoECAIQAw_biw_1352_bih_757_dpr_2_imgrc_xOAv0CT3w_kNLM.jpg"
+  },
+  {
+    "artist": "Lindarebei",
+    "category": "ai artist / generated Typo",
+    "url": "https://lindarebeiz.com/projects/",
+    "image": "https___lindarebeiz_com_projects_.jpg"
+  },
+  {
+    "artist": "Scott Eaton",
+    "category": "ai aritst",
+    "url": "https://www.google.com/search?q=Scott+Eaton+art&sca_esv=591396670&rlz=1C5CHFA_enKR1016KR1017&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjZxavP-pKDAxUCC94KHbRRCEgQ_AUoAXoECAIQAw&biw=1352&bih=757&dpr=2",
+    "image": "https___www_google_com_search_q_Scott_Eaton_art_sca_esv_591396670_rlz_1C5CHFA_enKR1016KR1017_tbm_isch_source_lnms_sa_X_ved_2ahUKEwjZxavP_pKDAxUCC94KHbRRCEgQ_AUoAXoECAIQAw_biw_1352_bih_757_dpr_2.jpg"
+  },
+  {
+    "artist": "Jakkelwes",
+    "category": "ai aritst",
+    "url": "https://www.jakeelwes.com/",
+    "image": "https___www_jakeelwes_com_.jpg"
+  },
+  {
+    "artist": "Pierre Huyghe",
+    "category": "ai aritst",
+    "url": "https://www.serpentinegalleries.org/whats-on/pierre-huyghe-uumwelt/",
+    "image": "https___www_serpentinegalleries_org_whats_on_pierre_huyghe_uumwelt_.jpg"
+  },
+  {
+    "artist": "Glica ",
+    "category": "Ai aritst",
+    "url": "https://glia.ca/",
+    "image": "https___glia_ca_.jpg"
+  },
+  {
+    "artist": "Inside the Growing Tokyo Market",
+    "category": "exhibition",
+    "url": "https://www.artsy.net/article/artsy-editorial-inside-growing-tokyo-art-market",
+    "image": "https___www_artsy_net_article_artsy_editorial_inside_growing_tokyo_art_market.jpg"
+  },
+  {
+    "artist": "Web Design Sample",
+    "category": "web",
+    "url": "https://cargo.site",
+    "image": "https___cargo_site.jpg"
+  },
+  {
+    "artist": "2X4",
+    "category": "design / core institutional values and create innovative, experiential, participatory",
+    "url": "https://2x4.org/work/it-is-what-it-is/",
+    "image": "https___2x4_org_work_it_is_what_it_is_.jpg"
+  },
+  {
+    "artist": "W Show",
+    "category": "web / feminism / graphic design / korean",
+    "url": "http://wshow.kr/tag/%EC%98%88%EC%9D%BC%EB%8C%80%ED%95%99%EA%B5%90/#p68",
+    "image": "http___wshow_kr_tag__EC_98_88_EC_9D_BC_EB_8C_80_ED_95_99_EA_B5_90__p68.jpg"
+  },
+  {
+    "artist": "Sig Graph",
+    "category": "vr / conference / ",
+    "url": "https://www.siggraph.org/",
+    "image": "https___www_siggraph_org_.jpg"
+  },
+  {
+    "artist": "Linkdbyari",
+    "category": "web / platforms online / physical space",
+    "url": "https://www.linkedbyair.net/projects",
+    "image": "https___www_linkedbyair_net_projects.jpg"
+  },
+  {
+    "artist": "Distill",
+    "category": "Scientific journal / machine learning",
+    "url": "https://distill.pub/",
+    "image": "https___distill_pub_.jpg"
+  },
+  {
+    "artist": "Kimya",
+    "category": "Uncategorised",
+    "url": "https://www.kimya.fr/en/a-3d-printer-using-sun-and-sand/",
+    "image": "https___www_kimya_fr_en_a_3d_printer_using_sun_and_sand_.jpg"
+  },
+  {
+    "artist": "Davi reinfurt",
+    "category": "web / reading",
+    "url": "https://www.dropbox.com/scl/fi/wx7c9odlxgeopttk666zj/david_reinfurt_infinite_versioning.pdf?rlkey=eb18wp6paadcxknoy125qkji5&dl=0",
+    "image": "https___www_dropbox_com_scl_fi_wx7c9odlxgeopttk666zj_david_reinfurt_infinite_versioning_pdf_rlkey_eb18wp6paadcxknoy125qkji5_dl_0.jpg"
+  },
+  {
+    "artist": "klikkentheke.",
+    "category": "website inspiration",
+    "url": "https://klikkentheke.com/?fbclid=PAZXh0bgNhZW0CMTEAAaYFpfj-uS5CW9F7N68lZQMnpDKtfK5VAul3blqP-mcDYTc14MdcafByEL8_aem_zRJjdy_3oEE4pJj7Iswivg",
+    "image": "https___klikkentheke_com__fbclid_PAZXh0bgNhZW0CMTEAAaYFpfj_uS5CW9F7N68lZQMnpDKtfK5VAul3blqP_mcDYTc14MdcafByEL8_aem_zRJjdy_3oEE4pJj7Iswivg.jpg"
+  },
+  {
+    "artist": "Santosdilone",
+    "category": "portfolio website",
+    "url": "https://santosdilone.com/",
+    "image": "https___santosdilone_com_.jpg"
+  },
+  {
+    "artist": "kepler",
+    "category": "portfolio website",
+    "url": "https://www.kepler-interactive.com/",
+    "image": "https___www_kepler_interactive_com_.jpg"
+  },
+  {
+    "artist": "skyh1",
+    "category": "portfolio website",
+    "url": "https://skyh1.net/",
+    "image": "https___skyh1_net_.jpg"
+  },
+  {
+    "artist": "jacobyoungblood",
+    "category": "portfolio website",
+    "url": "https://jacobyoungblood.dk/",
+    "image": "https___jacobyoungblood_dk_.jpg"
+  },
+  {
+    "artist": "kolber",
+    "category": "portfolio website",
+    "url": "http://www.kolber.info/",
+    "image": "http___www_kolber_info_.jpg"
+  },
+  {
+    "artist": "testen",
+    "category": "portfolio website",
+    "url": "https://testen.studio/",
+    "image": "https___testen_studio_.jpg"
+  },
+  {
+    "artist": "florisschram",
+    "category": "portfolio website",
+    "url": "http://www.florisschrama.nl/",
+    "image": "http___www_florisschrama_nl_.jpg"
+  },
+  {
+    "artist": "Are.Na About Portfolio",
+    "category": "portfolio website",
+    "url": "https://www.are.na/block/23587077",
+    "image": "https___www_are_na_block_23587077.jpg"
+  },
+  {
+    "artist": "arianotrton",
+    "category": "portfolio website",
+    "url": "https://ariannorton.com/",
+    "image": "https___ariannorton_com_.jpg"
+  },
+  {
+    "artist": "elllipsis",
+    "category": "portfolio website",
+    "url": "https://ellipsis.zip/archive-1",
+    "image": "https___ellipsis_zip_archive_1.jpg"
+  },
+  {
+    "artist": "Are.Na About Portfolio",
+    "category": "portfolio website",
+    "url": "https://www.are.na/kike-krahe/co-portfolio-website",
+    "image": "https___www_are_na_kike_krahe_co_portfolio_website.jpg"
+  },
+  {
+    "artist": "Kim Asendorf ",
+    "category": "pixel sorting",
+    "url": "https://www.google.com/search?client=firefox-b-1-d&sca_esv=570683219&q=kim+asendorf+pixel+sorting&tbm=isch&source=lnms&sa=X&ved=2ahUKEwj4zsDf29yBAxWokYkEHY_LDy0Q0pQJegQICBAB&biw=1792&bih=1010&dpr=2",
+    "image": "https___www_google_com_search_client_firefox_b_1_d_sca_esv_570683219_q_kim_asendorf_pixel_sorting_tbm_isch_source_lnms_sa_X_ved_2ahUKEwj4zsDf29yBAxWokYkEHY_LDy0Q0pQJegQICBAB_biw_1792_bih_1010_dpr_2.jpg"
+  },
+  {
+    "artist": "QuickDraw",
+    "category": "data / ai draw / google",
+    "url": "https://quickdraw.withgoogle.com/data/foot",
+    "image": "https___quickdraw_withgoogle_com_data_foot.jpg"
+  },
+  {
+    "artist": "Glaze",
+    "category": "protect your work / ai",
+    "url": "https://glaze.cs.uchicago.edu/what-is-glaze.html",
+    "image": "https___glaze_cs_uchicago_edu_what_is_glaze_html.jpg"
+  },
+  {
+    "artist": "Decadrages",
+    "category": "archive / Design / index / book",
+    "url": "https://decadrages.ch/",
+    "image": "https___decadrages_ch_.jpg"
+  },
+  {
+    "artist": "Jodi",
+    "category": "text web random",
+    "url": "https://wwwwwww.jodi.org/location/f.html",
+    "image": "https___wwwwwww_jodi_org_location_f_html.jpg"
+  },
+  {
+    "artist": "Danieltemkin",
+    "category": "web / pixel / internet art / fan",
+    "url": "https://danieltemkin.com/DitherStudies/",
+    "image": "https___danieltemkin_com_DitherStudies_.jpg"
+  },
+  {
+    "artist": "Lee Bontecou",
+    "category": "sculpture perspective",
+    "url": "https://www.google.com/search?sca_esv=567016438&sxsrf=AM9HkKlbG8DBc-eZpgNeHgEiShKmK2ijAw:1695237207803&q=lee+bontecou&tbm=isch&source=lnms&sa=X&ved=2ahUKEwi0m9Lc8rmBAxWnjokEHXp1DrwQ0pQJegQIDhAB&biw=1770&bih=1010&dpr=2#imgrc=YejtSuBCy-OmAM",
+    "image": "https___www_google_com_search_sca_esv_567016438_sxsrf_AM9HkKlbG8DBc_eZpgNeHgEiShKmK2ijAw_1695237207803_q_lee_bontecou_tbm_isch_source_lnms_sa_X_ved_2ahUKEwi0m9Lc8rmBAxWnjokEHXp1DrwQ0pQJegQIDhAB_biw_1770_bih_1010_dpr_2_imgrc_YejtSuBCy_OmAM.jpg"
+  },
+  {
+    "artist": "Jan Dibbets",
+    "category": "compression image photo",
+    "url": "https://www.google.com/search?q=jan+dibbets+compression&source=lmns&bih=759&biw=1352&rlz=1C5CHFA_enKR1016KR1017&hl=en&sa=X&ved=2ahUKEwjfxOSCo7WCAxW4NlkFHfOLB9kQ0pQJKAB6BAgBEAI",
+    "image": "https___www_google_com_search_q_jan_dibbets_compression_source_lmns_bih_759_biw_1352_rlz_1C5CHFA_enKR1016KR1017_hl_en_sa_X_ved_2ahUKEwjfxOSCo7WCAxW4NlkFHfOLB9kQ0pQJKAB6BAgBEAI.jpg"
+  },
+  {
+    "artist": "Hans Haacke",
+    "category": "installation / weight / Flag / wind",
+    "url": "https://www.google.com/search?sca_esv=580610545&rlz=1C5CHFA_enKR1016KR1017&q=blue+sail+hans+haacke&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjPjvHWprWCAxXIkIkEHSzeDHQQ0pQJegQIDhAB&biw=1352&bih=759&dpr=2#imgrc=Bn923TjKBeZMjM",
+    "image": "https___www_google_com_search_sca_esv_580610545_rlz_1C5CHFA_enKR1016KR1017_q_blue_sail_hans_haacke_tbm_isch_source_lnms_sa_X_ved_2ahUKEwjPjvHWprWCAxXIkIkEHSzeDHQQ0pQJegQIDhAB_biw_1352_bih_759_dpr_2_imgrc_Bn923TjKBeZMjM.jpg"
+  },
+  {
+    "artist": "Agness Cherer",
+    "category": "install / doll / Middle Ages",
+    "url": "https://agnesscherer.com/Cupid-and-the-Animals-1",
+    "image": "https___agnesscherer_com_Cupid_and_the_Animals_1.jpg"
+  },
+  {
+    "artist": "Jakob Kudsck Steensen",
+    "category": "install morniotr display mood feeling",
+    "url": "https://www.jakobsteensen.com/",
+    "image": "https___www_jakobsteensen_com_.jpg"
+  },
+  {
+    "artist": "Elisa Giardina Pap",
+    "category": "install morniotr display mood feeling",
+    "url": "http://www.elisagiardinapapa.org/",
+    "image": "http___www_elisagiardinapapa_org_.jpg"
+  },
+  {
+    "artist": "Eva And Franco Mattes",
+    "category": "install morniotr  display ",
+    "url": "https://0100101110101101.org/",
+    "image": "https___0100101110101101_org_.jpg"
+  },
+  {
+    "artist": "Jodi",
+    "category": "inter art",
+    "url": "https://www.google.com/search?sca_esv=580628691&rlz=1C5CHFA_enKR1016KR1017&hl=en&q=jodi+artist+moving+image&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiF5Ores7WCAxXhvokEHaC9BVoQ0pQJegQIDRAB&biw=1352&bih=759&dpr=2",
+    "image": "https___www_google_com_search_sca_esv_580628691_rlz_1C5CHFA_enKR1016KR1017_hl_en_q_jodi_artist_moving_image_tbm_isch_source_lnms_sa_X_ved_2ahUKEwiF5Ores7WCAxXhvokEHaC9BVoQ0pQJegQIDRAB_biw_1352_bih_759_dpr_2.jpg"
+  },
+  {
+    "artist": "Tyler Coburn",
+    "category": "Structure / wood",
+    "url": "https://www.tylercoburn.com/medium.html",
+    "image": "https___www_tylercoburn_com_medium_html.jpg"
+  },
+  {
+    "artist": "Kim Stanley Robission",
+    "category": "gear hiking weight / writer",
+    "url": "https://www.artforum.com/lists/kim-stanley-robinson/maps-of-the-sierra/",
+    "image": "https___www_artforum_com_lists_kim_stanley_robinson_maps_of_the_sierra_.jpg"
+  },
+  {
+    "artist": "Ultralight Arean",
+    "category": "Arena / Ultra light ",
+    "url": "https://www.are.na/clement-valla/ultralight-living-3d-pictures",
+    "image": "https___www_are_na_clement_valla_ultralight_living_3d_pictures.jpg"
+  },
+  {
+    "artist": "Computers In The Gallery",
+    "category": "arena / computer / installation",
+    "url": "https://www.are.na/garry-ing/computers-in-the-gallery",
+    "image": "https___www_are_na_garry_ing_computers_in_the_gallery.jpg"
+  },
+  {
+    "artist": "Philippe Parreno",
+    "category": "films, installations, performances, drawings, and text",
+    "url": "https://www.google.com/search?sca_esv=584463452&rlz=1C5GCEM_enUS1077US1077&q=PHILIPPE+PARRENO&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjO6NqxxNaCAxVHkYkEHSG1BL0Q0pQJegQIDRAB&biw=1920&bih=995&dpr=2",
+    "image": "https___www_google_com_search_sca_esv_584463452_rlz_1C5GCEM_enUS1077US1077_q_PHILIPPE_PARRENO_tbm_isch_source_lnms_sa_X_ved_2ahUKEwjO6NqxxNaCAxVHkYkEHSG1BL0Q0pQJegQIDRAB_biw_1920_bih_995_dpr_2.jpg"
+  },
+  {
+    "artist": "object",
+    "category": "arena",
+    "url": "https://www.are.na/cole-gabriel-rebmann/objectizzy",
+    "image": "https___www_are_na_cole_gabriel_rebmann_objectizzy.jpg"
+  },
+  {
+    "artist": "Subterranea",
+    "category": "Installation / material ",
+    "url": "https://lenebaadsvig.com/Subterranea",
+    "image": "https___lenebaadsvig_com_Subterranea.jpg"
+  },
+  {
+    "artist": "Ryan Trecartin",
+    "category": "video installation",
+    "url": "https://www.google.com/search?sca_esv=590699485&rlz=1C5CHFA_enKR1016KR1017&q=Ryan+Trecartin&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiNn-rd0Y2DAxWxD1kFHSDIANsQ0pQJegQIDRAB&biw=1352&bih=757&dpr=2#imgrc=iiyukmWJgknCfM",
+    "image": "https___www_google_com_search_sca_esv_590699485_rlz_1C5CHFA_enKR1016KR1017_q_Ryan_Trecartin_tbm_isch_source_lnms_sa_X_ved_2ahUKEwiNn_rd0Y2DAxWxD1kFHSDIANsQ0pQJegQIDRAB_biw_1352_bih_757_dpr_2_imgrc_iiyukmWJgknCfM.jpg"
+  },
+  {
+    "artist": "Cory Arcangel",
+    "category": "mario digital color screen interface",
+    "url": "https://www.google.com/search?sca_esv=590699485&rlz=1C5CHFA_enKR1016KR1017&q=Cory+Arcangel&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiw_KGl1o2DAxX8FlkFHaBiChAQ0pQJegQIDRAB&biw=1352&bih=757&dpr=2#imgrc=3a6MPoFNDQLc3M",
+    "image": "https___www_google_com_search_sca_esv_590699485_rlz_1C5CHFA_enKR1016KR1017_q_Cory_Arcangel_tbm_isch_source_lnms_sa_X_ved_2ahUKEwiw_KGl1o2DAxX8FlkFHaBiChAQ0pQJegQIDRAB_biw_1352_bih_757_dpr_2_imgrc_3a6MPoFNDQLc3M.jpg"
+  },
+  {
+    "artist": "Chat gpt is a blurry",
+    "category": "chat gpt / jpeg / ai / article ",
+    "url": "https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web",
+    "image": "https___www_newyorker_com_tech_annals_of_technology_chatgpt_is_a_blurry_jpeg_of_the_web.jpg"
+  },
+  {
+    "artist": "Jason loebs",
+    "category": "phone / projector / image",
+    "url": "https://maxwellgraham.biz/artists/jason-loebs/",
+    "image": "https___maxwellgraham_biz_artists_jason_loebs_.jpg"
+  },
+  {
+    "artist": "Rachel whiteread",
+    "category": "sculpture / inside / outside / white / monument",
+    "url": "https://gagosian.com/artists/rachel-whiteread/",
+    "image": "https___gagosian_com_artists_rachel_whiteread_.jpg"
+  },
+  {
+    "artist": "Paralleogram",
+    "category": "archive / images and interpretation",
+    "url": "https://parallelograms.info/",
+    "image": "https___parallelograms_info_.jpg"
+  },
+  {
+    "artist": "CARRIE SCHNEIDER",
+    "category": "photographer / installation / mass / ",
+    "url": "https://carrieschneider.net/index.html",
+    "image": "https___carrieschneider_net_index_html.jpg"
+  },
+  {
+    "artist": "Saidiya V Hartman",
+    "category": "archive / theorist / race",
+    "url": "https://english.columbia.edu/content/saidiya-v-hartman",
+    "image": "https___english_columbia_edu_content_saidiya_v_hartman.jpg"
+  },
+  {
+    "artist": "The creative independent",
+    "category": "archive",
+    "url": "https://thecreativeindependent.com/guides/how-to-archive-your-work-digitally/",
+    "image": "https___thecreativeindependent_com_guides_how_to_archive_your_work_digitally_.jpg"
+  },
+  {
+    "artist": "jeffrey alan",
+    "category": "digital painitng",
+    "url": "https://www.google.com/search?q=ten+minute+painting+jeffrey+alan+scudder&sca_esv=585670897&rlz=1C5CHFA_enKR1016KR1017&ei=_N1kZeKRMOn_ptQPruCIsAQ&ved=0ahUKEwji_4ni5eSCAxXpv4kEHS4wAkYQ4dUDCBA&uact=5&oq=ten+minute+painting+jeffrey+alan+scudder&gs_lp=Egxnd3Mtd2l6LXNlcnAiKHRlbiBtaW51dGUgcGFpbnRpbmcgamVmZnJleSBhbGFuIHNjdWRkZXIyCBAhGKABGMMESPBFUNY-WNVAcAN4AJABAJgBkgKgAZYEqgEFMC4yLjG4AQPIAQD4AQHiAwQYASBBiAYB&sclient=gws-wiz-serp",
+    "image": "d60d9f752676bdf78a815797cdddbdc6.jpg"
+  },
+  {
+    "artist": "GeoCities",
+    "category": "website",
+    "url": "https://www.google.com/search?q=geocity&sca_esv=585670897&rlz=1C5CHFA_enKR1016KR1017&tbm=isch&source=iu&ictx=1&vet=1&fir=utMp8GT7OpPMSM%252CJ2yZRwdfAwy7eM%252C%252Fm%252F02fk08%253B0rTqYSYZAxYc2M%252CdDvDHVCexVMj6M%252C_%253Bg9rAyBsW2h2DGM%252C7K3_l0NvdT0kaM%252C_%253BlBkTE2i1_YkTNM%252CeSqi_t7WKXUtdM%252C_%253BdoLSzWPpbPGqVM%252Ce-O_E671YQkKDM%252C_%253BlPy8IYbKbd3CyM%252CdDvDHVCexVMj6M%252C_%253ByxGBnspm8sBzKM%252CybH5GcqXy1swZM%252C_&usg=AI4_-kSo98ddnihbTBaJraC2X4zle1W-5w&sa=X&ved=2ahUKEwjxl6PI5uSCAxWxg4kEHYQ9DnUQ_B16BAhUEAE#imgrc=0rTqYSYZAxYc2M",
+    "image": "8ae1c1debe662bca8feb2a4f98235443.jpg"
+  },
+  {
+    "artist": "Out4pizza.con",
+    "category": "digital painitng",
+    "url": "https://www.out4pizza.com/FEED/",
+    "image": "https___www_out4pizza_com_FEED_.jpg"
+  },
+  {
+    "artist": "Louisa Gagliardi",
+    "category": "digital painitng",
+    "url": "https://louisagagliardi.com/",
+    "image": "https___louisagagliardi_com_.jpg"
+  },
+  {
+    "artist": "Computers club",
+    "category": "club",
+    "url": "https://www.computersclub.org/",
+    "image": "https___www_computersclub_org_.jpg"
+  },
+  {
+    "artist": "michael williams",
+    "category": "digital painitng",
+    "url": "https://www.google.com/search?sca_esv=585680499&rlz=1C5CHFA_enKR1016KR1017&hl=en&q=michael+williams+artist&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjGkqfC8uSCAxVYF1kFHakID1kQ0pQJegQIDhAB&biw=1352&bih=757&dpr=2",
+    "image": "https___www_google_com_search_sca_esv_585680499_rlz_1C5CHFA_enKR1016KR1017_hl_en_q_michael_williams_artist_tbm_isch_source_lnms_sa_X_ved_2ahUKEwjGkqfC8uSCAxVYF1kFHakID1kQ0pQJegQIDhAB_biw_1352_bih_757_dpr_2.jpg"
+  },
+  {
+    "artist": "karlnawrot",
+    "category": "design typography",
+    "url": "https://www.karlnawrot.com/typefaces/",
+    "image": "https___www_karlnawrot_com_typefaces_.jpg"
+  },
+  {
+    "artist": "Hisour",
+    "category": "glitch art",
+    "url": "https://www.hisour.com/ko/glitch-art-21221/",
+    "image": "https___www_hisour_com_ko_glitch_art_21221_.jpg"
+  },
+  {
+    "artist": "Hisour",
+    "category": "Tour art definition",
+    "url": "https://www.hisour.com/ko/glitch-art-21221/",
+    "image": "https___www_hisour_com_ko_glitch_art_21221_.jpg"
+  },
+  {
+    "artist": "Mel bochner",
+    "category": "Measurment",
+    "url": "https://www.google.com/search?q=Mel+bochner&tbm=isch&hl=en&chips=q:mel+bochner,g_1:portrait:T1C3EywEVVA%3D,online_chips:working+drawings:ULxR4HamOW0%3D,online_chips:bochner+theory+of:jK5DhL1w0Sw%3D&rlz=1C5CHFA_enKR1016KR1017&sa=X&ved=2ahUKEwiBvfnOi-2CAxX2M1kFHTgkDCkQ4lYoCXoECAEQTA&biw=1352&bih=757",
+    "image": "feea5ceb824d73947de9b73a350b98f9.jpg"
+  },
+  {
+    "artist": "Mel bochner Ladder",
+    "category": "ladder, measurment",
+    "url": "https://www.google.com/search?q=mel+bochner+ladder&tbm=isch&ved=2ahUKEwjUg9idj-yCAxUEGVkFHXHvDkIQ2-cCegQIABAA&oq=mel+bochner+ladder&gs_lcp=CgNpbWcQAzoKCAAQgAQQigUQQzoFCAAQgARQywlY9hBg1BFoAHAAeAGAAZkCiAG5BpIBBTYuMS4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=_bRoZZSRMoSy5NoP8d67kAQ&bih=995&biw=1920&rlz=1C5GCEM_enUS1077US1077#imgrc=Dtdr_8qBy8tlYM",
+    "image": "a7dde85fe37656eb0e41cf194d71ef3d.jpg"
+  },
+  {
+    "artist": "Trevor Paglen",
+    "category": "resolution / blurry / Landscape",
+    "url": "https://www.google.com/search?q=Trevor+Paglen+photo&tbm=isch&ved=2ahUKEwiPp6PUlOyCAxXgElkFHSDqDgIQ2-cCegQIABAA&oq=Trevor+Paglen+photo&gs_lcp=CgNpbWcQAzIHCAAQgAQQGDIHCAAQgAQQGFDMBVjTCWClCmgAcAB4AYAB6wKIAa4FkgEHMi4wLjEuMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=rrpoZY-YHeCl5NoPoNS7EA&bih=757&biw=1352&rlz=1C5CHFA_enKR1016KR1017",
+    "image": "07667c6c4fdd9c3305fe10741dbe68c2.jpg"
+  },
+  {
+    "artist": "Mariah robertson",
+    "category": "roll / chemical reaction / ",
+    "url": "https://www.google.com/search?sca_esv=586734894&rlz=1C5CHFA_enKR1016KR1017&q=Mariah+robertson&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiZ-pWti-2CAxXPvokEHcSqCoEQ0pQJegQIDBAB&biw=1352&bih=757&dpr=2",
+    "image": "https___www_google_com_search_sca_esv_586734894_rlz_1C5CHFA_enKR1016KR1017_q_Mariah_robertson_tbm_isch_source_lnms_sa_X_ved_2ahUKEwiZ_pWti_2CAxXPvokEHcSqCoEQ0pQJegQIDBAB_biw_1352_bih_757_dpr_2.jpg"
+  },
+  {
+    "artist": "Tara donovan",
+    "category": "Unit",
+    "url": "https://www.google.com/search?q=JR%20artist&tbm=isch&tbs=rimg:CfnTeFQ8YNShYRT3uZM5LpbdsgITCgIIABAAOgQIARAAQAFVJK4QP8ACANgCAOACAA&rlz=1C5CHFA_enKR1016KR1017&hl=en&sa=X&ved=0CBoQuIIBahcKEwioxeCs4uyCAxUAAAAAHQAAAAAQBg&biw=1352&bih=757",
+    "image": "https___www_google_com_search_q_JR_20artist_tbm_isch_tbs_rimg_CfnTeFQ8YNShYRT3uZM5LpbdsgITCgIIABAAOgQIARAAQAFVJK4QP8ACANgCAOACAA_rlz_1C5CHFA_enKR1016KR1017_hl_en_sa_X_ved_0CBoQuIIBahcKEwioxeCs4uyCAxUAAAAAHQAAAAAQBg_biw_1352_bih_757.jpg"
+  },
+  {
+    "artist": "JR",
+    "category": "Photo Installation / Huge ",
+    "url": "https://www.google.com/search?q=tara+donovan&tbm=isch&rlz=1C5CHFA_enKR1016KR1017&hl=en&sa=X&ved=2ahUKEwi2havliu2CAxU7GmIAHYm9CvsQBXoECAEQRw&biw=1352&bih=757",
+    "image": "https___www_google_com_search_q_tara_donovan_tbm_isch_rlz_1C5CHFA_enKR1016KR1017_hl_en_sa_X_ved_2ahUKEwi2havliu2CAxU7GmIAHYm9CvsQBXoECAEQRw_biw_1352_bih_757.jpg"
+  },
+  {
+    "artist": "Penelope umbrico",
+    "category": "digital Image / archive / collect",
+    "url": "http://www.penelopeumbrico.net/",
+    "image": "http___www_penelopeumbrico_net_.jpg"
+  },
+  {
+    "artist": "Ben Denzer (2011 - present)",
+    "category": "archive / daily / record / everyday",
+    "url": "https://2011-present.bendenzer.com/?query=October%2020,%202023#active",
+    "image": "https___2011_present_bendenzer_com__query_October_2020__202023_active.jpg"
+  },
+  {
+    "artist": "Ben Denzer ",
+    "category": "Design / archive",
+    "url": "https://bendenzer.com/",
+    "image": "https___bendenzer_com_.jpg"
+  },
+  {
+    "artist": "Ben Dezner (Workworkworkworkwork)",
+    "category": "archive / zine / class",
+    "url": "http://workworkworkworkworkworkworkworkworkwork.com/",
+    "image": "http___workworkworkworkworkworkworkworkworkwork_com_.jpg"
+  },
+  {
+    "artist": "liz deschenes",
+    "category": "Image / framework / frame / structure",
+    "url": "https://www.google.com/search?sca_esv=586734894&rlz=1C5CHFA_enKR1016KR1017&q=liz+deschenes&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiLlPT0jO2CAxUfv4kEHez2DnoQ0pQJegQIDRAB&biw=1352&bih=757&dpr=2#imgrc=cK0JprcnxQUKKM",
+    "image": "https___www_google_com_search_sca_esv_586734894_rlz_1C5CHFA_enKR1016KR1017_q_liz_deschenes_tbm_isch_source_lnms_sa_X_ved_2ahUKEwiLlPT0jO2CAxUfv4kEHez2DnoQ0pQJegQIDRAB_biw_1352_bih_757_dpr_2_imgrc_cK0JprcnxQUKKM.jpg"
+  },
+  {
+    "artist": "cheyney thompson",
+    "category": "Drawing / Pixel / dot",
+    "url": "https://www.google.com/search?sca_esv=c34f1484862cc875&q=cheyney+thompson&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBjLjqIC1CYKD9D-DQAQS3Z598VAVBnbpHrmLO7c8q4i29MHIoj62rC0KLNSn9Sz5z3esFN5drB9QO4K_J7PbHKiOJnkbQL94KPMWWfP42kcXLmA05Kz_kWSlBbJw3EyH2rvflvwG7CF_3RriU7tNogaTVRNHY8WquDbJw9ZbEZR3LqeFVg&sa=X&ved=2ahUKEwiBwLGJzpqMAxXjcfUHHQLyBa0QtKgLegQIIBAB&biw=1920&bih=958&dpr=2#vhid=qSO_aej9T9mwbM&vssid=mosaic",
+    "image": "d2b6acba7f367736deddb0f049ddb547.jpg"
+  },
+  {
+    "artist": "Miguelabreugallery",
+    "category": "Gallery",
+    "url": "https://miguelabreugallery.com/",
+    "image": "https___miguelabreugallery_com_.jpg"
+  },
+  {
+    "artist": "hilary berseth",
+    "category": "Nature / geometric scuplture",
+    "url": "https://www.google.com/search?q=hilary+berseth+&tbm=isch&ved=2ahUKEwih77rPju2CAxUGIGIAHWpeBGUQ2-cCegQIABAA&oq=hilary+berseth+&gs_lcp=CgNpbWcQAzIECAAQHlCsCFi_CWC8C2gAcAB4AIABXYgB-QGSAQEzmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=kTppZeHiHobAiLMP6ryRqAY&bih=757&biw=1352&rlz=1C5CHFA_enKR1016KR1017",
+    "image": "ea5aa19efd585ebd36632b4916f22de2.jpg"
+  },
+  {
+    "artist": "Hou Hsiao-Hsien",
+    "category": "Film / taiwan / director",
+    "url": "https://www.google.com/search?sca_esv=589256579&rlz=1C5GCEM_enUS1077US1077&q=Hou+Hsiao-Hsien+movies&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjMk_agiYGDAxUTk4kEHYTUBDwQ0pQJegQIDBAB&biw=1920&bih=995&dpr=2",
+    "image": "https___www_google_com_search_sca_esv_589256579_rlz_1C5GCEM_enUS1077US1077_q_Hou_Hsiao_Hsien_movies_tbm_isch_source_lnms_sa_X_ved_2ahUKEwjMk_agiYGDAxUTk4kEHYTUBDwQ0pQJegQIDBAB_biw_1920_bih_995_dpr_2.jpg"
+  },
+  {
+    "artist": "Tsai Ming-Liang",
+    "category": "Film / taiwan / director",
+    "url": "https://www.google.com/search?q=Tsai+Ming-Liang+movie&tbm=isch&ved=2ahUKEwibvd6hiYGDAxXAFFkFHYc9AoMQ2-cCegQIABAA&oq=Tsai+Ming-Liang+movie&gs_lcp=CgNpbWcQAzIECAAQHjIHCAAQgAQQGDoKCAAQgAQQigUQQzoFCAAQgARQvARYyxFgoRNoAHAAeACAAd4BiAHxBpIBBTMuNC4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=TrFzZZveDMCp5NoPh_uImAg&bih=995&biw=1920&rlz=1C5GCEM_enUS1077US1077",
+    "image": "332529361118c8979c2f2b6b9f3e1904.jpg"
+  },
+  {
+    "artist": "david horvitz wikipedia",
+    "category": "image wikipedia",
+    "url": "https://www.google.com/search?q=david+horvitz+wikipedia&tbm=isch&ved=2ahUKEwjV4dmmmoqDAxU3ElkFHdq_Bc8Q2-cCegQIABAA&oq=david+horvitz+wiki&gs_lcp=CgNpbWcQARgAMgcIABCABBAYOgoIABCABBCKBRBDOgUIABCABDoECAAQHlDEA1ijDGCdFmgAcAB4AIABhgGIAb8DkgEDNS4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=IXt4ZZXNKLek5NoP2v-W-Aw&bih=875&biw=1080&rlz=1C5GCEM_enUS1077US1077#imgrc=Lh41GUHTmGfDsM",
+    "image": "13ae8a462ebc0b13bc5e4b16f595d1d0.jpg"
+  },
+  {
+    "artist": "david horvitz",
+    "category": "art books / photography / performance art / mail ",
+    "url": "https://www.google.com/search?sca_esv=590257647&rlz=1C5GCEM_enUS1077US1077&hl=en&q=david+horvitz&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiKmev81IqDAxXktokEHU5GDH4Q0pQJegQIDRAB&biw=1920&bih=995&dpr=2",
+    "image": "https___www_google_com_search_sca_esv_590257647_rlz_1C5GCEM_enUS1077US1077_hl_en_q_david_horvitz_tbm_isch_source_lnms_sa_X_ved_2ahUKEwiKmev81IqDAxXktokEHU5GDH4Q0pQJegQIDRAB_biw_1920_bih_995_dpr_2.jpg"
+  },
+  {
+    "artist": "Zach Liberman",
+    "category": "effect",
+    "url": "https://www.google.com/search?sca_esv=590654907&rlz=1C5CHFA_enKR1016KR1017&q=zach+lieberman&tbm=isch&source=lnms&sa=X&ved=2ahUKEwi6w6OonI2DAxXAmIkEHXERAvUQ0pQJegQIFBAB&biw=1352&bih=757&dpr=2",
+    "image": "https___www_google_com_search_sca_esv_590654907_rlz_1C5CHFA_enKR1016KR1017_q_zach_lieberman_tbm_isch_source_lnms_sa_X_ved_2ahUKEwi6w6OonI2DAxXAmIkEHXERAvUQ0pQJegQIFBAB_biw_1352_bih_757_dpr_2.jpg"
+  },
+  {
+    "artist": "Hydra ojack",
+    "category": "effect / gradient",
+    "url": "https://hydra.ojack.xyz/?sketch_id=nesso_0",
+    "image": "https___hydra_ojack_xyz__sketch_id_nesso_0.jpg"
+  },
+  {
+    "artist": "Ars Electronica",
+    "category": "Austrian cultural / educational and scientific institute",
+    "url": "https://ars.electronica.art/news/en/",
+    "image": "https___ars_electronica_art_news_en_.jpg"
+  },
+  {
+    "artist": "Digital Art archive",
+    "category": "digital art / Archive / ",
+    "url": "https://www.digitalartarchive.at/nc/home.html",
+    "image": "https___www_digitalartarchive_at_nc_home_html.jpg"
+  },
+  {
+    "artist": "Shift Space",
+    "category": "Archive / Publication /Media article",
+    "url": "https://issue1.shiftspace.pub/",
+    "image": "https___issue1_shiftspace_pub_.jpg"
+  },
+  {
+    "artist": "XMU ",
+    "category": "China / Knowledge resource",
+    "url": "https://library.xmu.edu.cn./",
+    "image": "https___library_xmu_edu_cn__.jpg"
+  },
+  {
+    "artist": "Blink Magazine",
+    "category": "Chian Magazine ",
+    "url": "http://www.blink-magazine.com/",
+    "image": "http___www_blink_magazine_com_.jpg"
+  },
+  {
+    "artist": "Mayday room",
+    "category": "Archive / Social struggle / 1960 / social change",
+    "url": "https://maydayrooms.org/",
+    "image": "https___maydayrooms_org_.jpg"
+  },
+  {
+    "artist": "Gungho",
+    "category": "China / Personal Archive / Website",
+    "url": "https://www.gunghoart.com/",
+    "image": "https___www_gunghoart_com_.jpg"
+  },
+  {
+    "artist": "Desgin+Post human network",
+    "category": "design practices / design education / design research",
+    "url": "https://designandposthumanism.org/",
+    "image": "https___designandposthumanism_org_.jpg"
+  },
+  {
+    "artist": "Frieze",
+    "category": "Art fair / magazine",
+    "url": "https://www.frieze.com/",
+    "image": "https___www_frieze_com_.jpg"
+  },
+  {
+    "artist": "Electronic Arts Intermix",
+    "category": "creation / exhibition / distribution and preservation of media art",
+    "url": "https://www.eai.org/",
+    "image": "https___www_eai_org_.jpg"
+  },
+  {
+    "artist": "film-makerscoop",
+    "category": "web, film",
+    "url": "https://film-makerscoop.com/catalogue",
+    "image": "https___film_makerscoop_com_catalogue.jpg"
+  },
+  {
+    "artist": "Pionner works",
+    "category": "publsih",
+    "url": "https://pioneerworks.org/publishing",
+    "image": "https___pioneerworks_org_publishing.jpg"
+  },
+  {
+    "artist": "Flaunt",
+    "category": "film, archive",
+    "url": "https://archive.flaunt.com/",
+    "image": "https___archive_flaunt_com_.jpg"
+  },
+  {
+    "artist": "Otolith group",
+    "category": "archive ",
+    "url": "https://otolithgroup.org/",
+    "image": "https___otolithgroup_org_.jpg"
+  },
+  {
+    "artist": "10 film artist",
+    "category": "film artist",
+    "url": "https://www.artsy.net/article/editorial-the-top-10-film-slash-video-artists-on-artsy",
+    "image": "https___www_artsy_net_article_editorial_the_top_10_film_slash_video_artists_on_artsy.jpg"
+  },
+  {
+    "artist": "alsolikelife",
+    "category": "Media screen",
+    "url": "https://www.alsolikelife.com/",
+    "image": "https___www_alsolikelife_com_.jpg"
+  },
+  {
+    "artist": "Film explorer",
+    "category": "Film video ,essay",
+    "url": "https://www.filmexplorer.ch/video-essay-gallery/",
+    "image": "https___www_filmexplorer_ch_video_essay_gallery_.jpg"
+  },
+  {
+    "artist": "Font in use",
+    "category": "font archive design",
+    "url": "https://fontsinuse.com/",
+    "image": "https___fontsinuse_com_.jpg"
+  },
+  {
+    "artist": "Monish Khara",
+    "category": "Studio, design",
+    "url": "https://www.monishkhara.com/",
+    "image": "https___www_monishkhara_com_.jpg"
+  },
+  {
+    "artist": "fuckyou",
+    "category": "Design, Anime, figure",
+    "url": "https://fuckyou.design/",
+    "image": "https___fuckyou_design_.jpg"
+  },
+  {
+    "artist": "kaamkaaj.",
+    "category": "Design, Studio",
+    "url": "https://kaamkaaj.work/",
+    "image": "https___kaamkaaj_work_.jpg"
+  },
+  {
+    "artist": "Lapa",
+    "category": "web landing page design",
+    "url": "https://www.lapa.ninja/",
+    "image": "https___www_lapa_ninja_.jpg"
+  },
+  {
+    "artist": "Logobook",
+    "category": "logo archive",
+    "url": "http://www.logobook.com/",
+    "image": "http___www_logobook_com_.jpg"
+  },
+  {
+    "artist": "ilovecreatives",
+    "category": "Uncategorised",
+    "url": "https://ilovecreatives.com/",
+    "image": "https___ilovecreatives_com_.jpg"
+  },
+  {
+    "artist": "Two mcuh",
+    "category": "Studio,",
+    "url": "https://twomuch.studio/projects/lyst",
+    "image": "https___twomuch_studio_projects_lyst.jpg"
+  },
+  {
+    "artist": "Myfonts",
+    "category": "font",
+    "url": "https://www.myfonts.com/pages/whatthefont",
+    "image": "https___www_myfonts_com_pages_whatthefont.jpg"
+  },
+  {
+    "artist": "The index project",
+    "category": "index",
+    "url": "https://theindexproject.org/",
+    "image": "https___theindexproject_org_.jpg"
+  },
+  {
+    "artist": "Draw-down",
+    "category": "Design",
+    "url": "https://draw-down.com/?syclid=ea51ad4c-3f2c-4618-b211-0249d269b525",
+    "image": "https___draw_down_com__syclid_ea51ad4c_3f2c_4618_b211_0249d269b525.jpg"
+  },
+  {
+    "artist": "Nebrask press",
+    "category": "press",
+    "url": "https://www.nebraskapress.unl.edu/series/frontiers-of-narrative/",
+    "image": "https___www_nebraskapress_unl_edu_series_frontiers_of_narrative_.jpg"
+  },
+  {
+    "artist": "Annas-archive",
+    "category": "Open library, index, archive",
+    "url": "https://annas-archive.org/",
+    "image": "https___annas_archive_org_.jpg"
+  },
+  {
+    "artist": "All lighte expanded",
+    "category": "Interactive, Archive, WEb",
+    "url": "https://alllightexpanded.com/",
+    "image": "https___alllightexpanded_com_.jpg"
+  },
+  {
+    "artist": "Johanviladrich",
+    "category": "Uncategorised",
+    "url": "https://johanviladrich.com/Aire-75",
+    "image": "https___johanviladrich_com_Aire_75.jpg"
+  },
+  {
+    "artist": "danica phelps",
+    "category": "Uncategorised",
+    "url": "https://www.google.com/search?q=danica+phelps&tbm=isch&ved=2ahUKEwjJw-fAuMmDAxX2KlkFHfF4CxAQ2-cCegQIABAA&oq=danica+phelps&gs_lcp=CgNpbWcQAzIFCAAQgAQyBwgAEIAEEBg6CggAEIAEEIoFEEM6DggAEIAEEIoFELEDEIMBOggIABCABBCxAzoECAAQAzoGCAAQCBAeOgYIABAFEB5QnQRYkx1g-x1oAHAAeAGAAd8BiAGJDJIBBTkuMy4ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=hKKZZcnxPPbV5NoP8fGtgAE&bih=757&biw=1352&rlz=1C5CHFA_enKR1016KR1017#imgrc=SoZhbMK169gDhM",
+    "image": "345b4fef41f79ae454ea8c3185e5fd48.jpg"
+  },
+  {
+    "artist": "radio amnion",
+    "category": "Uncategorised",
+    "url": "https://radioamnion.net/",
+    "image": "https___radioamnion_net_.jpg"
+  },
+  {
+    "artist": "Talia cotton",
+    "category": "web desinger",
+    "url": "https://taliacotton.com/",
+    "image": "https___taliacotton_com_.jpg"
+  },
+  {
+    "artist": "gridless ",
+    "category": "Uncategorised",
+    "url": "https://gridless.design/history",
+    "image": "https___gridless_design_history.jpg"
+  },
+  {
+    "artist": "textlab",
+    "category": "pixel drawing, responsive ",
+    "url": "https://textlab.occupantfonts.com/",
+    "image": "https___textlab_occupantfonts_com_.jpg"
+  },
+  {
+    "artist": "pixel",
+    "category": "Uncategorised",
+    "url": "https://pixel.essenmitsosse.de/?showcase=true&slide=1",
+    "image": "https___pixel_essenmitsosse_de__showcase_true_slide_1.jpg"
+  },
+  {
+    "artist": "Untitled",
+    "category": "pixel drawing, responsive ",
+    "url": "https://www.google.com/search?q=daniel+rozin&source=lmns&tbm=vid&bih=757&biw=1352&rlz=1C5CHFA_enKR1016KR1017&hl=en&sa=X&ved=2ahUKEwjW0tmQjOWEAxXgFGIAHfWxDz4Q0pQJKAN6BAgBEAg#fpstate=ive&vld=cid:2d508798,vid:kV8v2GKC8WA,st:0",
+    "image": "https___www_google_com_search_q_daniel_rozin_source_lmns_tbm_vid_bih_757_biw_1352_rlz_1C5CHFA_enKR1016KR1017_hl_en_sa_X_ved_2ahUKEwjW0tmQjOWEAxXgFGIAHfWxDz4Q0pQJKAN6BAgBEAg_fpstate_ive_vld_cid_2d508798_vid_kV8v2GKC8WA_st_0.jpg"
+  },
+  {
+    "artist": "Jim Campbell",
+    "category": "pixel drawing, responsive ",
+    "url": "https://www.google.com/search?sca_esv=5e4d657f66705941&sca_upv=1&rlz=1C5CHFA_enKR1016KR1017&q=jim+campbell&tbm=vid&source=lnms&sa=X&ved=2ahUKEwj_1_7TjOWEAxV_F1kFHebAAZkQ0pQJegQIEBAB&biw=1352&bih=757&dpr=2",
+    "image": "https___www_google_com_search_sca_esv_5e4d657f66705941_sca_upv_1_rlz_1C5CHFA_enKR1016KR1017_q_jim_campbell_tbm_vid_source_lnms_sa_X_ved_2ahUKEwj_1_7TjOWEAxV_F1kFHebAAZkQ0pQJegQIEBAB_biw_1352_bih_757_dpr_2.jpg"
+  },
+  {
+    "artist": "Daphne knouse",
+    "category": "image",
+    "url": "https://daphneknouse.me/pool-movie",
+    "image": "https___daphneknouse_me_pool_movie.jpg"
+  },
+  {
+    "artist": "Luke Murphy",
+    "category": "Uncategorised",
+    "url": "https://www.canadanewyork.com/artists/luke-murphy/",
+    "image": "https___www_canadanewyork_com_artists_luke_murphy_.jpg"
+  },
+  {
+    "artist": "tyson yunkaporta",
+    "category": "Uncategorised",
+    "url": "https://emergencemagazine.org/interview/deep-time-diligence/",
+    "image": "https___emergencemagazine_org_interview_deep_time_diligence_.jpg"
+  },
+  {
+    "artist": "tyson yunkaporta",
+    "category": "Uncategorised",
+    "url": "https://www.google.com/search?q=tyson+yunkaporta&rlz=1C5CHFA_enKR1016KR1017&oq=tyson+yunkaporta&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDUxNjBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8",
+    "image": "https___www_google_com_search_q_tyson_yunkaporta_rlz_1C5CHFA_enKR1016KR1017_oq_tyson_yunkaporta_gs_lcrp_EgZjaHJvbWUyBggAEEUYOdIBCDUxNjBqMGo3qAIAsAIA_sourceid_chrome_ie_UTF_8.jpg"
+  },
+  {
+    "artist": "manuel delanda memory",
+    "category": "Uncategorised",
+    "url": "https://www.google.com/search?q=manuel+delanda+memory&rlz=1C5CHFA_enKR1016KR1017&oq=manuel+delanda+memory&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDYxMDFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1",
+    "image": "https___www_google_com_search_q_manuel_delanda_memory_rlz_1C5CHFA_enKR1016KR1017_oq_manuel_delanda_memory_gs_lcrp_EgZjaHJvbWUyBggAEEUYOdIBCDYxMDFqMGo3qAIAsAIA_sourceid_chrome_ie_UTF_8_ip_1.jpg"
+  },
+  {
+    "artist": "joelle tuerlinckx",
+    "category": "Uncategorised",
+    "url": "https://www.google.com/search?sca_esv=d66c42d153706fad&sca_upv=1&rlz=1C5CHFA_enKR1016KR1017&q=joelle+tuerlinckx&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjDpte7iOWEAxXNFlkFHWOJBQIQ0pQJegQIDRAB&biw=1352&bih=757&dpr=2#imgrc=gBCRpOBSeNCINM&imgdii=yW151NRqfc4YHM",
+    "image": "3d90f4a497b008c4b4efa4359288fcce.jpg"
+  },
+  {
+    "artist": "david joselit, After art ",
+    "category": "Uncategorised",
+    "url": "https://www.google.com/search?q=david+jrcelti+after+art&rlz=1C5CHFA_enKR1016KR1017&oq=david+jrcelti+after+art&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDUxMjZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8",
+    "image": "https___www_google_com_search_q_david_jrcelti_after_art_rlz_1C5CHFA_enKR1016KR1017_oq_david_jrcelti_after_art_gs_lcrp_EgZjaHJvbWUyBggAEEUYOdIBCDUxMjZqMGo3qAIAsAIA_sourceid_chrome_ie_UTF_8.jpg"
+  },
+  {
+    "artist": "Irish pavilion",
+    "category": "Drawing machine",
+    "url": "https://www.designboom.com/architecture/venice-architecture-biennale-irish-pavilion-niall-mclaughlin-yeoryia-manolopoulou-losing-myself-05-30-2016/",
+    "image": "https___www_designboom_com_architecture_venice_architecture_biennale_irish_pavilion_niall_mclaughlin_yeoryia_manolopoulou_losing_myself_05_30_2016_.jpg"
+  },
+  {
+    "artist": "Estudio morales",
+    "category": "Drawing machine",
+    "url": "http://estudioamorales.com/coal_drawing_machine/",
+    "image": "http___estudioamorales_com_coal_drawing_machine_.jpg"
+  },
+  {
+    "artist": "robert leegte",
+    "category": "jpeg image ",
+    "url": "https://opensea.io/collection/jpeg-by-jan-robert-leegte",
+    "image": "https___opensea_io_collection_jpeg_by_jan_robert_leegte.jpg"
+  },
+  {
+    "artist": "nanogram",
+    "category": "Uncategorised",
+    "url": "https://en.m.wikipedia.org/wiki/Nonogram",
+    "image": "https___en_m_wikipedia_org_wiki_Nonogram.jpg"
+  },
+  {
+    "artist": "robert leegte",
+    "category": "jpeg photography perspective",
+    "url": "https://www.google.com/search?q=Robert%20Leegte&tbm=isch&tbs=rimg:Cc1WFzNM6YihYWvM0aSCQsnVsgIRCgIIABAAOgQIARAAVZheMT_1AAgDYAgDgAgA&rlz=1C5CHFA_enKR1016KR1017&hl=en&sa=X&ved=0CBoQuIIBahcKEwiwytjZiPiEAxUAAAAAHQAAAAAQJQ&biw=1352&bih=757#imgrc=4LXBqsWH09w2RM",
+    "image": "db18b851ca1507c2778bab509cfdcfc7.jpg"
+  },
+  {
+    "artist": "juerglehni",
+    "category": "drawing machine, pixel, wall drawing",
+    "url": "https://juerglehni.com/works",
+    "image": "https___juerglehni_com_works.jpg"
+  },
+  {
+    "artist": "creativeaplliactaion",
+    "category": "machin, digital, archive, media, robot, drawingmachine",
+    "url": "https://www.creativeapplications.net/blog/page/2/",
+    "image": "https___www_creativeapplications_net_blog_page_2_.jpg"
+  },
+  {
+    "artist": "web grain",
+    "category": "web, reading",
+    "url": "https://frankchimero.com/blog/2015/the-webs-grain/",
+    "image": "https___frankchimero_com_blog_2015_the_webs_grain_.jpg"
+  },
+  {
+    "artist": "vernacular web",
+    "category": "web, reading",
+    "url": "https://art.teleportacia.org/observation/vernacular/",
+    "image": "https___art_teleportacia_org_observation_vernacular_.jpg"
+  },
+  {
+    "artist": "vernacular web",
+    "category": "web, reading",
+    "url": "http://contemporary-home-computing.org/vernacular-web-2/",
+    "image": "http___contemporary_home_computing_org_vernacular_web_2_.jpg"
+  },
+  {
+    "artist": "desingfriction",
+    "category": "web, reading",
+    "url": "https://designingfriction.com/",
+    "image": "https___designingfriction_com_.jpg"
+  },
+  {
+    "artist": "Wolfgang tiliams",
+    "category": "image",
+    "url": "https://www.google.com/search?q=wolfgang+tillmans+truth+study+center&tbm=isch&ved=2ahUKEwietrPIzoWFAxWkDWIAHRgNCSIQ2-cCegQIABAA&oq=Wolfgang+Tillmans+center&gs_lp=EgNpbWciGFdvbGZnYW5nIFRpbGxtYW5zIGNlbnRlcioCCAAyBhAAGAgYHkimCFAAWABwAHgAkAEAmAE6oAE6qgEBMbgBAcgBAIoCC2d3cy13aXotaW1niAYB&sclient=img&ei=lUr8Zd6XE6SbiLMPmJqkkAI&bih=757&biw=1352&rlz=1C5CHFA_enKR1016KR1017",
+    "image": "52338b7b73d5767f0d4822fe5062ebdf.jpg"
+  },
+  {
+    "artist": "wang shui",
+    "category": "Uncategorised",
+    "url": "https://www.google.com/search?sca_esv=3cda08dae3a5e905&sca_upv=1&rlz=1C5CHFA_enKR1016KR1017&q=wang+shui&tbm=isch&source=lnms&sa=X&ved=2ahUKEwitppiqzYWFAxWElIkEHQnVBhIQ0pQJegQIChAB&biw=1352&bih=757&dpr=2",
+    "image": "https___www_google_com_search_sca_esv_3cda08dae3a5e905_sca_upv_1_rlz_1C5CHFA_enKR1016KR1017_q_wang_shui_tbm_isch_source_lnms_sa_X_ved_2ahUKEwitppiqzYWFAxWElIkEHQnVBhIQ0pQJegQIChAB_biw_1352_bih_757_dpr_2.jpg"
+  },
+  {
+    "artist": "Wong ping",
+    "category": "Uncategorised",
+    "url": "https://www.google.com/search?sca_esv=1151ff6db26877ce&sca_upv=1&rlz=1C5CHFA_enKR1016KR1017&q=wong+ping+artist&tbm=isch&source=lnms&sa=X&ved=2ahUKEwig94mbuoWFAxX8j4kEHbN0DtMQ0pQJegQIDRAB&biw=1920&bih=993&dpr=2#imgrc=Uu2UoOfMaX9J_M",
+    "image": "https___www_google_com_search_sca_esv_1151ff6db26877ce_sca_upv_1_rlz_1C5CHFA_enKR1016KR1017_q_wong_ping_artist_tbm_isch_source_lnms_sa_X_ved_2ahUKEwig94mbuoWFAxX8j4kEHbN0DtMQ0pQJegQIDRAB_biw_1920_bih_993_dpr_2_imgrc_Uu2UoOfMaX9J_M.jpg"
+  },
+  {
+    "artist": "Nora schultz",
+    "category": "Uncategorised",
+    "url": "https://www.contemporaryartlibrary.org/artist/nora-schultz-3410",
+    "image": "https___www_contemporaryartlibrary_org_artist_nora_schultz_3410.jpg"
+  },
+  {
+    "artist": "tom sachs",
+    "category": "repair / archive / studio",
+    "url": "https://www.google.com/search?sca_esv=b600504e9c411f2d&sca_upv=1&rlz=1C5GCCM_en&q=tom+sachs+repair&tbm=isch&source=lnms&prmd=isvnmbtz&sa=X&ved=2ahUKEwi_rvuusJiFAxU2F1kFHYUKCDIQ0pQJegQIEBAB&biw=1920&bih=993&dpr=2#imgrc=jsTxgAtZu87O0M",
+    "image": "https___www_google_com_search_sca_esv_b600504e9c411f2d_sca_upv_1_rlz_1C5GCCM_en_q_tom_sachs_repair_tbm_isch_source_lnms_prmd_isvnmbtz_sa_X_ved_2ahUKEwi_rvuusJiFAxU2F1kFHYUKCDIQ0pQJegQIEBAB_biw_1920_bih_993_dpr_2_imgrc_jsTxgAtZu87O0M.jpg"
+  },
+  {
+    "artist": "Untitled",
+    "category": "Uncategorised",
+    "url": "https://www.moussemagazine.it/magazine/nora-schultz-portikus/",
+    "image": "https___www_moussemagazine_it_magazine_nora_schultz_portikus_.jpg"
+  },
+  {
+    "artist": "jpeg",
+    "category": "jpeg compression",
+    "url": "https://cgjennings.ca/articles/jpeg-compressiona",
+    "image": "https___cgjennings_ca_articles_jpeg_compressiona.jpg"
+  },
+  {
+    "artist": "gabi klasmer drawing machine",
+    "category": "Uncategorised",
+    "url": "https://www.google.com/search?q=gabi+klasmer+drawing+machine&rlz=1C5GCCM_en&oq=gabi+klasmer+drawing+machine&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTE1ODAzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#imgrc=_U29xjcve6gNDM&imgdii=V9Y5-AsOQsQm5M",
+    "image": "https___www_google_com_search_q_gabi_klasmer_drawing_machine_rlz_1C5GCCM_en_oq_gabi_klasmer_drawing_machine_gs_lcrp_EgZjaHJvbWUyBggAEEUYOdIBCTE1ODAzajBqN6gCALACAA_sourceid_chrome_ie_UTF_8_imgrc__U29xjcve6gNDM_imgdii_V9Y5_AsOQsQm5M.jpg"
+  },
+  {
+    "artist": "css layout",
+    "category": "css layout ",
+    "url": "https://layout.bradwoods.io/",
+    "image": "https___layout_bradwoods_io_.jpg"
+  },
+  {
+    "artist": "trevor paglen",
+    "category": "ai, image for the computer, invisible",
+    "url": "https://www.lensculture.com/articles/trevor-paglen-an-urgent-look-at-how-artificial-intelligence-will-see-the-world",
+    "image": "https___www_lensculture_com_articles_trevor_paglen_an_urgent_look_at_how_artificial_intelligence_will_see_the_world.jpg"
+  },
+  {
+    "artist": "Jon Rafman",
+    "category": "ai",
+    "url": "https://www.google.com/search?sca_esv=683c3575b4f35c07&sca_upv=1&rlz=1C5CHFA_enKR1016KR1017&q=Jon+Rafman&uds=AMwkrPvY4-BUZOvXpK9TAc1E2llTFJrtDhpp0bl910Yyl_jMvImggnhlBwLDyHZr2w-jnAlme2QhL7GGz-uOmuCfUZMQ_td8LXM1Or6ROFZazph3nnveBiNmtY_CQInrDWwyCcCOUI85&udm=2&sa=X&ved=2ahUKEwjR3r7Ft72FAxVSkIkEHXFwB40QtKgLegQIDRAB&biw=1920&bih=993&dpr=2",
+    "image": "17266b861a01f8941185a411c8f5801c.jpg"
+  },
+  {
+    "artist": "Taeyoon Choi",
+    "category": "poetics of science, technology and human relations",
+    "url": "https://taeyoonchoi.com/",
+    "image": "https___taeyoonchoi_com_.jpg"
+  },
+  {
+    "artist": "devin kenny",
+    "category": "Shake-up Environment.",
+    "url": "https://www.les-nouveaux-riches.com/shake-up-environment/",
+    "image": "https___www_les_nouveaux_riches_com_shake_up_environment_.jpg"
+  },
+  {
+    "artist": "Newyork times",
+    "category": "Newyork times, ai, aritifcial",
+    "url": "https://www.nytimes.com/2023/12/28/arts/design/artists-artificial-intelligence.html",
+    "image": "https___www_nytimes_com_2023_12_28_arts_design_artists_artificial_intelligence_html.jpg"
+  },
+  {
+    "artist": "Elisa Giardina Papa",
+    "category": "media installation, screen",
+    "url": "https://www.google.com/search?sca_esv=db991f8d1f0bb011&sca_upv=1&rlz=1C5CHFA_enKR1016KR1017&q=Elisa+Giardina+Papa&uds=AMwkrPsfh9AwCcei_zG5fJYFcN3zq7M22Y3y4seZgak0Fwjh0xz35dFxVlhWxAme6nYcI4EQmjWEkQ0vfVwFikkFfjTP7r7pae9FZ7JSvuiNYo6XXbaXqFk-RHJexjvVvCwhw8OckIB4&udm=2&sa=X&ved=2ahUKEwi_ooTet72FAxWPkIkEHc2KB18QtKgLegQIDRAB&biw=1920&bih=993&dpr=2#vhid=5PkHAyDl5xIlDM&vssid=mosaic",
+    "image": "6c3babd0ce6ede524e61d5bf8f994e0f.jpg"
+  },
+  {
+    "artist": "knowing machines",
+    "category": "data set / learning machine",
+    "url": "https://knowingmachines.org/",
+    "image": "https___knowingmachines_org_.jpg"
+  },
+  {
+    "artist": "msch",
+    "category": "shop / web / market",
+    "url": "https://mschf.com/",
+    "image": "https___mschf_com_.jpg"
+  },
+  {
+    "artist": "Toomcuhtype",
+    "category": "web/ type",
+    "url": "https://toomuchtype.com/",
+    "image": "https___toomuchtype_com_.jpg"
+  },
+  {
+    "artist": "Micahel Johansson",
+    "category": "block / organize / stacked",
+    "url": "https://www.michaeljohansson.com/",
+    "image": "https___www_michaeljohansson_com_.jpg"
+  },
+  {
+    "artist": "brian griffiths",
+    "category": "house / toy / ",
+    "url": "https://www.google.com/search?sca_esv=8f53fd7bd3af96d8&sca_upv=1&rlz=1C5CHFA_enKR1016KR1017&q=brian+griffiths&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2jrrv3e_fewYh7LFIpXPaEgNAEV_sGq2DkYPwoOCOXKJ0yTcy2fVVxgE54oLBTryFU83lxQsSBULV6u-EIQrWwhG4CpSTpZX2uIYrGBjigrD9cFRls3x9duEM5JzKOlIUpz1q9Fh&sa=X&ved=2ahUKEwjClYuW18uHAxVdja8BHbSsOzsQtKgLegQIDxAB&biw=1352&bih=757&dpr=2",
+    "image": "808b2e0b269d106d7fb76fe2f84fb2df.jpg"
+  },
+  {
+    "artist": "brighten the corners",
+    "category": "design / studio",
+    "url": "https://brightenthecorners.com/",
+    "image": "https___brightenthecorners_com_.jpg"
+  },
+  {
+    "artist": "lucas dupuy",
+    "category": "drawing / installation",
+    "url": "http://lucasdupuy.com/",
+    "image": "http___lucasdupuy_com_.jpg"
+  },
+  {
+    "artist": "leebinsoyeon / 이빈소연",
+    "category": "digital drawing / installation",
+    "url": "https://leebinsoyeon.com/",
+    "image": "https___leebinsoyeon_com_.jpg"
+  },
+  {
+    "artist": "david hammons",
+    "category": "blizzard and ball sale",
+    "url": "https://www.google.com/search?sca_esv=a67a64356a29d00d&rlz=1C5CHFA_enKR1016KR1017&q=david+hammons+bliz-aard+ball+sale&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J603JUkR9Y5suk8yuy50qOYMMWTNCTu57lKPsZpPcfqP_4Q6I9930FVUJMWQydQjkDI2cYt8XAYZgfK1a-MzI-MQqS_mmq7waMraXfRB6aJcLtVZNwTgQgwwW68z2WhJky8_su1MfX0FajY_uyVUEreB2t3xrKRPPB5OhByKLoss3iE8Tg&sa=X&ved=2ahUKEwi3ouXpo_mJAxWRm68BHa4iKWcQtKgLegQIDxAB&biw=1352&bih=756&dpr=2#vhid=wMS6CS0LiWXfoM&vssid=mosaic",
+    "image": "503cce5a0fc7034e721f2a0bb09ce4f8.jpg"
+  },
+  {
+    "artist": "na-be",
+    "category": "craft / ",
+    "url": "https://na-be.kr/mundane/html/product/crafters.html?cate_no=50",
+    "image": "https___na_be_kr_mundane_html_product_crafters_html_cate_no_50.jpg"
+  },
+  {
+    "artist": "jesse zhou",
+    "category": "three.js portfolio",
+    "url": "https://jesse-zhou.com/",
+    "image": "https___jesse_zhou_com_.jpg"
+  },
+  {
+    "artist": "Suki Seokyeong Kang",
+    "category": "installation",
+    "url": "https://www.google.com/search?q=%EA%B0%95%EC%84%9C%EA%B2%BD&rlz=1C5CHFA_enKR1016KR1017&oq=%EA%B0%95%EC%84%9C%EA%B2%BD&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMwNTRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8",
+    "image": "https___www_google_com_search_q__EA_B0_95_EC_84_9C_EA_B2_BD_rlz_1C5CHFA_enKR1016KR1017_oq__EA_B0_95_EC_84_9C_EA_B2_BD_gs_lcrp_EgZjaHJvbWUyBggAEEUYOdIBCDMwNTRqMGo3qAIAsAIA_sourceid_chrome_ie_UTF_8.jpg"
+  },
+  {
+    "artist": "Ahran Kwon, 권아람",
+    "category": "media, disply transform",
+    "url": "https://ahramkwon.com/",
+    "image": "https___ahramkwon_com_.jpg"
+  },
+  {
+    "artist": "wonwoolee, 이원우",
+    "category": "media",
+    "url": "http://wonwoolee.com/",
+    "image": "http___wonwoolee_com_.jpg"
+  },
+  {
+    "artist": "Robert morris",
+    "category": "minimalsim, installation, Process art",
+    "url": "https://www.google.com/search?sca_esv=25cf531ee370dd12&q=robert+morris&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpmDtIGL1r84kuKz6yAcD_igefx-eKq1gCPHF3zhthFoneNn6lL83lY3KLybUMxCNDHQus4VIx3LaatjzUq_py4-z0NEea5j6m-ShGqcvkgwY6X8X01GJE9N5yRzmv-xanm5RCM1t-GPR3AHH1wy1ZGzfHblHc2o-lkQ70mavZDv9be7sRk0DNYbCAyIQZhG0VmcEH6g&sa=X&ved=2ahUKEwjk1Im0__6LAxUsha8BHThRCtIQtKgLegQIExAB&biw=1920&bih=992&dpr=2#vhid=ipDlkKlurlRpOM&vssid=mosaic",
+    "image": "4a92b9c2685c31cd616eeb4393476fa7.jpg"
+  },
+  {
+    "artist": "Unmake lab",
+    "category": "ai, Gan, Network",
+    "url": "https://www.unmakelab.org/",
+    "image": "https___www_unmakelab_org_.jpg"
+  },
+  {
+    "artist": "carolee Schneemann",
+    "category": "Performancer, Feminist,  Body, Trace",
+    "url": "https://www.google.com/search?sca_esv=25cf531ee370dd12&q=carolee+Schneemann&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBkzPWUS0OtApxR2914vrjk60CMaA0jPMd-1UByCaBk9R1T-e3meI1YYvI32hoR7fdZKnrQRRidRniZVyhSCuU8WHWWQsXP4OFP4vHT5cssfe6UdlJNNsObYikdPvFEEhtK7V8Oov93JEIcy7uAyXX3QBRpFJYqzqP7cfXok_8uOiInpScw&sa=X&ved=2ahUKEwiX6rG-__6LAxVQcfUHHZt0H_IQtKgLegQIJBAB&biw=1920&bih=992&dpr=2",
+    "image": "a04dddb9f2cdc6ffd0664fea8152409d.jpg"
+  },
+  {
+    "artist": "anne hardy",
+    "category": "structure, wall",
+    "url": "https://anne-hardy.co.uk/archive/works_listing/flutter",
+    "image": "https___anne_hardy_co_uk_archive_works_listing_flutter.jpg"
+  },
+  {
+    "artist": "Hyojung-SEO, 서효정",
+    "category": "Generative art, one day, one coding",
+    "url": "https://magazine.beattitude.kr/visual-portfolio/seohyo/",
+    "image": "https___magazine_beattitude_kr_visual_portfolio_seohyo_.jpg"
+  },
+  {
+    "artist": "takk",
+    "category": "mobile cinema, ",
+    "url": "https://takksarchive.cargo.site/mobile-cinema",
+    "image": "https___takksarchive_cargo_site_mobile_cinema.jpg"
+  },
+  {
+    "artist": "agustina woodgate",
+    "category": "pipe, south america, infrastructure",
+    "url": "https://agustinawoodgate.com/",
+    "image": "https___agustinawoodgate_com_.jpg"
+  },
+  {
+    "artist": "Hong Seunghye, 홍승혜",
+    "category": "pixel, drawing, installation, media",
+    "url": "https://www.google.com/search?sca_esv=cd968c0da757ee90&q=%ED%99%8D%EC%8A%B9%ED%98%9C&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBkzPWUS0OtApxR2914vrjk60CMaA0jPMd-1UByCaBk9R1T-e3meI1YYvI32hoR7fdUDbsO7EfFOTLf0dlYXhUSDNIWl4-tQ46YV_BO-jGKENUX4z7e1NiDlIsSXpnlFOrQarK-vywFHlFjNfFl05xML3T8YsjTuFFsG1oCRLDxh5SwaKgA&sa=X&ved=2ahUKEwjsu4nu55iMAxX0h1YBHRVhHYgQtKgLegQIFhAB&biw=1920&bih=958&dpr=2",
+    "image": "2813f37eba61ce5a4850f6b629420cd6.jpg"
+  },
+  {
+    "artist": "jewyo rhii, 이주요",
+    "category": "installation, system, storage, depot",
+    "url": "https://www.google.com/search?sca_esv=cd968c0da757ee90&udm=2&q=jewyo+rhii&spell=1&sa=X&ved=2ahUKEwiAkv-o6JiMAxWZsVYBHXreLn4QBSgAegQIBxAB&biw=1920&bih=958&dpr=2",
+    "image": "https___www_google_com_search_sca_esv_cd968c0da757ee90_udm_2_q_jewyo_rhii_spell_1_sa_X_ved_2ahUKEwiAkv_o6JiMAxWZsVYBHXreLn4QBSgAegQIBxAB_biw_1920_bih_958_dpr_2.jpg"
+  },
+  {
+    "artist": "Chung Seoyoung. 정서영",
+    "category": "sculpture",
+    "url": "https://www.google.com/search?q=Chung+Seoyoung&sca_esv=cd968c0da757ee90&udm=2&biw=1920&bih=958&ei=0R7cZ4LgDNfd2roP853G4Q8&ved=0ahUKEwjCjO-p6JiMAxXXrlYBHfOOMfwQ4dUDCBE&uact=5&oq=Chung+Seoyoung&gs_lp=EgNpbWciDkNodW5nIFNlb3lvdW5nMgUQABiABDIEEAAYHkjiBVDMA1jMA3ABeACQAQCYAX2gAX2qAQMwLjG4AQPIAQD4AQL4AQGYAgKgAoMBmAMAiAYBkgcDMS4xoAeOAbIHAzAuMbgHggE&sclient=img",
+    "image": "efd83d3eb807467b2e131183f4c04abe.jpg"
+  },
+  {
+    "artist": "Bahc Yi-So, 박이소",
+    "category": "installation, system",
+    "url": "https://drive.google.com/file/d/1ysV7-prULnxcrVkNX3aIgWBjL5cTTDOk/view?usp=drive_link",
+    "image": "https___drive_google_com_file_d_1ysV7_prULnxcrVkNX3aIgWBjL5cTTDOk_view_usp_drive_link.jpg"
+  },
+  {
+    "artist": "sha sha, 샤샤",
+    "category": "archive, data, ",
+    "url": "https://drive.google.com/file/d/1eSzu0xFwbt6oub37GZG6SJmBz3XAx0Hv/view?usp=drive_link",
+    "image": "https___drive_google_com_file_d_1eSzu0xFwbt6oub37GZG6SJmBz3XAx0Hv_view_usp_drive_link.jpg"
+  },
+  {
+    "artist": "Ahn Kyu Chul, 안규철",
+    "category": "installation, ",
+    "url": "https://drive.google.com/file/d/1RanP4SMarb6IUZnmMAV2p-6iyk2qVL08/view?usp=drive_link",
+    "image": "https___drive_google_com_file_d_1RanP4SMarb6IUZnmMAV2p_6iyk2qVL08_view_usp_drive_link.jpg"
+  },
+  {
+    "artist": "Yoo do won, 유도원",
+    "category": "Perspective, ",
+    "url": "https://dowonyoo.com/",
+    "image": "https___dowonyoo_com_.jpg"
+  },
+  {
+    "artist": "Leehalim, 이하림",
+    "category": "Web, designer, interacitve",
+    "url": "https://leehalim.com/index.html",
+    "image": "https___leehalim_com_index_html.jpg"
+  },
+  {
+    "artist": "Choong-geun Yoon, 윤충근",
+    "category": "Web, designer, interacitve",
+    "url": "https://cgyoon.kr/",
+    "image": "https___cgyoon_kr_.jpg"
+  },
+  {
+    "artist": "atelier van lieshout",
+    "category": "atelier van lieshout",
+    "url": "https://www.google.com/search?sca_esv=ae1c882eac2a8cbb&q=atelier+van+lieshout&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBsxayPSIAqObp_AgjkUGqekYoUzDaOcDDjQfK4KpR2OI4nYy1x80mmSpqaOOUqZO6gr00dZrISKZjGWQiIFR5kVMKaNG3cA2IR88nvlz3xNV0bEOrDse2A8UyRx_2CUI8FcRKCy5dU0eIi6fOGp3web5ORl0npj8eSJyn6mKydkaWPfgwg&sa=X&ved=2ahUKEwiuo4Duy6eMAxWPcfUHHTHEC7AQtKgLegQIExAB&biw=1920&bih=958&dpr=2",
+    "image": "0e57fb5b4b1009263c405911de7ec74b.jpg"
+  },
+  {
+    "artist": "레몽 크노 문체연습",
+    "category": "Uncategorised",
+    "url": "https://www.google.com/search?sca_esv=fa927a4af76fe362&rlz=1C5CHFA_enKR1016KR1017&q=%EB%A0%88%EB%AA%BD+%ED%81%AC%EB%85%B8+%EB%AC%B8%EC%B2%B4%EC%97%B0%EC%8A%B5&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBtmuEdhfywyzhendkLDnhcrUz6wxBwARHD96EKWkSbZoqXb6uOuzhtkIDhbKMFBTOVrGmOZ3HbBjDfObTbfnIdb7sBQudblck2FbBTVTvvRC0OGIJGqNvIzUDLrQnRJEJeytsn6BnSZHTXAYMMs8Qb0i3Ke0uowffkKEh78MRVKG07Jnqw&sa=X&ved=2ahUKEwjonMbm7pqMAxV1r1YBHVEfHREQtKgLegQIDxAB&biw=1352&bih=722&dpr=2#vhid=c7KhqrayGMp9YM&vssid=mosaic",
+    "image": "129b413875548501a4282d53e49f3125.jpg"
+  },
+  {
+    "artist": "roxy paine",
+    "category": "ㅠㅇ",
+    "url": "https://roxypaine.com/about",
+    "image": "https___roxypaine_com_about.jpg"
+  },
+  {
+    "artist": "PROMETHEUS DELIVERED",
+    "category": "shit printer, organism machine",
+    "url": "https://www.google.com/search?sca_esv=797b4a86cdb03d2c&q=PROMETHEUS+DELIVERED&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBtmuEdhfywyzhendkLDnhcoz2MIB1dVLatL09WpR-ccvNDsAwaILDgy-RGx_sbniIxhiWbdmf59-bASJQZEZCjCGEMlytxQx138IVjs9JXJxGa2hXer65kijPuqi_Y4WO94gtuW1SiG_HkHQVeJv3Sg5eGLuwOptgQwXOW7ymyS90hEFmA&sa=X&ved=2ahUKEwi_j8vu4J-MAxUEnq8BHQ1rCWcQtKgLegQIGhAB&biw=1920&bih=958&dpr=2#vhid=qfJWPOC3pNW6rM&vssid=mosaic",
+    "image": "2738df51d402a1279bcf503c7eac5aee.jpg"
+  },
+  {
+    "artist": "Thomas Feuerstein MINDMACHINE",
+    "category": "shit printer, organism machine",
+    "url": "https://www.google.com/search?q=Thomas+Feuerstein+MINDMACHINE&sca_esv=797b4a86cdb03d2c&udm=2&biw=1920&bih=958&ei=osLfZ969HYy4vr0P2Jjb6As&ved=0ahUKEwjelo_94J-MAxUMnK8BHVjMFr0Q4dUDCBE&uact=5&oq=Thomas+Feuerstein+MINDMACHINE&gs_lp=EgNpbWciHVRob21hcyBGZXVlcnN0ZWluIE1JTkRNQUNISU5FSJgUUKAIWMkScAV4AJABAJgBf6AB2AKqAQMwLjO4AQPIAQD4AQL4AQGYAgSgAhHCAgYQABgHGB7CAggQABgHGAoYHsICBRAAGIAEwgIHEAAYgAQYCpgDAIgGAZIHATSgB4cBsgcAuAcA&sclient=img",
+    "image": "21c5f7a10b86f475a8e7cf4b16eac3ed.jpg"
+  },
+  {
+    "artist": "Thomas Feuerstein – \"PANCREAS",
+    "category": "shit printer, organism machine",
+    "url": "https://www.google.com/search?sca_esv=797b4a86cdb03d2c&q=Thomas+Feuerstein+%E2%80%93+%22PANCREAS&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBtmuEdhfywyzhendkLDnhcrUz6wxBwARHD96EKWkSbZoqXb6uOuzhtkIDhbKMFBTOSopnMSiYQfajMRcOqHpFXiuixuphoEvyJTuX5yYBnQEZCINeCLcKyGdjmVXh6I0C2TnOrV4C_adia4N1YykHtn5cCl1VuW8naGtlXJhmYx6uELZeA&sa=X&ved=2ahUKEwjQjone4J-MAxX7fPUHHZiyH5kQtKgLegQIFxAB&biw=1920&bih=958&dpr=2#vhid=8v9QMyGYEMCSlM&vssid=mosaic",
+    "image": "0a13127d5187489648755b58dfa2d750.jpg"
+  },
+  {
+    "artist": "Thomas Feuerstein",
+    "category": "shit printer, organism machine",
+    "url": "https://www.google.com/search?sca_esv=797b4a86cdb03d2c&q=Thomas+Feuerstein&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBnsX62dbVmWR6QCQ5QEtPRqut5gkyra9fZFbsKm1oGezZfNjBY6JC6SkJAVAOI0b5OFsBGc76aDMxtuacnLS7X32-5RBJi3DslBBuGrMim5dcyCpAyZTg_k-q35rsDodRcqN2TK5Sr6hG-8s-j-XIJlt7hyRrkkX4JvUEf1PhS4UabKMjw&sa=X&ved=2ahUKEwi90tfc35-MAxXls1YBHc3YLPUQtKgLegQIGRAB&biw=1920&bih=958&dpr=2",
+    "image": "f0442d7d218bb6b539d5df173633bbdb.jpg"
+  },
+  {
+    "artist": "Urs Fischer",
+    "category": "install, water drop",
+    "url": "https://www.google.com/search?sca_esv=28a45a8f6728ec42&rlz=1C5CHFA_enKR1016KR1017&q=Urs+Fischer&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBnsX62dbVmWR6QCQ5QEtPRqut5gkyra9fZFbsKm1oGezZfNjBY6JC6SkJAVAOI0b5OFsBGc76aDMxtuacnLS7X32-5RBJi3DslBBuGrMim5dcyCpAyZTg_k-q35rsDodRcqN2TK5Sr6hG-8s-j-XIJlt7hyRrkkX4JvUEf1PhS4UabKMjw&sa=X&ved=2ahUKEwjxva3Y8MiMAxVB4DQHHVLrOcoQtKgLegQIExAB&biw=1352&bih=722&dpr=2",
+    "image": "997e6d6856e74483fdf2e841b0896d6f.jpg"
+  },
+  {
+    "artist": "Michel Blazy",
+    "category": "bubble, ",
+    "url": "https://www.google.com/search?sca_esv=797b4a86cdb03d2c&q=Michel+Blazy&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBjLjqIC1CYKD9D-DQAQS3Z44LBK6yTXN_5587Z3ya9D76ZZ826DWN9d1Qgzn83HTxkNyD-y2lvIVOgVuXoW4DIBemkWpiAh5dAj38Z0PC4v-xHue7DNBjXSEv0oaT8EQq8rpOkIZmT4uFJd5QLVFJ1T3gEzNHJem1v1gc2MBCvlPJWjJUQ&sa=X&ved=2ahUKEwj-qYbW4J-MAxXgUvUHHennI3kQtKgLegQIEhAB&biw=1920&bih=958&dpr=2#vhid=wraLRY9UDoDJJM&vssid=mosaic",
+    "image": "467bbd4460ff550057f8bd6091c79e91.jpg"
+  },
+  {
+    "artist": "Matthew Angelo Harrison",
+    "category": "nozzle, machine, print",
+    "url": "https://www.google.com/search?sca_esv=62d44b4c190ec51a&q=Matthew+Angelo+Harrison&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBnsX62dbVmWR6QCQ5QEtPRqut5gkyra9fZFbsKm1oGezOI6DQjxNKZ2V8dXgJRWA_XPQvbS38YWVK_mJ7V2VSjdx38VvyI_aVBOIhqhaeCMSD5HME0rL3wcoIJjuI4FbsBLmFFJgs4L3oBYxEGiNQCnlAg0q8nNc84qSjV2PloHFBiUmPw&sa=X&ved=2ahUKEwiLucbD45-MAxX9ja8BHS1UBbMQtKgLegQIIxAB&biw=1920&bih=958&dpr=2",
+    "image": "f373d189193485f852e2139a0eb1ae5b.jpg"
+  },
+  {
+    "artist": "David bowen",
+    "category": "led, machine",
+    "url": "https://www.dwbowen.com/archive",
+    "image": "https___www_dwbowen_com_archive.jpg"
+  },
+  {
+    "artist": "Robert Leegte",
+    "category": "screen, image, abstract, painting",
+    "url": "https://www.google.com/search?sca_esv=97d8cc157e55592e&rlz=1C5CHFA_enKR1016KR1017&q=Robert+Leegte&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBtmuEdhfywyzhendkLDnhcoz2MIB1dVLatL09WpR-ccvNDsAwaILDgy-RGx_sbniIxhiWbdmf59-bASJQZEZCjCGEMlytxQx138IVjs9JXJxGa2hXer65kijPuqi_Y4WO94gtuW1SiG_HkHQVeJv3Sg5eGLuwOptgQwXOW7ymyS90hEFmA&sa=X&ved=2ahUKEwjf86LI2aKMAxU-aPUHHd_GPB8QtKgLegQIGBAB&biw=1352&bih=722&dpr=2",
+    "image": "5e6949fa20c600575223a3cf743e7254.jpg"
+  },
+  {
+    "artist": "tony feher",
+    "category": "install, cute, hanging ",
+    "url": "https://www.google.com/search?sca_esv=0f75ce2b0e7a8d3f&q=tony+feher&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBjLjqIC1CYKD9D-DQAQS3Z598VAVBnbpHrmLO7c8q4i29MHIoj62rC0KLNSn9Sz5z3esFN5drB9QO4K_J7PbHKiOJnkbQL94KPMWWfP42kcXLmA05Kz_kWSlBbJw3EyH2rvflvwG7CF_3RriU7tNogaTVRNHY8WquDbJw9ZbEZR3LqeFVg&sa=X&ved=2ahUKEwj645vHy6eMAxXck68BHYySEwcQtKgLegQIKhAB&biw=1920&bih=958&dpr=2",
+    "image": "7eebf698a438d1a310bd22f53df890c9.jpg"
+  },
+  {
+    "artist": "Felix gonzalez, phtostats",
+    "category": "photo, black, print",
+    "url": "https://www.felixgonzalez-torresfoundation.org/works/c/photostats",
+    "image": "https___www_felixgonzalez_torresfoundation_org_works_c_photostats.jpg"
+  },
+  {
+    "artist": "Optical Race, 옵티컬레이스",
+    "category": "visual creative group,  cities, families, and generations. Graph, data",
+    "url": "http://hongxkim.com/ko/medium-ko/optical-race-ko/",
+    "image": "http___hongxkim_com_ko_medium_ko_optical_race_ko_.jpg"
+  },
+  {
+    "artist": "Cory Arcangel",
+    "category": "abstract color gradient",
+    "url": "https://www.google.com/search?sca_esv=d8b03bc1a9f4816e&rlz=1C5CHFA_enKR1016KR1017&sxsrf=AE3TifMu93_Ybd_xhNEeOR5mqGB8AXq76g:1764253761365&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeiAkWG4OlBE2zyCTMjPbGmMU8EWskMk2JSE__efdUJ3x-dd8PyEzi5Y9BtPQcYyUv9rCcj4Qs7ViyZH5a2QNC9Or7mcSvggT0b7C563px0HLmw322GB_A5-h0sFML0e2HUottmf6r17zR8OqU-3fYPKy5BL_agOTvZ_12u2-M1pomxxGXA&q=Cory+Arcangel&sa=X&ved=2ahUKEwiOrPW1xZKRAxXgklYBHYbjFTMQtKgLegQIHRAB&biw=1352&bih=762&dpr=2",
+    "image": "ba0706e3e649be0cbc7dc5902867454f.jpg"
+  },
+  {
+    "artist": "Yuri Pattison",
+    "category": "Screen display, ",
+    "url": "https://yuripattison.com/",
+    "image": "https___yuripattison_com_.jpg"
+  },
+  {
+    "artist": "Telepresence Robot Art",
+    "category": "Uncategorised",
+    "url": "https://www.google.com/search?sca_esv=d0f0a50eee896748&rlz=1C5CHFA_enKR1016KR1017&sxsrf=AE3TifPMwEBu3TNWoi6YrIqWlkdWmXeH6Q:1751445874757&q=Telepresence+Robot+Art&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeioyp3OhN11EY0n5qfq-zEMZldv_eRjZ2XLYc5GnVnME7glWodDcaQwvGYJtospyF4hao4VocMoniUVvlzzwRcCLYvfsjPeiuln4CZ9mxRNzMJl71rp-WEM_b89yTboF0wE9FSbwRYrSVuB6YHexvLk_d7r_74zDurdYUrhSbdL5TbQGiA&sa=X&ved=2ahUKEwightWp5J2OAxVWh68BHT8TOhMQtKgLKAF6BAgPEAE&biw=1352&bih=722&dpr=2",
+    "image": "130941a53866a1d568a8728c8825cc2f.jpg"
+  },
+  {
+    "artist": "Tim White-Sobieski",
+    "category": "Moving Image Sculptures, screen wheel",
+    "url": "https://www.google.com/search?q=Tim+White-Sobieski+Work%3A+Moving+Image+Sculptures%2C+screen+wheel&sca_esv=d0f0a50eee896748&rlz=1C5CHFA_enKR1016KR1017&udm=2&biw=1352&bih=722&sxsrf=AE3TifMPtTQRIGuPgXixwY9aqMsmw_NcrQ%3A1751445892234&ei=hPFkaJ2GDrOSvr0Pvfv8uAo&ved=0ahUKEwid2P-x5J2OAxUzia8BHb09H6cQ4dUDCBE&uact=5&oq=Tim+White-Sobieski+Work%3A+Moving+Image+Sculptures%2C+screen+wheel&gs_lp=EgNpbWciPlRpbSBXaGl0ZS1Tb2JpZXNraSBXb3JrOiBNb3ZpbmcgSW1hZ2UgU2N1bHB0dXJlcywgc2NyZWVuIHdoZWVsSKYdUI8EWM4bcAR4AJABAJgBeqAB-g6qAQQwLjE3uAEDyAEA-AEBmAIAoAIAmAMAiAYBkgcAoAf9BbIHALgHAMIHAMgHAA&sclient=img",
+    "image": "8fb4ef7ce1730c2a42c9ba107ca20dd6.jpg"
+  },
+  {
+    "artist": "Blast Theory",
+    "category": "Uncategorised",
+    "url": "https://www.google.com/search?sca_esv=d0f0a50eee896748&rlz=1C5CHFA_enKR1016KR1017&sxsrf=AE3TifNaEBJ5WyGHDfl6cE5t7QaHizfuLw:1751445850777&q=Blast+Theory,+Rider+Spoke,+Can+You+See+Me+Now%3F&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeoJTKjrFjVxydQWqI2NcOhZVmrJB8DQUK5IzxA2fZbQF4YL5sNSRJGgx0e9Z9AxEx1bmPbSY3ROQyoKhw9UuuwMa6u73fOSUeNMl3nUidiZz3DJy8KNJWD9BZrIuakC_MRt-cFAP1k-1yt3R_z09VMek2Kc5P8EUopVSvjoKzLgTUXUWJQ&sa=X&ved=2ahUKEwi_qp2e5J2OAxWTcvUHHYldIeAQ0pQJKAB6BAgVEAE&biw=1352&bih=722&dpr=2",
+    "image": "521a1e7001ec98e00736a9036c1b0a4c.jpg"
+  },
+  {
+    "artist": "Hans Haacke – News",
+    "category": "data news",
+    "url": "https://www.google.com/search?sca_esv=2b39e52bb6588597&rlz=1C5CHFA_enKR1016KR1017&sxsrf=AE3TifNCHRrMECFkR7MRNWH9-EceUa-Uag:1751693255571&q=Hans+Haacke+%E2%80%93+News&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeqDdErwP5rACeJAty2zADJjYuUnSkczEhozYdaq1wZrEWeBTRRMkGx8PE2F9zI9kP0W9slwfD0e_E2SCYpxxEsASI-LxkVBvfu-XibWr_YDicyb17E6vKrWBOlLdgfdjFpLOhNCkwKiTYaFviHAaGJoUkT5_nrzWq6VkkQdeHpPTQCkROQ&sa=X&ved=2ahUKEwj0z4Py_aSOAxVOr1YBHXLxLFQQtKgLKAF6BAgSEAE&biw=1352&bih=722&dpr=2",
+    "image": "6c5be625cc8feba88831c7aff4d086db.jpg"
+  },
+  {
+    "artist": "Evan Roth – Since You Were Born",
+    "category": "Uncategorised",
+    "url": "https://www.google.com/search?sca_esv=2b39e52bb6588597&rlz=1C5CHFA_enKR1016KR1017&sxsrf=AE3TifNKWY2sMNuwFfPYYQRlYizBKdcpuw:1751693277613&q=Evan+Roth+%E2%80%93+Since+You+Were+Born&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeoJTKjrFjVxydQWqI2NcOhYPURIv2wPgv_w_sE_0Sc6QogS5TvEDp7UpbJYBVowPixqwW1m3RxusXeC54mlaBumYN3u5pfCqB-oD9qPx3--36jwPvwXF481XLcW0wm9wTFZg8MxVNkucSTVoDxu97yIqWjecv87wfZ07E_JMn8zO1mG5vQ&sa=X&ved=2ahUKEwjK_sT8_aSOAxU4s1YBHYbkMNUQtKgLKAF6BAgZEAE&biw=1352&bih=722&dpr=2#vhid=Qu9_JuiggOlUgM&vssid=mosaic",
+    "image": "ad81d69f61da212953698ef23dbedf29.jpg"
+  },
+  {
+    "artist": "All Watched Over by Machines of Loving Grace",
+    "category": "Uncategorised",
+    "url": "https://www.filmsforaction.org/watch/bbc-all-watched-over-by-machines-of-loving-grace/",
+    "image": "https___www_filmsforaction_org_watch_bbc_all_watched_over_by_machines_of_loving_grace_.jpg"
+  },
+  {
+    "artist": "Ken Okiishi",
+    "category": "Uncategorised",
+    "url": "https://www.google.com/search?sca_esv=78f075c4f91bed6c&sxsrf=AE3TifONgnRSpiwhWOQ27JAm4ixTXSlfXw:1751807416207&q=%EC%BC%84+%EC%98%A4%ED%82%A4%EC%8B%9C%EB%A1%9C+(Ken+Okiishi)+%E2%80%93+Gesture/Data&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeoJTKjrFjVxydQWqI2NcOhZVmrJB8DQUK5IzxA2fZbQFrCfZ7DsBw9Vv9Qkv56j2AIKCyJ21VHYsv-0dwmE3xOIXbd8hQk-ETjo0d0mFKxEPPZxqJ43ItbdqnilTxzmqal91DWOK1tBQb7Z_v10rB-5VQDZh3R4w7mGaVJv5D2rAExabQg&sa=X&ved=2ahUKEwjQ9YeWp6iOAxWLs1YBHY1IKP8QtKgLKAF6BAgUEAE&biw=1920&bih=958&dpr=2#vhid=M15cNM4hvuUerM&vssid=mosaic",
+    "image": "15d9494b22fb0d33f27e2a262bf36793.jpg"
+  },
+  {
+    "artist": "박제성",
+    "category": "media, ball, gong",
+    "url": "https://www.youtube.com/watch?v=rhA0WzBuuwI",
+    "image": "https___www_youtube_com_watch_v_rhA0WzBuuwI.jpg"
+  },
+  {
+    "artist": "Thomson & Craighead – BEACON",
+    "category": "Uncategorised",
+    "url": "https://www.google.com/search?sca_esv=e03ed720f0fdf65a&rlz=1C5CHFA_enKR1016KR1017&sxsrf=AE3TifNe062Cdcty_1N8awgo_U3DG8F2WQ:1760527448927&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeioyp3OhN11EY0n5qfq-zENyQuF3_WaPI4Qgb6AZzy-egvBz1rDQLRmZgtdjBnW7yWMVx6YxXIo4Lps75YIWpwK0o7IQXp1IgviZbVEp5bLwVhncLfZ3T_Ujc1dB6uabLDplNg8P4vZYRFd1Z-L9qVdpiltgdJcUA0TJuIRYtPlRCabUyA&q=Thomson+%26+Craighead+%E2%80%93+BEACON&sa=X&ved=2ahUKEwiluNfpi6aQAxWsr1YBHfbIKAAQtKgLegQIGhAB&biw=1352&bih=722&dpr=2",
+    "image": "8a4d452b765c1c43e7fa37858ff89780.jpg"
+  },
+  {
+    "artist": "North korea",
+    "category": "Uncategorised",
+    "url": "https://www.google.com/search?q=wes+anderson+north+korea+interior&sca_esv=f5ebe8c14457f75d&rlz=1C5CHFA_enKR1016KR1017&udm=2&biw=1352&bih=722&sxsrf=AE3TifM-I2OB1ZL6Npdjp7PgYYv9w4BIUg%3A1760248954226&ei=ekTraJzIDdPm1e8PmPfygA0&ved=0ahUKEwic7Yet_p2QAxVTc_UHHZi7HNAQ4dUDCBE&uact=5&oq=wes+anderson+north+korea+interior&gs_lp=Egtnd3Mtd2l6LWltZyIhd2VzIGFuZGVyc29uIG5vcnRoIGtvcmVhIGludGVyaW9ySPKeAVAAWNidAXAFeACQAQCYAYgBoAGwI6oBBDAuMze4AQPIAQD4AQGYAh-gAtEbqAIAwgILEAAYgAQYsQMYgwHCAgQQABgDwgIIEAAYgAQYsQPCAgUQABiABMICChAAGIAEGEMYigXCAgcQABiABBgKwgIEEAAYHsICBhAAGAoYHsICBhAAGAUYHsICBhAAGAgYHpgDApIHBDMuMjigB6F2sgcEMC4yOLgHxRvCBwcwLjE0LjE3yAdc&sclient=gws-wiz-img#vhid=NE3HYMxkUrVs_M&vssid=mosaic",
+    "image": "30aca970f80cb018e997550bd94fe70b.jpg"
+  },
+  {
+    "artist": "Francois Knoetze",
+    "category": "media, dispose, material, archive",
+    "url": "https://www.google.com/search?q=francois+knoetze+core+dump&sca_esv=3a8be7ffcaaa7a05&rlz=1C5CHFA_enKR1016KR1017&udm=2&biw=1352&bih=722&sxsrf=AE3TifOHun21w-ryFAZsz2eJ2QtE00pVhw%3A1762237405988&ei=3ZsJaYT5O5Kkvr0PjNPv4Ag&oq=fracore+dump&gs_lp=Egtnd3Mtd2l6LWltZyIMZnJhY29yZSBkdW1wKgIIADIGEAAYBxgeMggQABgHGAgYHkjrE1DsBFjDB3ABeACQAQCYAX2gAeUCqgEDMC4zuAEByAEA-AEBmAIEoALyAsICBRAAGIAEmAMAiAYBkgcDMS4zoAfYDbIHAzAuM7gH8ALCBwMwLjTIBwg&sclient=gws-wiz-img",
+    "image": "afac2c67bbbcbb874262b2c8a6ab73fa.jpg"
+  },
+  {
+    "artist": "박예나",
+    "category": "media, material",
+    "url": "https://www.google.com/search?q=%EB%B0%95%EC%98%88%EB%82%98+%EC%9E%91%EA%B0%80&sca_esv=3a8be7ffcaaa7a05&rlz=1C5CHFA_enKR1016KR1017&udm=2&biw=1352&bih=722&sxsrf=AE3TifMwUU5snHDAbOw06i1eyFD_pi7WxQ%3A1762237666102&ei=4pwJaZP9BdePvr0P0YKCiAs&ved=0ahUKEwiT9uPw7teQAxXXh68BHVGBALEQ4dUDCBI&uact=5&oq=%EB%B0%95%EC%98%88%EB%82%98+%EC%9E%91%EA%B0%80&gs_lp=Egtnd3Mtd2l6LWltZyIQ67CV7JiI64KYIOyekeqwgDIFEAAYgARIgBpQgQFYvRhwCXgAkAEAmAGAAaAB-wqqAQQwLjEyuAEDyAEA-AEBmAIQoALbB8ICBhAAGAcYHsICBBAAGB6YAwCIBgGSBwM4LjigB9EMsgcDMC44uAfGB8IHBjMuMTEuMsgHGw&sclient=gws-wiz-img#vhid=iTfr_n9rxAjYqM&vssid=mosaic",
+    "image": "87ee7641bdeb49c3a08604dad61d51f0.jpg"
+  },
+  {
+    "artist": "okamemochi",
+    "category": "install",
+    "url": "https://okamemochi.com/home?utm_source=ig&utm_medium=social&utm_content=link_in_bio&brid=_kkD4cBzZE3nYN_omfsaxw",
+    "image": "https___okamemochi_com_home_utm_source_ig_utm_medium_social_utm_content_link_in_bio_brid__kkD4cBzZE3nYN_omfsaxw.jpg"
+  },
+  {
+    "artist": "Diana Thater",
+    "category": "projector, screen",
+    "url": "https://www.google.com/search?sca_esv=a1deca193e54c011&rlz=1C5CHFA_enKR1016KR1017&sxsrf=AE3TifPh96hffx1n0lK9Sc-liE2KyAgrkw:1764338287948&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeiAkWG4OlBE2zyCTMjPbGmMU8EWskMk2JSE__efdUJ3x-dd8PyEzi5Y9BtPQcYyUv9rCcj4Qs7ViyZH5a2QNC9Or7mcSvggT0b7C563px0HLmw322GB_A5-h0sFML0e2HUottmf6r17zR8OqU-3fYPKy5BL_agOTvZ_12u2-M1pomxxGXA&q=Diana+Thater&sa=X&ved=2ahUKEwiAxqqngJWRAxX1s1YBHYDCOhsQtKgLegQIFhAB&biw=1352&bih=762&dpr=2",
+    "image": "0e047af3c8bdc5c1395d8313c3b6354d.jpg"
+  },
+  {
+    "artist": "Janet Cardiff & George Bures Miller — The Killing Machine",
+    "category": "Uncategorised",
+    "url": "https://www.hausderkunst.de/en/eintauchen/janet-cardiff-george-bures-miller-werke-aus-der-sammlung-goetz",
+    "image": "https___www_hausderkunst_de_en_eintauchen_janet_cardiff_george_bures_miller_werke_aus_der_sammlung_goetz.jpg"
+  },
+  {
+    "artist": "Pipilotti Rist",
+    "category": "project installation",
+    "url": "https://www.google.com/search?sca_esv=56cc1d46b226e482&rlz=1C5CHFA_enKR1016KR1017&sxsrf=AE3TifME7Y6-r3H68UNOR1ikuqk-SDpJFw:1764339564129&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeoJTKjrFjVxydQWqI2NcOhZVmrJB8DQUK5IzxA2fZbQFrCfZ7DsBw9Vv9Qkv56j2ABF6GkElgaAKyV1xfCXdD_aTelfuDmCZXl6ZvDLLzNx66XvcdcCgE0_NM_wWL0LDDV-BwSVWkDAxoOBybVeenJjoLdHvFq9YD45rErRQ566GZp0OGw&q=Pipilotti+Rist&sa=X&ved=2ahUKEwi7r-6HhZWRAxX5sFYBHR59B0wQtKgLegQIIxAB&biw=1352&bih=762&dpr=2",
+    "image": "1bc7cbbf5330f362c05ec78db87cd6a4.jpg"
+  },
+  {
+    "artist": "Samson Young",
+    "category": "installation",
+    "url": "https://www.google.com/search?q=Samson%20Young&udm=2&tbs=rimg:CW6oDLxQ68r3YeFHFmuyht_1UsgIAwAIA2AIA4AIA&rlz=1C5CHFA_enKR1016KR1017&hl=en&sa=X&ved=0CBoQuIIBahcKEwiA-s2V-5iRAxUAAAAAHQAAAAAQGw&biw=1352&bih=762&dpr=2#imgrc=m-1QIVRQITe_qM&imgdii=-Ra23hK6MthuqM",
+    "image": "3532732ffb505fbc337c6e6949efa4ef.jpg"
+  },
+  {
+    "artist": "ryan gander",
+    "category": "installation",
+    "url": "https://www.estherschipper.com/artists/30-ryan-gander/",
+    "image": "https___www_estherschipper_com_artists_30_ryan_gander_.jpg"
+  },
+  {
+    "artist": "Nikita Gale",
+    "category": "light, installation",
+    "url": "https://www.google.com/search?sca_esv=77100b2799732c71&rlz=1C5CHFA_enKR1016KR1017&sxsrf=AE3TifNybodjF1KddRBZGupNiReRtrZTXw:1764475034795&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeiAkWG4OlBE2zyCTMjPbGmMU8EWskMk2JSE__efdUJ3x-dd8PyEzi5Y9BtPQcYyUv9rCcj4Qs7ViyZH5a2QNC9Or7mcSvggT0b7C563px0HLmw322GB_A5-h0sFML0e2HUottmf6r17zR8OqU-3fYPKy5BL_agOTvZ_12u2-M1pomxxGXA&q=Nikita+Gale&sa=X&ved=2ahUKEwj52Kfd_ZiRAxXJbPUHHbfoDaMQtKgLegQIERAB&biw=1352&bih=762&dpr=2#vhid=l9bVeuvvETS5dM&vssid=mosaic",
+    "image": "eff320a6be6b2cbba60da2316aecc87b.jpg"
+  },
+  {
+    "artist": "Tomás Saraceno",
+    "category": "hanging",
+    "url": "https://studiotomassaraceno.org/",
+    "image": "https___studiotomassaraceno_org_.jpg"
+  },
+  {
+    "artist": "Tomás Saraceno",
+    "category": "air",
+    "url": "https://studiotomassaraceno.org/lives-on-air-2/",
+    "image": "https___studiotomassaraceno_org_lives_on_air_2_.jpg"
+  },
+  {
+    "artist": "Tomás Saraceno",
+    "category": "cloud, weather, ",
+    "url": "https://studiotomassaraceno.org/cumulus/",
+    "image": "https___studiotomassaraceno_org_cumulus_.jpg"
+  },
+  {
+    "artist": "Tomás Saraceno",
+    "category": "data, color chart, ",
+    "url": "https://studiotomassaraceno.org/recording-aerosolar/",
+    "image": "https___studiotomassaraceno_org_recording_aerosolar_.jpg"
+  },
+  {
+    "artist": "dan flavin",
+    "category": "light, installation",
+    "url": "https://www.google.com/search?sca_esv=25fc33dff17615f3&sxsrf=AE3TifPaZLKcV8EkYv3VtSvGEYk3Vfczcg:1765626631545&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeioyp3OhN11EY0n5qfq-zEMZldv_eRjZ2XLYc5GnVnMEIxC4WQfoNDH7FwchyAayylELsgfAj8BII40QoR58PCpxWIasrVGerVEeRb1e5GB2o0bD2F3ur0-pQLbnAHgJKkL84IagU3qaqwe9mJYbF0aen8DV8DtVzUakssKUsKrc5PC5dw&q=dan+flavin&sa=X&ved=2ahUKEwiVn7fhv7qRAxUsafUHHR3HI-EQtKgLegQIGxAB&biw=1920&bih=1080&dpr=2",
+    "image": "e1aed379168b8c184ae3745f3e49884c.jpg"
+  },
+  {
+    "artist": "장영혜",
+    "category": "text, samsung net",
+    "url": "https://www.yhchang.com/",
+    "image": "https___www_yhchang_com_.jpg"
+  },
+  {
+    "artist": "이미래",
+    "category": "Uncategorised",
+    "url": "https://www.arko.or.kr/artcenter/board/view/512?bid=&page=4&cid=531615",
+    "image": "https___www_arko_or_kr_artcenter_board_view_512_bid__page_4_cid_531615.jpg"
+  },
+  {
+    "artist": "are.na",
+    "category": "are.na / the non place",
+    "url": "https://www.are.na/fernando-monroy/the-non-place",
+    "image": "https___www_are_na_fernando_monroy_the_non_place.jpg"
+  },
+  {
+    "artist": "are.na",
+    "category": "are.na / seperate / installation",
+    "url": "https://www.are.na/max-johnson-efcxjp-a4cq/seperated_singles",
+    "image": "https___www_are_na_max_johnson_efcxjp_a4cq_seperated_singles.jpg"
+  },
+  {
+    "artist": "are.na",
+    "category": "are.na / stretched, inflated",
+    "url": "https://www.are.na/toon-rooijmans/draped-stretched-inflated-bloated",
+    "image": "https___www_are_na_toon_rooijmans_draped_stretched_inflated_bloated.jpg"
+  },
+  {
+    "artist": "are.na",
+    "category": "are.na / visual narrative",
+    "url": "https://www.are.na/amanda-gayle/visual-narrative",
+    "image": "https___www_are_na_amanda_gayle_visual_narrative.jpg"
+  },
+  {
+    "artist": "are.na",
+    "category": "are.na / screen",
+    "url": "https://www.are.na/andre-brown/screen-y_d0hwfqcxm",
+    "image": "https___www_are_na_andre_brown_screen_y_d0hwfqcxm.jpg"
+  },
+  {
+    "artist": "Untitled",
+    "category": "Uncategorised",
+    "url": "https://www.are.na/matija-gabrilo/installations-exhibits_",
+    "image": "https___www_are_na_matija_gabrilo_installations_exhibits_.jpg"
+  },
+  {
+    "artist": "Olia Lialina",
+    "category": "web video, net art",
+    "url": "https://www.google.com/search?sca_esv=f103f4fef9650c77&rlz=1C5CHFA_enKR1016KR1017&sxsrf=ANbL-n7ThQbUEhoq7FpZFEF_S2q0lWi76g:1768199352977&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3o6iwGk6Iv1tRbZIBNIVs-5-bUj3iBl-UxHsANYwOkWWQqZAJJdwuRaSoLHfELMHATKK1pbO_OOOJtiQ_Hxe6g6q4p7U3zzaxAaoF0ALYcn9XREC2n2Qr8tseohdeRLgp9NzjuGQXNwpFS2ILDxM2Zj2uS_3Jb7RZ8IxzScrABHQbhiQ2A&q=Olia+Lialina&sa=X&ved=2ahUKEwiO683yr4WSAxXcplYBHfyqHvIQtKgLegQIFBAB&biw=1352&bih=844&dpr=2&aic=0#sv=CAMSXhoyKhBlLWpLdEJZRW94MTJkUm5NMg5qS3RCWUVveDEyZFJuTToOVGJseHBQZThXTVdTWk0gBCokCg5nY1R3eU80RmVKdm1rTRIQZS1qS3RCWUVveDEyZFJuTRgAMAEYByCH1eXoBjACSgoIAhACGAIgAigC",
+    "image": "b938bd273e21490b5bf5dfe92cdf1bc6.jpg"
+  },
+  {
+    "artist": "Computer Simulation Oral History Archive 2003-2018",
+    "category": "computer simulation, oral, archive, history",
+    "url": "https://www.lib.ncsu.edu/findingaids/mc00488/summary",
+    "image": "https___www_lib_ncsu_edu_findingaids_mc00488_summary.jpg"
+  },
+  {
+    "artist": "Walid Raad:",
+    "category": "archive",
+    "url": "https://www.google.com/search?sca_esv=8770e74ec2be9912&rlz=1C5CHFA_enKR1016KR1017&sxsrf=ANbL-n7pxFLIbst99V1INQP4-RtmHIYqvA:1768355567907&q=walid+raad+atlas+group&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-bFm2ZlpafR9BavZ5HqITaOgK_SxNzrebxM4rneUQOHGVlF0YLNISADAmRr07He0hLTMzNFR2oHHqWPGYemAjeut8KvDUBq65nNHuYWVrgyBKZK8Nm7MDY_OT6k2YjdtubeUzVw&udm=2&sa=X&ved=2ahUKEwihyNjr9YmSAxXx4jQHHf3ID6wQxKsJKAR6BAgSEAE&ictx=0&biw=1352&bih=844&dpr=2&aic=0#sv=CAMSVhoyKhBlLUljNWhnc2JCNmdwdGhNMg5JYzVoZ3NiQjZncHRoTToOMURFR3dQV3JKZEVEaU0gBCocCgZtb3NhaWMSEGUtSWM1aGdzYkI2Z3B0aE0YADABGAcgobigoQowAkoKCAIQAhgCIAIoAg",
+    "image": "8c439ec1c4591aff03bd8dc16e88b816.jpg"
+  },
+  {
+    "artist": "Otto Piene",
+    "category": "star, circle",
+    "url": "https://www.google.com/search?sca_esv=492d03d456b59a14&rlz=1C5CHFA_enKR1016KR1017&sxsrf=ANbL-n7us-v3_3iQZYZYAQKkoKg1Guu2og:1768494746203&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3o6iwGk6Iv1tRbZIBNIVs-5-bUj3iBl-UxHsANYwOkWWQqZAJJdwuRaSoLHfELMHATKK1pbO_OOOJtiQ_Hxe6g6q4p7U3zzaxAaoF0ALYcn9XREC2n2Qr8tseohdeRLgp9NzjuGQXNwpFS2ILDxM2Zj2uS_3Jb7RZ8IxzScrABHQbhiQ2A&q=Otto+Piene&sa=X&ved=2ahUKEwiGyYmp_I2SAxUhr1YBHZ31EMIQtKgLegQIGhAB&biw=1352&bih=844&dpr=2&aic=0",
+    "image": "0b968d5662a20d2ddc5e619122ad14d0.jpg"
+  },
+  {
+    "artist": "Vija Celmins",
+    "category": "Uncategorised",
+    "url": "https://www.google.com/search?q=Vija+Celmins&rlz=1C5CHFA_enKR1016KR1017&oq=Vija+Celmins&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEwOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8",
+    "image": "https___www_google_com_search_q_Vija_Celmins_rlz_1C5CHFA_enKR1016KR1017_oq_Vija_Celmins_gs_lcrp_EgZjaHJvbWUyBggAEEUYOdIBBzEwOWowajeoAgCwAgA_sourceid_chrome_ie_UTF_8.jpg"
+  },
+  {
+    "artist": "Danh Vo",
+    "category": "sculpture",
+    "url": "https://www.google.com/search?tbnid=GTNVOk3VGE0YkM&tbnh=0&tbnw=0&cs=0&rlz=1C5CHFA_enKR1016KR1017&sca_esv=540cd09fb70162eb&sxsrf=ANbL-n7OU_ibDiqgFEoUvUpA0FDiBGP5Dw:1768978091904&udm=2&tbs=rimg:CRkzVTpN1RhNYRq5hOIxm7tw4AIA&q=Danh+Vo&sa=X&ved=2ahUKEwji95_2hJySAxUebfUHHVFAMXwQuIIBegQIUxAA&biw=1352&bih=844&dpr=2&aic=0#sv=CAMSXhoyKhBlLUp3RGsxU1FZTGo3SThNMg5Kd0RrMVNRWUxqN0k4TToOS2xhaUZ0aFZDeUphTk0gBCokCg5tTF9RcTZabHh5TW9VTRIQZS1Kd0RrMVNRWUxqN0k4TRgAMAEYByDwmbPMATACSgoIAhACGAIgAigC",
+    "image": "7d8a9fd39dbda4c6e63b7a57603bf6e2.jpg"
+  },
+  {
+    "artist": "monika sosnowska",
+    "category": "Uncategorised",
+    "url": "https://www.designboom.com/art/monika-sosnowska-at-schaulager-basel/",
+    "image": "https___www_designboom_com_art_monika_sosnowska_at_schaulager_basel_.jpg"
+  },
+  {
+    "artist": "Lucia",
+    "category": "Uncategorised",
+    "url": "https://www.neo2.com/lucia-c-pino-despliega-atmosferas-enrarecidas-en-ca2m/",
+    "image": "https___www_neo2_com_lucia_c_pino_despliega_atmosferas_enrarecidas_en_ca2m_.jpg"
+  },
+  {
+    "artist": "Untitled",
+    "category": "Uncategorised",
+    "url": "https://meyer-riegger.com/en/exhibitions",
+    "image": "https___meyer_riegger_com_en_exhibitions.jpg"
+  },
+  {
+    "artist": "Untitled",
+    "category": "Uncategorised",
+    "url": "https://yyyymmdd.de/",
+    "image": "https___yyyymmdd_de_.jpg"
+  },
+  {
+    "artist": "olga",
+    "category": "Uncategorised",
+    "url": "https://greenenaftaligallery.com/exhibitions/aria-dean-helen-marten-kelley-walker-olga-balema-raque-ford",
+    "image": "https___greenenaftaligallery_com_exhibitions_aria_dean_helen_marten_kelley_walker_olga_balema_raque_ford.jpg"
+  },
+  {
+    "artist": "오로와 민경",
+    "category": "sound, perform",
+    "url": "https://orominkyung.com/Angry-Persons-Scattered-Fragments-2021",
+    "image": "https___orominkyung_com_Angry_Persons_Scattered_Fragments_2021.jpg"
+  },
+  {
+    "artist": "monika sosnowska",
+    "category": "Uncategorised",
+    "url": "https://fresques.ina.fr/elles-centrepompidou/fiche-media/ArtFem00069/monika-sosnowska-rubble-2006-2008.html",
+    "image": "https___fresques_ina_fr_elles_centrepompidou_fiche_media_ArtFem00069_monika_sosnowska_rubble_2006_2008_html.jpg"
+  },
+  {
+    "artist": "Rirkrit Tiravanija",
+    "category": "relative, food",
+    "url": "https://bombmagazine.org/articles/2019/07/09/be-useful-rirkrit-tiravanija-interviewed/",
+    "image": "https___bombmagazine_org_articles_2019_07_09_be_useful_rirkrit_tiravanija_interviewed_.jpg"
+  },
+  {
+    "artist": "rafael ",
+    "category": "Uncategorised",
+    "url": "https://maxestrella.com/exhibition/polymers/",
+    "image": "https___maxestrella_com_exhibition_polymers_.jpg"
+  },
+  {
+    "artist": "Doris Salcedo",
+    "category": "object, diaspora, installation",
+    "url": "https://www.icaboston.org/art/doris-salcedo/untitled-0-7/",
+    "image": "https___www_icaboston_org_art_doris_salcedo_untitled_0_7_.jpg"
+  },
+  {
+    "artist": "차학경",
+    "category": "writer, diaspora",
+    "url": "https://awarewomenartists.com/en/artiste/theresa-hak-kyung-cha/",
+    "image": "https___awarewomenartists_com_en_artiste_theresa_hak_kyung_cha_.jpg"
+  },
+  {
+    "artist": "mona hatoum",
+    "category": "Uncategorised",
+    "url": "https://www.moma.org/artists/7447-mona-hatoum",
+    "image": "https___www_moma_org_artists_7447_mona_hatoum.jpg"
+  },
+  {
+    "artist": "monika sosnowska",
+    "category": "Sculpture",
+    "url": "https://www.google.com/search?q=monika+sosnowska&rlz=1C5CHFA_enKR1016KR1017&oq=mo&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDsyBggCEEUYOTIGCAMQRRg8MgYIBBBFGDwyBggFEEUYPDIGCAYQRRg8MgYIBxBFGD3SAQgxOTQyajBqN6gCCLACAQ&sourceid=chrome&source=chrome.ob&ie=UTF-8",
+    "image": "17917d6b02dc942832c2fc5db8b1637d.jpg"
+  },
+  {
+    "artist": "Vija Celmins",
+    "category": "star",
+    "url": "https://www.google.com/search?q=Vija+Celmins&rlz=1C5CHFA_enKR1016KR1017&oq=Vija+Celmins&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEwOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8",
+    "image": "https___www_google_com_search_q_Vija_Celmins_rlz_1C5CHFA_enKR1016KR1017_oq_Vija_Celmins_gs_lcrp_EgZjaHJvbWUyBggAEEUYOdIBBzEwOWowajeoAgCwAgA_sourceid_chrome_ie_UTF_8.jpg"
+  },
+  {
+    "artist": "Urs Fischer",
+    "category": "install, water drop",
+    "url": "https://www.google.com/search?sca_esv=28a45a8f6728ec42&rlz=1C5CHFA_enKR1016KR1017&q=Urs+Fischer&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBnsX62dbVmWR6QCQ5QEtPRqut5gkyra9fZFbsKm1oGezZfNjBY6JC6SkJAVAOI0b5OFsBGc76aDMxtuacnLS7X32-5RBJi3DslBBuGrMim5dcyCpAyZTg_k-q35rsDodRcqN2TK5Sr6hG-8s-j-XIJlt7hyRrkkX4JvUEf1PhS4UabKMjw&sa=X&ved=2ahUKEwjxva3Y8MiMAxVB4DQHHVLrOcoQtKgLegQIExAB&biw=1352&bih=722&dpr=2#ip=1&sv=CAMSURoyKhBlLUxZMGRBelZCMDJMWHJNMg5MWTBkQXpWQjAyTFhyTToOQnVZTThOSXRrZ0JMT00gBCoXCgFzEhBlLUxZMGRBelZCMDJMWHJNGAEwARgHIOmmm_cDSggQARgBIAEoAQ",
+    "image": "61301a114f091d4bd65a8da708bffaab.jpg"
+  },
+  {
+    "artist": "Franco Vaccari",
+    "category": "photo",
+    "url": "https://ilfotografo.it/news/franco-vaccari-anonimo-dautore/",
+    "image": "https___ilfotografo_it_news_franco_vaccari_anonimo_dautore_.jpg"
+  },
+  {
+    "artist": "Meyer Riegger | Exhibitions",
+    "category": "web, archive",
+    "url": "https://meyer-riegger.com/en/exhibitions",
+    "image": "https___meyer_riegger_com_en_exhibitions.jpg"
+  },
+  {
+    "artist": "Robert Leegte",
+    "category": "screen, image, abstract, painting",
+    "url": "https://www.google.com/search?sca_esv=6f93171fcacd3140&rlz=1C5CHFA_enKR1016KR1017&sxsrf=APpeQnvLwZmVXKLlP81SLi_dLhYUFGbDDA:1785337370682&udm=2&fbs=ABfTbFUgt-aXEFkBhPo84x72c1XoLHFs6TcISYM3FayWAWWA70DBExgkDFCpIGAUraPZqPpSs1EXRrKCiKydXz2VHg4BL0rDRmIxVf27UpgdHNcHqrOe3fTEsBhT7klfW0nLunAtX57cNNsm0v-IbwRjje4sEFj-YnSsNpzi0Aq169xwCu-kESztdeWXEOmUPsUfRpp7GSthUV19UyXVyS56-_tOd0FqpavG2LLCv0Mpv2VjwQqghgo&q=Robert+Leegte&sa=X&ved=2ahUKEwj2laL-k_iVAxX6lFYBHfL3BpIQtKgLegQIGRAB&biw=1352&bih=844&dpr=2#sv=CAMSURoyKhBlLTFMWHlLb1VKQU11aVhNMg4xTFh5S29VSkFNdWlYTToOUzBTenNsZG9JSHlPNE0gBCoXCgFzEhBlLTFMWHlLb1VKQU11aVhNGAEwARgHINLepNMGSggQARgBIAEoAQ",
+    "image": "c0e89b75a1d3da0408ef103e70c8104e.jpg"
+  },
+  {
+    "artist": "tony feher",
+    "category": "install, cute, hanging",
+    "url": "https://www.google.com/search?sca_esv=0f75ce2b0e7a8d3f&q=tony+feher&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBjLjqIC1CYKD9D-DQAQS3Z598VAVBnbpHrmLO7c8q4i29MHIoj62rC0KLNSn9Sz5z3esFN5drB9QO4K_J7PbHKiOJnkbQL94KPMWWfP42kcXLmA05Kz_kWSlBbJw3EyH2rvflvwG7CF_3RriU7tNogaTVRNHY8WquDbJw9ZbEZR3LqeFVg&sa=X&ved=2ahUKEwj645vHy6eMAxXck68BHYySEwcQtKgLegQIKhAB&biw=1920&bih=958&dpr=2",
+    "image": "7eebf698a438d1a310bd22f53df890c9.jpg"
+  },
+  {
+    "artist": "Works - Felix Gonzalez-Torres Foundation",
+    "category": "photo, black, print",
+    "url": "https://www.felixgonzalez-torresfoundation.org/works/c/photostats",
+    "image": "https___www_felixgonzalez_torresfoundation_org_works_c_photostats.jpg"
+  },
+  {
+    "artist": "Ian Cheng",
+    "category": "ai, generative",
+    "url": "https://www.google.com/search?sca_esv=6f93171fcacd3140&rlz=1C5CHFA_enKR1016KR1017&sxsrf=APpeQnup2zF34QJ_Fss_GUbo-YZ-aMRybQ:1785337520121&udm=2&fbs=ABfTbFUgt-aXEFkBhPo84x72c1XoLHFs6TcISYM3FayWAWWA7x3ZDrzG9CGSPZ4zI2S4lLjahG8WC85AFbgHa_h6Y7Pns5L0Je8-rxCe2EjJJS_CdtBhaAFfvb2qvGvpnJS2-Gc0C38RnCjgIQ5M2UW94VY6hluLtQnCQYPss9u18otk78XrnjGd4baukmlQSt4FkH-duDA2h2rP8MPkrpmva-xYBU1xBwUPZbD9R_XeDaLaLRl_f4k&q=Ian+Cheng&sa=X&ved=2ahUKEwivlcPFlPiVAxXge_UHHfAFK4UQtKgLegQIIRAB&biw=1352&bih=844&dpr=2#sv=CAMSURoyKhBlLXBVRzlWOVVVR25mV2RNMg5wVUc5VjlVVUduZldkTToOcG1pdlB6b1Z4eXIxYU0gBCoXCgFzEhBlLXBVRzlWOVVVR25mV2RNGAEwARgHIKuThLMPSggQARgBIAEoAQ",
+    "image": "53da9ecdfe904280be1aa48e3f8e5cc4.jpg"
+  },
+  {
+    "artist": "Cory Arcangel",
+    "category": "abstract color gradient",
+    "url": "https://www.google.com/search?sca_esv=d8b03bc1a9f4816e&rlz=1C5CHFA_enKR1016KR1017&sxsrf=AE3TifMu93_Ybd_xhNEeOR5mqGB8AXq76g:1764253761365&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeiAkWG4OlBE2zyCTMjPbGmMU8EWskMk2JSE__efdUJ3x-dd8PyEzi5Y9BtPQcYyUv9rCcj4Qs7ViyZH5a2QNC9Or7mcSvggT0b7C563px0HLmw322GB_A5-h0sFML0e2HUottmf6r17zR8OqU-3fYPKy5BL_agOTvZ_12u2-M1pomxxGXA&q=Cory+Arcangel&sa=X&ved=2ahUKEwiOrPW1xZKRAxXgklYBHYbjFTMQtKgLegQIHRAB&biw=1352&bih=762&dpr=2",
+    "image": "ba0706e3e649be0cbc7dc5902867454f.jpg"
+  },
+  {
+    "artist": "atelier van lieshout",
+    "category": "installation, grid, sculpture",
+    "url": "https://www.google.com/search?sca_esv=6f93171fcacd3140&rlz=1C5CHFA_enKR1016KR1017&sxsrf=APpeQnsQYveL8o6JCn01Yvs4YYLEBQ39RA:1785337583421&udm=2&fbs=ABfTbFUgt-aXEFkBhPo84x72c1XoLHFs6TcISYM3FayWAWWA70DBExgkDFCpIGAUraPZqPpSs1EXRrKCiKydXz2VHg4BjAdl0BGkTw7-ZvUNFFPGc_K6YGl9fqvmuDGfPU11n3E3hUGX8z0gxzocEjG_gT6W3P4L0ll1kas1MQlbVFJS9UkgFtCxkcVuPDaUfH2YB04XofNCp7STV8qu6A-Q8ZzweqcXQkdgUKbgK5IBih-LjSOYYFo&q=atelier+van+lieshout&sa=X&ved=2ahUKEwj539rjlPiVAxUadfUHHdw4IV4QtKgLegQIIBAB&biw=1352&bih=844&dpr=2#sv=CAMSURoyKhBlLS16b2VFYVhlbDJ2V25NMg4tem9lRWFYZWwydlduTToOaEFLZnpuNUVHMjlfNU0gBCoXCgFzEhBlLS16b2VFYVhlbDJ2V25NGAEwARgHIPfM1Z0DSggQARgBIAEoAQ",
+    "image": "e1d7e9d44ab9f72e61c82b180e9ca77b.jpg"
+  },
+  {
+    "artist": "atelier van lieshout - MAK Museum Vienna",
+    "category": "structure",
+    "url": "https://www.mak.at/en/program/exhibitions/atelier_van_lieshout#gallery-3",
+    "image": "https___www_mak_at_en_program_exhibitions_atelier_van_lieshout_gallery_3.jpg"
+  },
+  {
+    "artist": "Ryoji Ikeda",
+    "category": "light",
+    "url": "https://www.google.com/search?sca_esv=6f93171fcacd3140&rlz=1C5CHFA_enKR1016KR1017&sxsrf=APpeQnvby24HtVgAXlot175GzjPm4fDrng:1785337563050&udm=2&fbs=ABfTbFUgt-aXEFkBhPo84x72c1XoLHFs6TcISYM3FayWAWWA7x3ZDrzG9CGSPZ4zI2S4lLj6BitkpM31E1HosXg1VqDabVtm4jDvfM69t6TNf6ZGl8BH-JEMWzNLONESz1h82nkQ_gOSoWGOvKcJob7ok9O7criZkj1w37gRBUxXO_Ks0p2ZEVzDXLn0tga7AyelPeDhOTd3F7F1Bh7O5h7cNLEl15pW8A&q=Ryoji+Ikeda&sa=X&ved=2ahUKEwixsP_ZlPiVAxXSna8BHZJ1HdgQtKgLegQIIxAB&biw=1352&bih=844&dpr=2#sv=CAMSURoyKhBlLVhTRi1iMG4yLWJPU0NNMg5YU0YtYjBuMi1iT1NDTToOQXZ6YTJjNzh2LWVvUE0gBCoXCgFzEhBlLVhTRi1iMG4yLWJPU0NNGAEwARgHIPLrhpsESggQARgBIAEoAQ",
+    "image": "1b554c6075ed6b752ff2a00292b7658e.jpg"
+  },
+  {
+    "artist": "Rafael Lozano-Hemmer's 'TECHS-MECHS' at Gray Area | KQED",
+    "category": "light",
+    "url": "https://www.kqed.org/arts/13927028/reclaiming-the-technology-of-surveillance-and-deportation",
+    "image": "https___www_kqed_org_arts_13927028_reclaiming_the_technology_of_surveillance_and_deportation.jpg"
+  },
+  {
+    "artist": "Krzysztof Wodiczko",
+    "category": "media projector",
+    "url": "https://www.google.com/search?sca_esv=6f93171fcacd3140&rlz=1C5CHFA_enKR1016KR1017&sxsrf=APpeQntsT2ek4oLnUuAxj2jhGL1H6Ch8Pg:1785337920372&udm=2&fbs=ABfTbFUgt-aXEFkBhPo84x72c1XoLHFs6TcISYM3FayWAWWA7x3ZDrzG9CGSPZ4zI2S4lLjahG8WC85AFbgHa_h6Y7Pns5L0Je8-rxCe2EjJJS_CdtBhaAFfvb2qvGvpnJS2-GcVNz4mRyQjfE3ZiUtJQIoKu74hnOgjb0-DtiFK-tSK6iYsX4UEYBzPcxToVi7F02wbfmQ-N7cSl5Ij4WwsmijJ5Vmcuw&q=Krzysztof+Wodiczko&sa=X&ved=2ahUKEwjqxrCElviVAxVmka8BHeChKuEQtKgLegQIKhAB&biw=1352&bih=844&dpr=2#sv=CAMSURoyKhBlLVdQdDZCTFA2TUttZ3JNMg5XUHQ2QkxQNk1LbWdyTToOaDJTYng0bWFSN3ZUZ00gBCoXCgFzEhBlLVdQdDZCTFA2TUttZ3JNGAEwARgHIJLFkKUGSggQARgBIAEoAQ",
+    "image": "8c82feee62bd0d73e0aa8701f826bf39.jpg"
+  },
+  {
+    "artist": "Tim White-Sobieski",
+    "category": "moving image",
+    "url": "https://www.google.com/search?q=Tim+White-Sobieski+Work&sca_esv=d0f0a50eee896748&rlz=1C5CHFA_enKR1016KR1017&udm=2&biw=1352&bih=844&sxsrf=APpeQntkbN1mDci2jgKHEqCOz1z-QUr7aw%3A1785338024757&ei=qBhqatHxLf3h2roPyZKSkQM&ved=0ahUKEwjR5ZO2lviVAxX9sFYBHUmJJDIQ4dUDCBE&uact=5&oq=Tim+White-Sobieski+Work&gs_lp=Egtnd3Mtd2l6LWltZyIXVGltIFdoaXRlLVNvYmllc2tpIFdvcmtIzgFQAFgAcAB4AJABAJgBcaABcaoBAzAuMbgBA8gBAPgBAZgCAKACAJgDAJIHAKAHDLIHALgHAMIHAMgHAIAIAQ&sclient=gws-wiz-img",
+    "image": "6dd86a30a7b4f36f6de7900620601aab.jpg"
+  },
+  {
+    "artist": "Hans Haacke – News",
+    "category": "paper, printer",
+    "url": "https://www.google.com/search?sca_esv=2b39e52bb6588597&rlz=1C5CHFA_enKR1016KR1017&sxsrf=AE3TifNCHRrMECFkR7MRNWH9-EceUa-Uag:1751693255571&q=Hans+Haacke+%E2%80%93+News&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeqDdErwP5rACeJAty2zADJjYuUnSkczEhozYdaq1wZrEWeBTRRMkGx8PE2F9zI9kP0W9slwfD0e_E2SCYpxxEsASI-LxkVBvfu-XibWr_YDicyb17E6vKrWBOlLdgfdjFpLOhNCkwKiTYaFviHAaGJoUkT5_nrzWq6VkkQdeHpPTQCkROQ&sa=X&ved=2ahUKEwj0z4Py_aSOAxVOr1YBHXLxLFQQtKgLKAF6BAgSEAE&biw=1352&bih=722&dpr=2",
+    "image": "6c5be625cc8feba88831c7aff4d086db.jpg"
+  },
+  {
+    "artist": "Evan Roth – Since You Were Born",
+    "category": "print, data",
+    "url": "https://www.google.com/search?sca_esv=2b39e52bb6588597&rlz=1C5CHFA_enKR1016KR1017&sxsrf=AE3TifNKWY2sMNuwFfPYYQRlYizBKdcpuw:1751693277613&q=Evan+Roth+%E2%80%93+Since+You+Were+Born&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeoJTKjrFjVxydQWqI2NcOhYPURIv2wPgv_w_sE_0Sc6QogS5TvEDp7UpbJYBVowPixqwW1m3RxusXeC54mlaBumYN3u5pfCqB-oD9qPx3--36jwPvwXF481XLcW0wm9wTFZg8MxVNkucSTVoDxu97yIqWjecv87wfZ07E_JMn8zO1mG5vQ&sa=X&ved=2ahUKEwjK_sT8_aSOAxU4s1YBHYbkMNUQtKgLKAF6BAgZEAE&biw=1352&bih=722&dpr=2#vhid=Qu9_JuiggOlUgM&vssid=mosaic",
+    "image": "ad81d69f61da212953698ef23dbedf29.jpg"
+  },
+  {
+    "artist": "wes anderson north korea interior",
+    "category": "north korea",
+    "url": "https://www.google.com/search?q=wes+anderson+north+korea+interior&sca_esv=f5ebe8c14457f75d&rlz=1C5CHFA_enKR1016KR1017&udm=2&biw=1352&bih=722&sxsrf=AE3TifM-I2OB1ZL6Npdjp7PgYYv9w4BIUg%3A1760248954226&ei=ekTraJzIDdPm1e8PmPfygA0&ved=0ahUKEwic7Yet_p2QAxVTc_UHHZi7HNAQ4dUDCBE&uact=5&oq=wes+anderson+north+korea+interior&gs_lp=Egtnd3Mtd2l6LWltZyIhd2VzIGFuZGVyc29uIG5vcnRoIGtvcmVhIGludGVyaW9ySPKeAVAAWNidAXAFeACQAQCYAYgBoAGwI6oBBDAuMze4AQPIAQD4AQGYAh-gAtEbqAIAwgILEAAYgAQYsQMYgwHCAgQQABgDwgIIEAAYgAQYsQPCAgUQABiABMICChAAGIAEGEMYigXCAgcQABiABBgKwgIEEAAYHsICBhAAGAoYHsICBhAAGAUYHsICBhAAGAgYHpgDApIHBDMuMjigB6F2sgcEMC4yOLgHxRvCBwcwLjE0LjE3yAdc&sclient=gws-wiz-img#vhid=NE3HYMxkUrVs_M&vssid=mosaic",
+    "image": "30aca970f80cb018e997550bd94fe70b.jpg"
+  },
+  {
+    "artist": "켄 오키시로 (Ken Okiishi) – Gesture/Data",
+    "category": "drawing",
+    "url": "https://www.google.com/search?sca_esv=78f075c4f91bed6c&sxsrf=AE3TifONgnRSpiwhWOQ27JAm4ixTXSlfXw:1751807416207&q=%EC%BC%84+%EC%98%A4%ED%82%A4%EC%8B%9C%EB%A1%9C+(Ken+Okiishi)+%E2%80%93+Gesture/Data&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeoJTKjrFjVxydQWqI2NcOhZVmrJB8DQUK5IzxA2fZbQFrCfZ7DsBw9Vv9Qkv56j2AIKCyJ21VHYsv-0dwmE3xOIXbd8hQk-ETjo0d0mFKxEPPZxqJ43ItbdqnilTxzmqal91DWOK1tBQb7Z_v10rB-5VQDZh3R4w7mGaVJv5D2rAExabQg&sa=X&ved=2ahUKEwjQ9YeWp6iOAxWLs1YBHY1IKP8QtKgLKAF6BAgUEAE&biw=1920&bih=958&dpr=2#vhid=M15cNM4hvuUerM&vssid=mosaic",
+    "image": "15d9494b22fb0d33f27e2a262bf36793.jpg"
+  },
+  {
+    "artist": "Diana Thater",
+    "category": "installation",
+    "url": "https://www.davidzwirner.com/artists/diana-thater",
+    "image": "https___www_davidzwirner_com_artists_diana_thater.jpg"
+  },
+  {
+    "artist": "Pipilotti Rist: 4th Floor to Mildness - Portland Art Museum",
+    "category": "installation",
+    "url": "https://portlandartmuseum.org/event/pipilotti-rist/",
+    "image": "https___portlandartmuseum_org_event_pipilotti_rist_.jpg"
+  },
+  {
+    "artist": "Samson Young - Artists - Petzel Gallery",
+    "category": "installation",
+    "url": "https://www.petzel.com/artists/samson-young",
+    "image": "https___www_petzel_com_artists_samson_young.jpg"
+  },
+  {
+    "artist": "Dan Flavin",
+    "category": "light",
+    "url": "https://www.davidzwirner.com/artists/dan-flavin",
+    "image": "https___www_davidzwirner_com_artists_dan_flavin.jpg"
+  },
+  {
+    "artist": "walid raad atlas group",
+    "category": "archive",
+    "url": "https://www.google.com/search?sca_esv=8770e74ec2be9912&rlz=1C5CHFA_enKR1016KR1017&sxsrf=ANbL-n7pxFLIbst99V1INQP4-RtmHIYqvA:1768355567907&q=walid+raad+atlas+group&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-bFm2ZlpafR9BavZ5HqITaOgK_SxNzrebxM4rneUQOHGVlF0YLNISADAmRr07He0hLTMzNFR2oHHqWPGYemAjeut8KvDUBq65nNHuYWVrgyBKZK8Nm7MDY_OT6k2YjdtubeUzVw&udm=2&sa=X&ved=2ahUKEwihyNjr9YmSAxXx4jQHHf3ID6wQxKsJKAR6BAgSEAE&ictx=0&biw=1352&bih=844&dpr=2&aic=0#sv=CAMSURoyKhBlLUFTMUxhakJQWlBNZi1NMg5BUzFMYWpCUFpQTWYtTToOV0hGNmEyNDJRRUlOYk0gBCoXCgFzEhBlLUFTMUxhakJQWlBNZi1NGAEwARgHINaxxokBSggQARgBIAEoAQ",
+    "image": "e90fc84bfed61751278ee7dedc8b44ba.jpg"
+  },
+  {
+    "artist": "Danh Vo",
+    "category": "sculpture",
+    "url": "https://www.google.com/search?tbnid=GTNVOk3VGE0YkM&tbnh=0&tbnw=0&cs=0&rlz=1C5CHFA_enKR1016KR1017&sca_esv=540cd09fb70162eb&sxsrf=ANbL-n7OU_ibDiqgFEoUvUpA0FDiBGP5Dw:1768978091904&udm=2&tbs=rimg:CRkzVTpN1RhNYRq5hOIxm7tw4AIA&q=Danh+Vo&sa=X&ved=2ahUKEwji95_2hJySAxUebfUHHVFAMXwQuIIBegQIUxAA&biw=1352&bih=844&dpr=2&aic=0#sv=CAMSURoyKhBlLUtLT1B3cGc2b3BPY3lNMg5LS09Qd3BnNm9wT2N5TToOaFlaN0Y0eXdPWmRLdE0gBCoXCgFzEhBlLUtLT1B3cGc2b3BPY3lNGAEwARgHIIOD5LoOSggQARgBIAEoAQ",
+    "image": "b3ff7dca6d97de343f1588f40cc5c275.jpg"
+  },
+  {
+    "artist": "Olga Balema",
+    "category": "neon",
+    "url": "https://artreview.com/olga-balema-there-is-no-outside-of-language/",
+    "image": "https___artreview_com_olga_balema_there_is_no_outside_of_language_.jpg"
+  },
+  {
+    "artist": "Monika Sosnowska",
+    "category": "ceil installation",
+    "url": "https://www.moma.org/calendar/exhibitions/7/installation_images/1585",
+    "image": "https___www_moma_org_calendar_exhibitions_7_installation_images_1585.jpg"
+  }
+]
