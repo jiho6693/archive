@@ -7,12 +7,14 @@ const imagesURL = new URL('../images/', scriptBase);
 const sheetId = '1378-w6EsdCVsaU6xkx9voDxWOF2eNBywt5HHkrVKs_4';
 const sheetName = 'REF';
 const sheetURL = `https://docs.google.com/spreadsheets/d/${sheetId}/gviz/tq?sheet=${encodeURIComponent(sheetName)}&tq=${encodeURIComponent('select *')}`;
+let animateNextRender = true;
 
 async function refreshEntries({ showError = false } = {}) {
   try {
     const entries = await loadEntries();
     data.splice(0, data.length, ...entries.reverse());
-    render(data);
+    render(data, { animate: animateNextRender });
+    animateNextRender = false;
   } catch {
     if (showError) grid.innerHTML = '<p class="archive-error">The Google Sheet is unavailable right now.</p>';
   }
@@ -72,18 +74,22 @@ function filenameFor(url) {
   return safeName.length > 250 ? '' : `${safeName}.jpg`;
 }
 
-function render(rows) {
+function render(rows, { animate = false } = {}) {
   const keyword = searchInput.value.toLowerCase();
   const visibleRows = rows.filter((row) => Object.values(row).join(' ').toLowerCase().includes(keyword));
-  grid.replaceChildren(...visibleRows.map(createCard));
+  grid.replaceChildren(...visibleRows.map((row, index) => createCard(row, index, animate)));
 }
 
-function createCard(row) {
+function createCard(row, index, animate) {
   const artist = row.artist || 'Untitled';
   const category = row.category || 'Uncategorised';
   const link = row.url || '';
   const card = document.createElement(link ? 'a' : 'article');
   card.className = 'archive-card';
+  if (animate) {
+    card.classList.add('archive-card--enter');
+    card.style.animationDelay = `${Math.min(index * 12, 650)}ms`;
+  }
   if (link) { card.href = link; card.target = '_blank'; card.rel = 'noreferrer'; }
   const preview = document.createElement('div');
   preview.className = 'archive-preview';
