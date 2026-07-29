@@ -2,9 +2,6 @@ name: Sync archive screenshots
 
 on:
   workflow_dispatch:
-  schedule:
-    # 03:00 Asia/Seoul (18:00 UTC the previous day)
-    - cron: '0 18 * * *'
 
 permissions:
   contents: write
