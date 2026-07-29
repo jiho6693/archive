@@ -16,7 +16,7 @@ a { color: inherit; text-decoration: none; }
 .archive-preview { position: relative; height: 165px; overflow: hidden; background: #fff; }
 .archive-preview::before { content: 'NO PREVIEW'; position: absolute; left: 7px; bottom: 6px; color: rgba(0, 0, 0, .55); font-size: 8px; }
 .archive-preview img { position: relative; display: block; width: 100%; height: 100%; object-fit: cover; transition: transform .25s ease; }
-.archive-card:hover img { transform: scale(1.03); }
+.archive-card:hover img { transform: scale(1.12); }
 .archive-details { min-height: 15px; padding: 7px; display: grid; grid-template-rows: auto 1fr; gap: 5px; }
 .archive-artist, .archive-category { margin: 0; }
 .archive-artist { font-size: 12px; line-height: 1; }
