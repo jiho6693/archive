@@ -91,7 +91,7 @@ form.addEventListener('submit', async (event) => {
     });
     const entryResult = await entryResponse.json();
     if (!entryResponse.ok || !entryResult.ok) throw new Error(entryResult.error || 'Local gallery update failed');
-    setStatus('SAVED: IMAGE + SHEET UPDATED');
+    setStatus(entryResult.committed ? 'SAVED + COMMITTED' : 'SAVED: IMAGE + SHEET UPDATED');
   } catch (error) {
     setStatus(`ERROR: ${error.message}`);
   }
