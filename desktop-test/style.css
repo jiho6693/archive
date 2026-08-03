@@ -3,6 +3,8 @@
 html { max-width: 100%; overflow-x: clip; overscroll-behavior-x: none; }
 body { min-height: 100dvh; max-width: 100%; margin: 0; overflow-x: clip; overscroll-behavior-x: none; background: #fff; color: #000; font: 12px/1 ArchiveMono, monospace; letter-spacing: -.02em; }
 a { color: inherit; text-decoration: none; }
+.archive-search-dot { position: fixed; z-index: 11; top: calc(3rem - 9px); left: calc(4.5% - 45px); width: 30px; height: 30px; border-radius: 50%; background: #000000; pointer-events: none; }
+.archive-search-dot--lower { top: calc(3rem + 21px); }
 .archive-main { padding: 5.5rem 4.5% 56px; }
 .archive-toolbar { position: fixed; z-index: 10; top: 0; left: 0; width: 100%; height: 5.5rem; padding-left: 4.5%; background: #fff; }
 .archive-toolbar::after { content: ''; position: absolute; right: 4.5%; bottom: 0; left: 4.5%; height: 1px; background: #000; }
@@ -12,7 +14,7 @@ a { color: inherit; text-decoration: none; }
 .archive-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 4px; }
 .archive-card { background: #fff; transition: background-color .15s ease; }
 .archive-card--enter { animation: card-enter .24s ease-out both; }
-.archive-card:hover { background: #ff2a16; color: #fff; }
+.archive-card:hover { background: #eaff00; color: #000; }
 .archive-preview { position: relative; height: 165px; overflow: hidden; background: #fff; }
 .archive-preview::before { content: 'NO PREVIEW'; position: absolute; left: 7px; bottom: 6px; color: rgba(0, 0, 0, .55); font-size: 8px; }
 .archive-preview img { position: relative; display: block; width: 100%; height: 100%; object-fit: cover; transition: transform .25s ease; }
@@ -21,7 +23,7 @@ a { color: inherit; text-decoration: none; }
 .archive-artist, .archive-category { margin: 0; }
 .archive-artist { font-size: 12px; line-height: 1; }
 .archive-category { color: #686762; line-height: 1.1; font-size: 9px; }
-.archive-card:hover .archive-category { color: #fff; }
+.archive-card:hover .archive-category { color: #000; }
 .archive-error { padding: 20px 0; }
 @keyframes card-enter { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
 @media (prefers-reduced-motion: reduce) { .archive-card--enter { animation: none; } }
@@ -29,10 +31,12 @@ a { color: inherit; text-decoration: none; }
 @media (max-width: 800px) { .archive-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
 @media (max-width: 560px) {
   .archive-main { padding: 4.3rem 14px 28px; }
-  .archive-toolbar { height: 4.3rem; padding-left: 14px; }
+  .archive-toolbar { height: 4.3rem; padding-left: 58px; }
   .archive-toolbar::after { right: 14px; left: 14px; }
-  #search-input { top: 2.3rem; left: 14px; }
-  #search-input:focus { width: calc(100vw - 28px); }
+  #search-input { top: 2.3rem; left: 58px; }
+  #search-input:focus { width: calc(100vw - 72px); }
+  .archive-search-dot { top: calc(2.3rem - 9px); left: 14px; }
+  .archive-search-dot--lower { top: calc(2.3rem + 21px); }
   .archive-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 3px; }
   .archive-preview { height: 145px; }
   .archive-details { padding: 6px; gap: 4px; }
