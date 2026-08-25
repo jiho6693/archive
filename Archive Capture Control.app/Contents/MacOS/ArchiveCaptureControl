@@ -1,16 +1,42 @@
 #!/bin/zsh
 
-launch_domain="gui/501"
+launch_domain="gui/$(/usr/bin/id -u)"
 service_label="com.jiho.archive-capture-receiver"
 service_target="${launch_domain}/${service_label}"
-plist_path="/Users/ji-ho/Library/LaunchAgents/com.jiho.archive-capture-receiver.plist"
-archive_path="/Users/ji-ho/Documents/GitHub/archive"
+archive_path="$(cd "$(dirname "$0")/../../.." && pwd)"
+plist_path="${HOME}/Library/LaunchAgents/${service_label}.plist"
+
+create_launch_agent() {
+  local node_path
+  for node_path in /usr/local/bin/node /opt/homebrew/bin/node; do
+    [[ -x "$node_path" ]] && break
+  done
+  if [[ ! -x "$node_path" ]]; then
+    /usr/bin/osascript -e 'display dialog "Node.js is not installed. Install it, then open this app again."'
+    return 1
+  fi
+
+  /bin/mkdir -p "${HOME}/Library/LaunchAgents"
+  /usr/libexec/PlistBuddy -c 'Clear dict' "$plist_path" 2>/dev/null || /usr/libexec/PlistBuddy -c 'Add : dict' "$plist_path"
+  /usr/libexec/PlistBuddy -c "Add :Label string ${service_label}" "$plist_path"
+  /usr/libexec/PlistBuddy -c 'Add :ProgramArguments array' "$plist_path"
+  /usr/libexec/PlistBuddy -c "Add :ProgramArguments:0 string ${node_path}" "$plist_path"
+  /usr/libexec/PlistBuddy -c "Add :ProgramArguments:1 string ${archive_path}/scripts/manual-capture-receiver.js" "$plist_path"
+  /usr/libexec/PlistBuddy -c "Add :WorkingDirectory string ${archive_path}" "$plist_path"
+  /usr/libexec/PlistBuddy -c 'Add :RunAtLoad bool true' "$plist_path"
+  /usr/libexec/PlistBuddy -c 'Add :KeepAlive bool true' "$plist_path"
+  /usr/libexec/PlistBuddy -c 'Add :StandardOutPath string /private/tmp/archive-capture-receiver.log' "$plist_path"
+  /usr/libexec/PlistBuddy -c 'Add :StandardErrorPath string /private/tmp/archive-capture-receiver-error.log' "$plist_path"
+}
 
 choice=$(/usr/bin/osascript -l AppleScript -e 'choose from list {"Start receiver", "Stop receiver", "Update missing images", "Publish archive", "Check status"}')
 
 case "$choice" in
   "Start receiver")
-    if /bin/launchctl bootstrap "$launch_domain" "$plist_path" 2>/tmp/archive-capture-control-error; then
+    if /bin/launchctl print "$service_target" >/dev/null 2>&1; then
+      /bin/launchctl kickstart -k "$service_target"
+      /usr/bin/osascript -e 'display dialog "The capture receiver is already installed and running."'
+    elif create_launch_agent && /bin/launchctl bootstrap "$launch_domain" "$plist_path" 2>/tmp/archive-capture-control-error; then
       /usr/bin/osascript -e 'display dialog "The capture receiver is running."'
     else
       error_message=$(< /tmp/archive-capture-control-error)
