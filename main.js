@@ -201,4 +201,3 @@ function isURL(str) {
         return false;
     }
 }
-

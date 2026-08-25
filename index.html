@@ -1,34 +1,20 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="style.css">
-
-<!-- 웹에 공유되어있는 라이브러리 불러오기 -->
-
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Archive</title>
+  <link rel="stylesheet" href="desktop-test/style.css">
 </head>
-<body>
-
-
-<div class="box">
-</div>
-<div class="index">
-    <a href="image.html"> INDEX -> IMAGE</a>
-</div>
-<input type="text" id="search-input" placeholder="Search  ">
-<div class="line"><hr /></div>
-
-
-
-<!-- googlesheet data -->
-<div class="googlesheet">
-
-  
-<table class="output"></table>
-</div>
-
-<script src="main.js"></script>
-
-
+<body class="archive-page">
+  <div class="archive-search-dot" aria-hidden="true"></div>
+  <div class="archive-search-dot archive-search-dot--lower" aria-hidden="true"></div>
+  <main class="archive-main">
+    <div class="archive-toolbar">
+      <input type="search" id="search-input" placeholder="Search" autocomplete="off">
+    </div>
+    <section class="archive-grid" aria-live="polite"></section>
+  </main>
+  <script src="desktop-test/main.js"></script>
 </body>
 </html>

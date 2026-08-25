@@ -1,0 +1,18 @@
+@font-face { font-family: ArchiveMono; src: url('fonts/FiraCode-Regular.ttf'); }
+* { box-sizing: border-box; }
+body { margin: 0; background: #fff; color: #000; font: 12px/1 ArchiveMono, monospace; }
+a { color: inherit; text-decoration: none; }
+.keyword-header { position: sticky; z-index: 2; top: 0; display: flex; align-items: baseline; justify-content: space-between; min-height: 5.5rem; padding: 3rem 4.5% 1rem; background: #fff; border-bottom: 1px solid #000; }
+.keyword-back { color: #ff0000; }
+.keyword-header p { margin: 0; color: #666; font-size: 10px; }
+main { padding: 24px 4.5% 56px; }
+#keyword-search { width: 12rem; height: 1.4rem; padding: 0; border: 0; border-bottom: 1px solid #000; outline: 0; background: transparent; color: #000; font: inherit; }
+.territory-wrap { position: relative; min-height: 600px; margin-top: 30px; border: 1px solid #000; overflow: hidden; }
+#keyword-territory { display: block; width: 100%; height: 600px; }
+#keyword-selected { position: absolute; right: 12px; bottom: 10px; margin: 0; padding: 4px; background: #fff; font-size: 10px; }
+@media (max-width: 560px) {
+  .keyword-header { min-height: 4.3rem; padding: 2.3rem 14px .8rem; }
+  main { padding: 20px 14px 32px; }
+  .territory-wrap { min-height: 480px; }
+  #keyword-territory { height: 480px; }
+}

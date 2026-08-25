@@ -1,0 +1,27 @@
+name: Sync archive screenshots
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npx puppeteer browsers install chrome
+      - run: npm run sync:archive
+      - name: Commit new archive assets
+        run: |
+          git config user.name "archive-sync[bot]"
+          git config user.email "archive-sync[bot]@users.noreply.github.com"
+          git add archive-data.json images
+          git diff --cached --quiet || git commit -m "chore: sync archive screenshots"
+          git push

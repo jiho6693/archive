@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Archive — relationships</title>
+  <link rel="stylesheet" href="keywords.css">
+</head>
+<body>
+  <header class="keyword-header">
+    <a class="keyword-back" href="index.html">ARCHIVE</a>
+    <p id="keyword-summary" aria-live="polite">READING RELATIONSHIPS…</p>
+  </header>
+  <main>
+    <input id="keyword-search" type="search" list="keyword-suggestions" placeholder="Choose a keyword" autocomplete="off" aria-label="Choose a keyword">
+    <datalist id="keyword-suggestions"></datalist>
+    <section class="territory-wrap" aria-label="Keyword co-occurrence network">
+      <canvas id="keyword-territory"></canvas>
+      <p id="keyword-selected" aria-live="polite"></p>
+    </section>
+  </main>
+  <script src="keywords.js"></script>
+</body>
+</html>

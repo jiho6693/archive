@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Archive Capture",
+  "version": "1.0.0",
+  "description": "Capture the current page and add its archive metadata to Google Sheets.",
+  "permissions": ["activeTab", "tabs", "storage"],
+  "host_permissions": [
+    "http://127.0.0.1:4312/*",
+    "https://script.google.com/*",
+    "https://script.googleusercontent.com/*"
+  ],
+  "action": {
+    "default_title": "Archive Capture",
+    "default_popup": "popup.html"
+  }
+}

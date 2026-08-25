@@ -1,0 +1,13 @@
+* { box-sizing: border-box; }
+body { width: 340px; margin: 0; background: #fff; color: #000; font: 11px/1.2 monospace; }
+main { padding: 14px; }
+h1 { margin: 0 0 20px; font-size: 14px; font-weight: normal; }
+label { display: block; margin: 0 0 12px; font-size: 9px; }
+input { display: block; width: 100%; margin-top: 5px; padding: 6px 0; border: 0; border-bottom: 1px solid #000; border-radius: 0; outline: 0; background: #fff; color: #000; font: 11px monospace; }
+input:focus { border-bottom-color: #ff2600; }
+input[readonly] { color: #777; }
+button { width: 100%; padding: 9px; border: 1px solid #000; border-radius: 0; background: #fff; color: #000; font: 10px monospace; cursor: pointer; }
+button:hover { border-color: #ff2600; background: #ff2600; color: #fff; }
+details { margin-top: 18px; border-top: 1px solid #000; }
+summary { padding: 10px 0; cursor: pointer; font-size: 9px; }
+#status { min-height: 15px; margin: 12px 0 0; color: #ff2600; font-size: 9px; }
